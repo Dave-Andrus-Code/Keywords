@@ -1,0 +1,2604 @@
+Summary
+
+As the Data Engineering Manager you’ll be responsible for working with the Sourcing IQ leadership and managing the analytics team to develop and verify requirements, define architecture, develop an implementation plan and provide thought leadership for all data solutions.
+
+
+You will provide leadership and technical direction to a small team of data engineers and analysts overseeing the development, testing and documentation for all technical solutions used by the analytics team. Success in this role will require you to be experienced with Cloud-based Data Solution Architectures, Software Development Life Cycle, Data Engineering and ETL tools/platforms, and data modeling practices.
+
+
+Responsibilities/Role:
+
+Experienced technical leader with a proven track record of delivering impactful results.
+High-energy self-starter with experience and passion for data.
+Enjoys working in fast-paced environments and loves making an impact.
+Proactively drive the design, building, and launching of new data solutions.
+Develop and execute a data roadmap aligned with Sourcing IQ leadership and analytics team.
+Exceptional communication skills and ability to translate technical concepts into easy to understand language for leadership and stakeholders.
+Comfortable working with a remote team; you value collaborating on problems, asking questions, and delivering high quality solutions.
+Maintain and support existing systems and customers.
+
+
+Qualifications:
+
+Bachelor's degree in Computer Science, Information Systems, Engineering or 5+ years work experience.
+
+3+ years of experience in the following:
+
+Managing a small team of data professionals.
+Leading and architecting medium to large scale data infrastructure, modeling and reporting.
+Detailed knowledge of data warehouse technical architectures, infrastructure components, ETL/ ELT and reporting/analytic tools.
+Working with distributed compute engine (Spark, Presto, DBT, or Flink/Beam)
+Query optimization, resource allocation and management, and data lake performance
+Cloud infrastructure (Google Cloud, Kubernetes, Terraform)
+Security products and methods (Apache Ranger, Apache Knox, OAuth, IAM, Kerberos)
+Modern Big-Data storage technologies (Iceberg, Hudi, Delta)
+Using Cloud based Data Warehouses such as Redshift, Snowflake, BigQuery, Synapse etc.
+Using workflow orchestration tools such as Airflow, Oozie, AWS Step Function, AWS Step Function etc.
+Big Data Distributed systems such as Databricks, AWS EMR, Confluent etc.
+Monitoring tools/frameworks, like Splunk, Grafana, CloudWatch etc.
+
+TransUnion's Job Applicant Privacy Notice
+
+What We'll Bring
+
+At TransUnion, we strive to build an environment where our associates are in the driver’s seat of their professional development, while having access to help along the way. We encourage everyone to pursue passions and take ownership of their careers. With the support of colleagues and mentors, our associates are given the tools needed to get where they want to go. Regardless of job titles, our associates have the opportunity to learn new things and be a leader every day.
+
+Come be a part of our team – you’ll work with great people, pioneering products and cutting-edge technology.
+
+What You'll Bring
+5-7 years of experience.
+Bachelor’s or Master’s degree in Engineering (all disciplines)
+5+ years of experience in ingestion of client data and turning it into insightful analytics and reports
+Demonstrated strength in SQL, Oracle, Postgres, Python, VBA, redshift
+Exposure to AWS technologies– S3, Redshift, Postgre SQL, Dynamo DB, EC2, Data Lake formation, AWS Glue, Step Functions, ECS, ECR,Lambda, Fargate, EMR, Cloud formation
+Experience with EMR, Hadoop, Hive, Spark or other big data technologies
+Familiarity with concepts of data lake, cloud architecture, big data analytics (Kinesis, Athena)
+Strong data management, analytical, communication and interpersonal skills.
+Demonstrated ability to work creatively and analytically.
+Ability to effectively communicate at different levels in and across the organization and to articulate to non-technical and technical audiences.
+Demonstrated problem solving and root cause analysis skills
+Optional: Background or work experience in Retail Banking Industry is preferred
+Eagerness to contribute in a team-oriented environment
+Impact You'll Make
+
+Your responsibilities will include managing team, projects or individuals loading, validating, processing client data, and producing Business Intelligence reporting on client data. You will work with leading Cloud Technologies to master the complex nuances in financial data received from customers. Some of the technologies that you will use are AWS, SQL Server, SQL server Reporting Services (SSRS), SQL Server Integration Services (SSIS), Visual Basic .Net , ASP, .NET, Python etc.
+Manage the CCPS or DAPS teams and be involved in AWS Migration, Develop and support new implementation on cloud, Assist team on trouble shooting processes
+Ensure smooth ingestion, processing, and validation of datasets across DAPS and other US and CA studies
+Develop new and improve existing products, processes, and methodologies.
+Support external and internal clients with projects
+Manage and mentor the team
+#Argus
+
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability status, veteran status, marital status, citizenship status, sexual orientation, gender identity or any other characteristic protected by law.
+
+During the COVID-19 pandemic, TransUnion has several safety protocols in place to protect associates, customers, and visitors. You may be required to be fully vaccinated against COVID-19 as a condition of employment and/or to participate in certain work-related activities. Exemption is available to qualified candidates as a reasonable accommodation.
+
+
+This role is 100% Remote!
+
+
+Data Engineering Manager
+
+
+Summary of Responsibilities:
+
+The Manager of Data Engineering will be accountable for the day-to-day management of our Data Engineering team.
+This team is responsible for the maintenance of existing and creation of new integrations to business systems.
+This individual will need to be knowledgeable and experienced in modern ETL practices as well as the latest related Azure technologies.
+
+Essential Duties:
+
+Drive the design, building, and launching of new data models and data pipelines in production.
+Manage the development of data resources and support new product launches.
+Define and manage SLA’s for all data sets and processes running in production.
+Experience scaling and managing 3+ person teams.
+Build cross-functional relationships with Data Scientists, Product Managers, User Experience Researchers and Software Engineers to understand data needs and deliver on those needs.
+Function as product owner for all integrations and the data lake
+This brief summary is not an all-inclusive description of job duties. Other job duties and responsibilities may also be assigned by the incumbent’s manager at any time based upon Company need.
+
+Required Education & Experience:
+
+7+ years of data integration experience
+3+ years of experience scaling and managing 3+ person teams.
+Strong understanding of: SQL Server, Azure Data Factory, SSIS, GitHub, Azure Logic Apps, Azure Functions, REST API's, SSIS
+Experience in a DevOps environment (Git, Azure DevOps)
+Communication and leadership experience, with experience initiating and driving projects.
+Define and evolve the enterprise data architecture and best practices in areas such as standards, processes, methodologies, applications, data modeling, etc.
+Define and maintain architecture standards and guidelines
+Project management experience.
+
+Preferred Education & Experience:
+
+Atlassian tools (Jira, Confluence, etc.)
+Must have worked within a multi-disciplined, cross-functional technical organization
+Strong oral and written interpersonal skills with the proven ability to influence and achieve alignment across a range of different opinions and interests.
+Deep Azure knowledge
+Azure Synapse or Snowflake
+
+Required Knowledge:
+
+Administration and Management — Knowledge of business and management principles involved in strategic planning, resource allocation, human resources modeling, leadership technique, production methods, and coordination of people and resources.
+Computers and Electronics — Knowledge of circuit boards, processors, chips, electronic equipment, and computer hardware and software, including applications and programming.
+Engineering and Technology — Knowledge of the practical application of engineering science and technology. This includes applying principles, techniques, procedures, and equipment to the design and production of various goods and services
+
+**No C2C or sponsorship available at this time**
+
+
+Company Description
+
+Our partner is a world leader in transportation equipment, leasing and asset management. They are in need of a team oriented and technically hands-on Data Engineering Lead who wants to move into a Manager role. To get onboard with this great company and work for a truly wonderful human, please apply today. We value diversity in the workplace and encourage women, minorities, and veterans to apply. Thank you!
+
+
+Location: US Remote
+
+Type: Permanent F/T
+
+
+Job Summary:
+
+The Data Engineering team is responsible for delivering a broad range of software capabilities including building data pipelines, managing the ETL/ELT processes, receiving and delivering data through various interfaces, and processing significant amounts of data related to logistics, liability, and financial calculations. As manager you will provide technical direction to the team and participate in development tasks. The duties for this position will be divided 50/50 between coding activities and management.
+
+
+Primary Responsibilities
+
+Write expert level Python code for data processing as well as ETL/ELT pipelines
+Coordinate with multiple teams on various data provisioning needs
+Coordinate with Data Owners, Business Analysts, and Product Owners as needed throughout the projects
+Contribute design ideas for complex data pipelines and ETL/ELT processes
+Mentor data engineering team members
+Perform code reviews for pull requests
+Participate in strategy sessions with other managers
+Perform one on one meetings with team members
+Guide employees through work milestones and career development
+
+Qualifications
+
+
+5+ years of data engineering or equivalent experience
+Hands on technical experience with Apache Spark / Azure Databricks
+Expert level coding experience with PySpark
+Expert level knowledge of relational databases and query authoring (SQL)
+Proven experience designing and implementing big data technologies (Hadoop, NoSQL, OLTP, and OLAP)
+Experience using and designing solutions on Azure Cloud infrastructure – Azure: both Data Factory & DevOps
+Experience working with a distributed event-streaming platform such as Kafka
+Experience working across multiple technical teams
+Understanding of core business intelligence and data warehousing technology
+Excellent communication skills particularly bridging conversations between data and business stakeholders
+Experience with software development practices such as Agile, TDD, and CICD
+Experience leading or managing a Data Engineering team, including employee recruitment
+Snowflake experience is a plus
+Any experience with graph databases or graph libraries is a plus
+Any experience with Amazon Deequ or similar tools is a plus
+Personal Attributes
+
+Exemplifies leadership characteristics in support of the development teams’ objectives
+Able to understand and communicate elegant solutions to complex problems and identify patterns at the technical level
+Able to analyze and optimize both technical and business processes
+Equally comfortable working with both technical and business stakeholders & sound judgement and decision-making with the appropriate sense of urgency
+
+Who are you?
+
+Are you a passionate Lead Data Engineer or Architect seeking to move into Management?
+Do you enjoy diversity in your role?
+Would you like the chance to gain some management experience, without stepping away from your craft?
+
+This exciting opportunity with our Global Media client will offer you a great split of technical challenges and people management, allowing you the opportunity to hone both sides of your skills.
+
+
+What else can you expect to enjoy?
+
+A salary of $160,000
+5% annual bonus
+15 vacation days | 7 personal days | + Sick days | + Bank/Public Holidays
+Equity Options
+Medical | Dental | Vision
+6% Matched 401(k)
+On-site fitness center
+Media and Retail perks
+Clear Career Development Path
+Unparalleled Paid Parental Leave
+
+Tech Stack:
+
+AWS | Python | SQL | RedShift | Airflow
+Employer-provided
+
+Pay range in United States
+Exact compensation may vary based on skills, experience, and location.
+Base salary
+$155,000/yr - $160,000/yr
+
+Benefits found in job post
+Retrieved from the description.
+
+401(k)
+
+Data Engineering Manager
+
+
+Department: Technology
+
+
+What Sets Us Apart
+
+
+At UMortgage, we have a customer-centric, service-based approach. We primarily focus on home purchases, providing an emphasis on consumer education, real estate agent relationships, and a personalized experience for home buyers. Our goal is to empower our team members to provide a best-in-class experience at all times while prioritizing long-lasting relationships.
+
+
+What We Need
+
+
+We are looking for a Data Engineering Manager to join our Systems Team. The Data Engineering Manager will be responsible for developing custom cloud based ETL processes. In collaboration with other data engineers and consultants, this person would manage the build out of our emerging data ecosystem and maintain data integrity and data pipelines after implementation. The ideal candidate will be a self-starter with an eagerness to learn and improve processes.
+
+
+What You’ll Do
+
+
+Develop complex ingestion and transformation processes using tools such as Talend, Python, SQL, AWS Lambda, and Snowflake.
+Responsible for the integration with databases to leverage APIs to pull and post data to other systems.
+Identify and respond to data quality and performance issues and drive solutions to improve data issues over time.
+Transition existing python APIs into AWS Lambda.
+Deploy and maintain Snowflake warehouse to support ongoing business needs and dynamic data solutions.
+Validate Snowflake and AWS environment readiness.
+Develop ETLs using tools such as Talend Integration Studio, Alteryx, and Python.
+Manage technical team members to complete company development goals
+
+What You’ll Need
+
+
+Bachelor’s Degree in Computer Science, Information Systems, or Software Engineering or equivalent combination of education and experience
+4-6+ years of professional experience in a data engineer capacity
+Expertise with Python (Pandas, Numpy, Request, preferred) and SQL
+Experience with AWS EC2, RDS, and Lambda (Solutions architect professional certification)
+ETL tools such as Alteryx, Talend, etc
+Experience developing and/or working with APIs
+Experience in big data analytics such as Snowflake or Hadoop
+Knowledge of database design and architecture: relational and non-relational
+
+Physical Requirements
+
+
+The physical requirements described here are representative of those that must be met by an employee in order to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+
+Must be able to stand, sit, and walk for extended periods of time
+Includes frequently reaching with hands and arms, and using hands to handle and feel
+Requires close vision, distance vision, peripheral vision, color vision, depth perception, and ability to adjust focus
+Must be able to perform activities with repetitive motions
+Must be able to work in an environment with variable noise levels
+
+About Data Axle:
+
+
+Data Axle Inc. has been an industry leader in data, marketing solutions, sales and research for 50 years. The company delivers mission critical data services to its global customers powered by its proprietary cloud-based technology platform and by leveraging proprietary business & consumer databases.
+
+
+Roles & Responsibilities:
+
+
+We are looking for a Manager, Data Engineering who will be responsible for managing engineering team resources across the Data Axle organization. This person will be a hands-on manager (onshore and offshore) and work with a number of applications, development languages and operating systems.
+
+
+Partner with product owners and development leads to implement strategies to meet the objectives set by senior executives.
+Responsible for the overall solution architecture and tech design, keeping it at its best shape, working closely with developers and engineers (onshore and offshore).
+Direct and oversee the day-to-day activities for development team(s).
+Drive sound architecture, build patterns, and create measurable, reusable efficiencies for our platforms
+Establish and direct the strategic and tactical goals for the teams, building a client and data driven technology organization improving the data quality, timeliness, accuracy and accessibility of data
+Responsible for solutions rolled out as PaaS, SaaS and IaaS services, and the decision on when to employ which of the above approach, in enabling cloud-services based solutions (AWS)
+Identify and direct opportunities for improvement to the overall development process, including but not limited to the software build and source control process, the software test process, code reviews, the pre-development requirements documentation process, and the release process.
+Other projects and responsibilities as assigned by executive leadership.
+
+Qualifications:
+
+
+5-7+ years of experience with Data Architecture, Data Warehousing, BI experience required.
+Experience with big data platforms in AWS required.
+Experience in design, development, and implementation of highly scalable, high-volume software systems and components, source of truth systems for different business areas.
+Experience in operations for API management platforms, shared capabilities and frameworks that enable federated Enterprise API development.
+Experience working with Data Privacy and Compliance frameworks across the globe (HIPAA, CCPA, GDPR etc.,).
+Background in roles focused extensively on (data/software/platform) architecture
+Big data integration & analytics required.
+Strong background in data modeling, data access, and data storage techniques.
+Substantiated experience raising the bar on team delivery performance and cultivating high performance work environments.
+Significant experience transforming team of teams and large-scale functions through technology, organization, culture, process, and business change management.
+Must be able to successfully hire, manage and evaluate staff, and provide technological leadership to optimize staff’s work.
+Ability to work in a complex, dynamic team environment with minimal supervision and possess good organizational skills.
+Excellent written and verbal communication skills with the ability to present complex technical information clearly and concisely to a variety of audiences.
+Experience with customer data platform (CDP) is preferred.
+MS / BS degree in Computer Science, Mathematics, Engineering, or related field.
+
+If you are a Colorado resident, please contact us or email us at colorado-applicants@data-axle.com to receive compensation and benefits information for this role. Please include the job title and/or job ID of the role you are interested in.
+
+
+Affirmative Action/EEO Statement:
+
+At Data Axle, we are committed to attracting, retaining, and engaging employees from all walks of life. Diversity is an important part of our values and business operations. We are dedicated to creating an inclusive environment that promotes professional development for everyone. As part of that commitment, Data Axle does not discriminate on the basis of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, marital status, status with regard to public assistance, status as a disabled veteran and or Vietnam Era or any other characteristic protected by federal, state, or local law. All qualified applicants will receive consideration for employment. In addition, Data Axle will provide reasonable accommodation for otherwise qualified disabled individuals.
+
+Our client has built the leading B2B platform for the fast growing commercial and building services
+
+industry. Their software provides rich data on every commercial property in the US and
+
+workflow software built on top of that. For their users who serve these properties, that data and
+
+workflow become a secret weapon; there's nothing else like it available in the market today. Their
+
+customers rely on the company to identify, win, and manage new growth opportunities
+
+
+The company has has raised over $60m USD and recent went through $30m Series B.
+
+
+They are looking to hire a Data Engineering Manager to lead a team. They particularly like people who have a background in Software Engineering. The team is responsible for builing scalable platforms that enable efficient data movement within the business across various sources, sinks, and support continuous data integration and processing with external enterprise systems via secure APIs and connectors.
+
+
+Data Engineering Manager Role:
+
+Lead a team to design and implement reusable solutions and architectures for data sharing and processing use cases
+Support and improve their multi-tenant data pipeline, processes, infrastructure, and stack
+Drive end-to-end performance, scaling, observability, and monitoring of platforms
+Create data governance models, including assets, relationships, domains, and communities
+
+Required qualifications:
+
+Bachelor’s degree in Computer Science or related technical field or equivalent practical experience
+7+ years of software backend/data engineering experience, including familiarity with data modeling, ETL, schema and system design, roadmap planning, batch processing, implementation, maintenance, and documentation
+2+ years of management experience
+Professional development experience in languages such as Python, Scala, Java, Go, etc.
+Experience with large-scale distributed storage and database systems (e.g. Postgres, ElasticSearch, Cassandra, Hadoop, etc)
+
+Additional Prefered Qualifications:
+
+Masters or Ph.D. in Computer Science or related field
+Experience building geospatial services and datasets, such as maps data
+Hands-on experience building Spark applications or similar Big Data pipelines / frameworks / services (e.g. Hadoop, Hive, Kafka, Presto, Beam, Parquet, Avro etc.)
+Familiarity with API integrations and development on respective CRM platforms
+Understanding of data science & machine learning use cases
+
+One of my high profile clients is looking to fill their Data Engineering Manager role. Our client offers an attractive benefits package and is committed to the values of accountability, curiosity, empathy, equity, nimbleness, partnership, and transparency. If this is something that interests you, come join us to really make your mark and do interesting, impactful work to innovate and deliver what’s Next.
+
+
+Must Have's
+
+Redshift
+
+AWS
+
+ETL or SSRS
+
+5+ years Data Engineering exp.
+
+
+Responsibilities:
+
+Lead a team of passionate data scientists and data engineers.
+Looking for a hands-on manager, who can build ETL, BI Reports, etc.
+Manage the day to day operations of running our Data Warehouse.
+Build data pipelines and ETLs for loading source system data into the data warehouse for further reporting and analysis.
+Assist in building scalable data models to support reporting and tracking of key business and product metrics.
+Build, analyze and manage reports and dashboards for business stakeholders.
+Help identify better practices, tools, and relevant trends that can positively influence the data operations across the business.
+
+Job Type:
+
+· Full-Time, Direct Hire
+
+
+Location:
+
+· Remote
+
+Optomi, along with a leading Financial Regulatory Agency, is looking to hire a Data Engineering Manager to lead a team and organize their data platform and data lakes. This role is fully remote, but candidates must be located in EST/CST.
+
+
+The ideal candidate will have strong experience in leading and managing Data Engineers in a financial services environment, be able to lead Scrum Ceremonies, strong experience using AWS Cloud tools, Big Data delivery experience, and have excellent communication skills (will have to collaborate with business partners and a variety of stakeholders.) This individual will also be very hands on and participate in development.
+
+
+Desired Experience:
+
+AWS cloud experience with depth in big data processing and analytics, S3 data lakes, Java-based APIs
+5-7 years managing software development in a highly regulated environment like Financial Services
+Proven track record developing platform solutions and running shared services in an enterprise
+Excellent communication skills to be able to communicate effectively with staff, other products teams, senior management, and customers
+Ability to develop strategies and solutions of high business value while becoming a trusted partner of business users and executives
+Strong and creative analytical and problem-solving skills
+Experience with implementing process improvements to raise the bar of software quality and delivery
+Strategic thinker who can look ahead to long term impacts of decisions
+Excellent interpersonal skills including mentoring, coaching, collaborating, and team building
+Promote team empowerment, ensure that team members are fully engaged in the project and making a meaningful contribution, and encourage a sustainable pace
+
+Lob was built by technical co-founders with a vision to make the world programmable.
+
+We offer two flagship APIs (print & mail and address verification) that enable companies to send postal mail as effortlessly as sending emails. Lob is venture-backed by the most reputable investors in tech, and we are rapidly growing our team to shape the future of our company and meet the demands of a quickly growing customer base and dynamic product offerings.
+
+As a proud Pledge 1% company, we’re committed to leveraging our product, partnerships, and people to drive positive social impact through Lob.org, and are on a mission to make direct mail more sustainable.
+
+We offer remote working opportunities, unless otherwise described in the job description, in AZ, CA, CO, DC, GA, IL, MA, MD, MI, MN, NC, NV, NY, OR, PA, TX, UT, and WA. You can also work onsite at our San Francisco headquarters.
+
+If you are looking for a progressive, fun-spirited, and mentally stimulating environment, come join us at Lob!
+
+About The Team
+
+At Lob, we love data: we believe that data is one of the most important edges we have in an industry that’s ripe for innovation. From internal teams to external customers, we’ve already seen the incredible power data has to offer and are ready to take this effort to the next level as we transform the direct mail and print industry by building data products.
+
+This role will lead a team of data engineers, scientists, and analysts, cultivating the existing foundation of data products across the whole of Lob. Our work interfaces with stakeholders from product, operations, finance, and the leadership team as well as external customers. In the first six months, you’ll develop a data strategy for Lob and lead the team on execution of key data products.
+
+As Senior Engineering Manager, Data you’ll...
+Craft a vision and direction for data products at Lob–our leadership team believes that data is one of the key value props we bring to an industry ripe for technological disruption and you’ll help chart the course towards realizing that
+Partner with our cross-functional stakeholders to design clear interfaces, such as SLOs and SLAs, that both meet their needs of and align the team with our larger strategic vision
+Improve visibility into our data systems, giving our team and external teams, clear views into operational state and confidence in the accuracy and reliability of data
+Guide your team to execute on key initiatives such as mailpiece trackability, partner deliverability goals, and other workstreams aligned with company goals
+Deliver a reliable, scalable, and modern data system built on top of industry best practices (we use Airflow, DBT, and a data lake pattern, for example)
+Improve processes--project management, sprint management, stakeholder visibility--to help the team operate effectively
+Be a coach and enabler for your team, you’ll empower them, rather than tell them what to do. We see engineering management as a support role: you will help your team build problem-solving muscle by practicing active listening, asking good questions, and giving actionable, timely, kind, and direct feedback
+Engage, retain, and grow great problem-solvers and collaborators. You’ll be responsible for building diverse, inclusive teams, where everyone feels comfortable and safe being themselves at work; psychological safety is a first-order goal
+What You Will Bring To This Role...
+At least 3-5 years of experience as a manager with a growth-oriented mindset. We’d love to hear how you’ve led teams through various stages of growth
+A track record of successful data product delivery in a variety of fast-moving environments. You’ve done engineering work at the senior level, solving complex technical challenges at scale. You’ve had to weigh difficult trade-offs and live with your decisions, and you can tell us what you’ve learned from them
+Some experience preferred working with a modern data stack, including Airflow, DBT, data lake patterns, etc
+Great communication skills. You should be able to explain your approach and the impact of your work to non-technical stakeholders in a way that is clear to them
+A servant-leadership mindset. You seek to support your team, your stakeholders, and the company more broadly as a first-order consideration
+Since great technologists come from diverse backgrounds, it doesn’t particularly matter if you have a specific degree—we want to hear about your contributions in a business setting
+A love for the domain and an appreciation for educating others about the hidden power of data products
+<
+
+We’re not just building a platform to make the world programmable. We’re also designing a great place to work, and a ground floor opportunity as an early member of the Lob team; you’ll directly shape the direction of our company.
+
+Perks
+Health benefits for you and your dependent(s)
+Medical Flexible Spending Accounts (FSA)
+Flexible vacation policy
+Wellness program
+Paid parental leave
+401K
+Paid volunteer time off to support the organizations you care most about
+Commuter & Parking benefits (includes monthly stipend) for those based out of our San Francisco office
+Free lunch, snacks and dinner when working at our San Francisco office
+Dog-friendly San Francisco office
+Allowance for in-person team meetings (all flights and accommodations covered) for those not based out of our San Francisco office
+Home-office setup and phone/internet stipend for those not based out of our San Francisco office
+Our Commitment to Diversity
+
+Lob is an equal opportunity employer and values diversity of backgrounds and perspectives to cultivate an environment of understanding to have greater impact on our business and customers. We encourage under-represented groups to apply and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or criminal history in accordance with local, state, and/or federal laws, including the San Francisco’s Fair Chance Ordinance.
+
+The Climate Corporation is modernizing the agriculture industry with a platform and products that are helping the world’s farmers sustainably increase productivity with digital tools. We build hardware, platforms, and a suite of grower facing applications that collect and process vast amounts of agronomic data. We then deliver insights that allow farmers to improve their yield and operate in a more sustainable way.
+
+
+We are looking for a Manager of Data Infrastructure to help build a unified processing platform that will power the next generation of digital farming. If you’re an expert at designing large-scale distributed data platforms and want to build something that impacts the world in a positive way, this might be the growth opportunity you’ve been looking for.
+
+
+What makes a successful manager at Climate?
+
+Invests in people - Someone who fosters a culture of inclusion, trust, mentorship, praise, constructive feedback and is able to continually build, develop and retain their team.
+
+Inspires - Someone who gains buy-in by listening to the thoughts and opinions of others and creates optimism and confidence in a clear and believable way.
+
+Thinks - Someone who uses critical thinking and strategic planning to make well-informed decisions. They create an environment where the right approaches surface from a variety of diverse opinions and perspectives.
+
+Achieves Results - Someone that can make plans and be proactive in order to get things done. They continuously improve the effectiveness of their team by setting achievable and specific goals, regularly evaluating results, implementing improvements and holding their team accountable.
+
+
+What You Will Do:
+
+Build and mentor a group of high-performing engineers with a strong team-oriented culture.
+
+Guide the professional development of each direct report through performance management and coaching.
+
+Contribute to the vision, goals, and technical strategy in alignment with customer needs
+
+Partner stakeholders & architects to drive detailed requirements and durable technical design
+
+Drive clarity in ambiguous situations and mobilize the team for achieving results
+
+Reduce technical debt through well designed platform infrastructure
+
+
+Basic Qualifications:
+
+Bachelor's degree in computer science or equivalent work experience
+
+3+ years building, leading and growing diverse groups of high-performing engineers
+
+
+Preferred Qualifications:
+
+Extremely comfortable with ambiguity and changes of direction
+
+A master of driving clarity to keep engineering teams productive
+
+Expert relationship builder
+
+Demonstrated ability to balance and influence key relationships with Product, Architecture, and other stakeholders
+
+Deep understanding of AWS architecture, technologies and services and optimizations
+
+Expert in extremely large data implementations leveraging modern data technologies like S3, No-SQL databases, Spark, and Kafka
+
+Expert in data systems and design
+
+Deep knowledge of modern distributed systems
+
+Understanding of various SDLC methodologies including scrum and waterfall
+
+Experience working project management software like Jira and Smartsheet
+
+Knowledge of languages like Java, SQL, and Python
+
+Excellent written and verbal communication skills
+
+
+What We Offer:
+
+Our teams are composed of industry experts, top scientists, and talented engineers. The environment is extremely engaging and fast-paced, with dozens of specialties coming together to provide the best possible products and experiences for our customers.
+
+
+We provide competitive salaries and some of the best perks in the industry, including:
+
+Superb medical, dental, vision, life, disability benefits, and a 401k matching program
+
+A stocked kitchen with a large assortment of snacks & drinks to get you through the day
+
+Encouragement to get out of the office and into the field with agents and farmers to see first-hand how our products are being used
+
+We take part and offer various workshops, conferences, meet-up groups, tech-talks, and hack-a-thons to encourage participation and growth in both community involvement and career development
+
+
+We also hinge our cultural DNA on these five values:
+
+Inspire one another
+
+Innovate in all we do
+
+Leave a mark on the world
+
+Find the possible in the impossible
+
+Be direct and transparent
+
+Learn more about our team and our mission:
+
+
+The Climate Corporation - The Technology Behind Making A Difference
+
+
+https://youtu.be/c5TgbpE9UBI or visit https://climate.com/careers
+
+
+Climate aims to create a welcoming and collaborative environment for our employees in which a diverse set of perspectives and voices are represented and celebrated.
+
+
+As part of our dedication to the diversity of our workforce, The Climate Corporation is committed to Equal Employment Opportunity and does not discriminate based on race, religion, color, national origin, ethnicity, gender, sex (including pregnancy), protected veteran status, age, disability, sexual orientation, gender identity, gender expression, or any unlawful criterion existing under applicable federal, state, or local laws. If you need assistance or an accommodation due to a disability, you may contact us at accommodations@climate.com.
+
+Take the lead architecture and design decisions in a company making data cheaper and more accessible for financial companies across the world.
+
+
+You may or may not know that there’s one company with a monopoly on financial and market data. With disruptors talked about all the time, this company really are attempting and succeeding in disrupting the financial data industry. Having already built a successful B2C product, they’re now focusing on their B2C offering and you’ll be coming into lead a team of four engineers.
+
+
+You’re not going to be coding every day as your focus is going to be around architecture and design of the platform for your team of developers to bring to life. Initially a team of four, you’ll have full responsibility to hire and grow the team to seven. The team has grown responsibly so far and the engineers – some from Hedge Funds, FAANG, etc. – have been hired based on their ability and team fit. The engineering team has remained lean and nimble, and the plan is continue like this going forward.
+
+
+You’ll be reporting to the VP of Engineering, who reports directly to the CEO. In terms of experience, you’ll need to come from a strong background of leading engineering teams, ideally in a growing tech firm. You’ll be exposed to all kinds of data problems and distributed systems, so the more experience you have with these kinds of problems, the better.
+
+
+Starting salary will be up to $220,000 plus benefits that include good stock options. For this level of role you can expect in the region of $150-200,000 worth of stock that it’s hoped will be worth 5x as much at next valuation. You can work in this role fully remote if you like, or you can make it more of a hybrid position in the NYC office.
+
+
+Want to lead a high calibre team and help democratise financial data? Get in touch.
+
+
+No up-to-date resume required.
+
+Invitation Homes is pioneering a new industry and needs dedicated, innovative, and analytical technologists to help us continually optimize. As the nation’s premier home leasing company, we develop advanced technology to enhance the resident experience. We are looking for dynamic individuals who are passionate about taking tech to the next level.
+
+
+We’re looking for an Engineering Manager who will lead a software development team focused on supporting our leasing experience specialists to enhance our residents’ experience – someone who combines deep technical experience with great people management skills and can help elevate our teams and our approach to engineering. We are building a culture that fosters innovation, built on a foundation of inclusion and diversity. We are looking for a candidate that has proven experience in coding, architecture, leadership, and leading engineers in a fast-paced environment. This position is a mix of strategic planning, process engineering, hands-on-keyboard development, and management responsibilities with a strong emphasis on technical leadership.
+
+
+Your team will be working on the Salesforce platform that our associates use to manage the leasing process, as well as the backend integrations to drive our resident experience to the next level. If you are motivated, passionate, a quick learner and have effective communication skills, this role is waiting for you!
+
+
+Essential Job Duties and Responsibilities
+
+Work closely with Product and Platform Owners, Quality Assurance, and other teams in an agile environment to build, deploy and maintain software systems
+Design solutions with a focus on performance and maintainability
+Measure and evaluate features and system metrics to continuously improve user experience and service performance
+Grow and inspire a team of engineers through a combination of coaching, mentoring, feedback and career development
+Cultivate a healthy, collaborative engineering culture that’s in line with our values.
+Make recommendations on future technical architecture for software, platform, integrations and tools
+Document technical and integration architectures
+Work collaboratively to help define and execute team roadmaps
+
+Education and/or Experience
+
+Bachelor’s Degree in relevant field, or equivalent work experience
+5+ years of professional development experience, and 2+ years of recent experience managing or leading an engineering team
+Experience working in agile development environment
+Deep understanding of software and development engineering principles and concepts
+Deep technical skills in many of the following areas: API/microservice design, enterprise integration patterns, Salesforce platform, Domain modeling, SQL, serverless computing (AWS), CI/CD
+
+Skills/Specialized Knowledge
+
+Excellent communication, presentation, and interpersonal skills
+Ability to thrive under pressure and function effectively in a fast-paced work environment
+Exhibit sound judgment and swift decision-making skills
+Exhibit strong attention to detail and accuracy
+Ability to collaborate and build consensus with others
+Knowledgeable about system design, data structures and algorithms
+Skilled at processing and analyzing large data sets
+Experience working with distributed/scalable systems and high-volume transaction applications
+Love of technology; actively seeks continuing education of current and emerging technologies
+
+Company Description
+
+NBCUniversal owns and operates over 20 different businesses across 30 countries including a valuable portfolio of news and entertainment television networks, a premier motion picture company, significant television production operations, a leading television stations group, world-renowned theme parks and a premium ad-supported streaming service.
+
+Here you can be your authentic self. As a company uniquely positioned to educate, entertain and empower through our platforms, Comcast NBCUniversal stands for including everyone. We strive to foster a diverse and inclusive culture where our employees feel supported, embraced and heard. We believe that our workforce should represent the communities we live in, so that together, we can continue to create and deliver content that reflects the current and ever-changing face of the world. Click here to learn more about Comcast NBCUniversal’s commitment and how we are making an impact.
+
+Job Description
+
+At NBCUniversal, we believe in the talent of our people. It’s our passion and commitment to excellence that drives NBCU’s vast portfolio of brands to succeed. From broadcast and cable networks, news and sports platforms, to film, world-renowned theme parks and a diverse suite of digital properties, we take pride in all that we do and all that we represent. It’s what makes us uniquely NBCU. Here you can create the extraordinary. Join us.
+
+About The Role
+
+Are you both engineering and customer obsessed? We are seeking an Engineering Manager to lead and manage initiatives within our custom application engineering team. You're right for this role if you have experience driving to increase levels of reliability, automation, and customer satisfaction. Your technical expertise working among software delivery teams using modern development tools and public cloud platforms will help you mentor, guide, and grow the skills of the team.
+
+As a member of NBCUniversal's SRC Team, you will be part of a new effort to define how the organization builds custom applications on the cloud. This is a unique role in that it can touch every NBCUniversal business, both creative and operational, creating applications that redefine how we do business.
+
+Responsibilities
+
+Manage budgets and vendor/client contracts and relationships.
+Lead the planning, implementation and communication of new engineering and product practices.
+Drive metrics standardization, gathering, and automation. Analyze and report resulting metrics and adjust the overall team strategy accordingly with engineering leadership; define the value and return of an application
+Analyze customer needs and develop engineering team roadmap and backlog based on organization goals and customer impact
+Establish productive relationships with internal Cloud, Architecture, Cyber Security, and Business Engagement teams to ensure the organization can deliver software on time on the most appropriate technology available.
+Define and manage projects and products that improve our software products' consistency, reliability, and security.
+Participate in budgeting and proposal efforts by completing project scoping, cost-benefit analyses, and level of effort assessments.
+Actively participate in hiring the best talent for the Engineering team to create a high functioning, collaborative, and fun team
+Coach and mentor engineers on the team and assist in their professional development
+
+Qualifications
+
+7+ years of relevant engineering experience and 3+ years of experience leading technical/IT teams and projects
+Demonstrated technical leadership with good business judgment to make the right technology choices.
+Demonstrated ability to build teams and produce engineering products in a complex corporate structure
+Deep understanding of the product, engineering, and test roles & responsibilities that make up a software delivery team
+Familiarity with cloud-native development, scrum processes, and modern DevOps practices
+Sharp eye for quality team contribution; ability to assess team member’s work products
+Can set disparate data streams and distill them into meaningful and ultimately actionable recommendations
+Able to easily transition between high-level strategy and day-to-day implementation
+Self-directed, ability to multi-task, sharp analytical skills, excellent communication skills, capable of working effectively in a dynamic environment
+Excellent written / verbal communication and collaboration skills
+Leadership, teambuilding, and mentoring skills
+Results-oriented and self-motivated
+Must submit an attestation disclosing your COVID-19 vaccination status and, if partially or fully vaccinated, submitting your vaccination record no later than 7 days following commencement of employment.
+Must be fully vaccinated against COVID-19 at the commencement of employment or adhere to enhanced protocols in select work settings or where jurisdictionally mandated.
+Must be willing to adhere to all Company COVID-19 workplace safety policies and protocols.
+
+Desired Characteristics
+
+Software engineering experience as a product manager, engineer, or manager
+B.S. degree in Computer Science, Engineering, or related field preferred
+Able to communicate effectively in a diverse team of varying skill sets and proficiencies. Able to lead and instruct or take direction when appropriate. Effective in-person, written, and verbal communication skills
+Experience working in large, multifaceted, and matrixed organizations
+Experience within the media entertainment industry
+Collaborative team player accustomed to working within and across groups
+Organized and detail-oriented with an ability to manage time effectively
+Ability to translate business process needs into precise technical requirements
+Ability to influence internal and external team members without direct reporting authority
+Strong written and verbal communication skills with the ability to relate complex information to both technical and non-technical audiences
+Strong character exhibiting company core values: Integrity, Creativity, Teamwork, Pioneering Spirit, Ownership
+
+Additional Information
+
+NBCUniversal's policy is to provide equal employment opportunities to all applicants and employees without regard to race, color, religion, creed, gender, gender identity or expression, age, national origin or ancestry, citizenship, disability, sexual orientation, marital status, pregnancy, veteran status, membership in the uniformed services, genetic information, or any other basis protected by applicable law. NBCUniversal will consider for employment qualified applicants with criminal histories in a manner consistent with relevant legal requirements, including the City of Los Angeles Fair Chance Initiative For Hiring Ordinance, where applicable.
+
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request a reasonable accommodation if you are unable or limited in your ability to use or access nbcunicareers.com as a result of your disability. You can request reasonable accommodations in the US by calling 1-818-777-4107 and in the UK by calling +44 2036185726.
+
+The Opportunity
+
+The primary role of the Engineering Manager is to ensure team effectiveness and efficiency in delivering improvements to the speed and stability of our platform and driving recommendations that predict every professional’s emails, phone numbers and websites with the highest level and degree of accuracy possible. This role will have an opportunity to help solve problems that are positively impacting millions of business professionals and help the world connect to opportunity and each other faster than ever before.
+
+
+About Seamless
+
+Seamless delivers the world’s best sales leads. Through our product, we help sales teams maximize revenue, increase sales, and easily acquire their total addressable market using artificial intelligence; by development of a robust real-time contact and company search engine as well as a suite of technically-advanced tools to support sales and lead generation. We have been recognized as one of Ohio’s fastest growing companies and have been recently ranked in LinkedIn's Top 50 Startups of 2020, featured in Forbes as #1 Software company in Ohio, #5 on G2’s Top 5 Sales Intelligence Software in 2021 & on their “Top 100 Highest Satisfaction Products for 2022” list!
+
+
+The Seamless Family
+
+We have an amazing culture and collaborative, engaging work environment. We encourage a culture of positivity. We thrive off of continuous feedback and do whatever it takes to help our team and customers be successful. You will grow as an individual, professionally, and be able to see and feel the impact you are making to the growth of Seamless every day.
+
+
+Role Description
+
+Oversee daily operations of the Engineering team;
+Partner with Engineering leadership to define optimal performance metrics and performance management programs required to ensure team success and align reporting, training and bonus programs with the same;
+Hire, develop and lead an engaged and high performing team;
+Assess and improve upon existing processes, methodologies, infrastructure and metrics;
+Implement necessary adjustments to optimize team performance;
+Manage a growing team across multiple geographies, including contributions to team structure and organizational design, performance assessments and management, and team succession planning and training;
+Advocate on behalf of team members and ensures adequate resources for success;
+Work closely with project management & technical leads to provide feedback, propose solutions and suggest improvements for team efficiency, effectiveness and collaboration;
+Interview new candidates across relevant aspects of software engineering and corporate culture;
+Promote performance standards and best practices to provide guidance to software engineers;
+Help to create and oversee project budgets and engage in cost management strategies;
+Communicate technical information to non-technical stakeholders;
+Provide feedback, propose solutions and suggest improvements in the product;
+Regularly provide updates to the engineering, quality engineering, and product leadership teams; and
+Assess items such as system health, financial projections, degradation, and economic optimization.
+
+
+The Skill Set
+
+Bachelor’s degree in Computer Science or related field
+5+ years of hands-on professional (not academic) experience in pioneering platform speed and stability with big data in cloud platforms.
+3-5 years of management experience
+Working experience in an AGILE environment with modern SDLC
+Ability to work on multiple projects in various stages simultaneously;
+Committed leader and team player who can work autonomously, be proactive, take ownership over the success of their team, and work hard to support those around them
+Analytical and detail oriented with the ability to communicate (both verbal & written), prioritize, execute and deliver quickly/accurately on team status, strategy, and ideas
+Driven with leadership skills to help build and manage a team of engineers
+Leadership, teambuilding, and mentoring skills
+Interpersonal and conflict resolution skills
+Must be comfortable with an unstructured, fast moving and constantly evolving high growth environment
+Self-motivated and able to work efficiently with both on-location and remote teams.
+Experience/knowledge in our more major technical & programming languages/cloud computing including but not limited to: Aurora PostgreSQL, AWS Redshift, AWS Glue, AWS EMR, AWS Spark (Scala/Python/PySpark), AWS QuickSight, AWS Athena, Redis, ELK stack, Node.JS, REACT
+
+About Andela
+
+Andela exists to connect brilliance and opportunity. Since 2014, we have been dedicated to breaking down global barriers and accelerating the future of work for both technologists and organizations around the world.
+
+For technologists, Andela offers competitive long term career opportunities with leading organizations, access to a global community of professionals, and education opportunities with leading technology providers.
+
+For companies, Andela provides access to a global network of fully integrated team members that unlock their business’ innovation and growth potential.
+
+At Andela, we are deeply passionate about creating long-lasting and transformative growth opportunities for all and doing it in an E.P.I.C. [andela.com/careers] way.
+
+We are excited to continue building our remote first team with incredible people like you!
+
+What You’ll Do
+
+Andela’s Product department is charged with implementing products that will help Andela to scale with consistency and quality, while providing excellent service internally and externally. We are building a technology powered marketplace to connect talent with opportunity.
+
+In this role, you will work as an Engineering Manager managing from 1 to 2 PODs which usually consists of 6-7 people.
+
+Key Responsibilities
+Manage engineers
+Manage team members with different skill sets and technical areas of focus
+Mentor and coach the engineers and ensure their success
+Encourage and promote best engineering practices
+Encourage a data-driven culture to improve the efficiency, scalability, and stability of our products
+Support engineers in identifying, resolving and escalating issues that impact their work
+Manage and track engineers on performance and career development
+Provide technical leadership and guidance
+Unblock engineers on complex issues via pair programming and design sessions
+Review architecture and design design approaches for the engineering team
+Provide scoping and estimation feedback to the business
+Make technology choices working with the team members
+Drive issue resolution and ensure production system uptime
+Manage, measure and improve engineering processes
+Continuously improves Andelas software development lifecycle processes
+Improve release planning and sprint execution
+Drive prioritization and issue resolution approaches
+Collaborate with key stakeholders within and across department
+Ensure collaboration with Engineer leadership and across Engineering teams
+Advocate for and ensure prioritization of technical initiatives working with Product Managers.
+Recruit talent
+Identify potential candidates that best fit our roles (e.g. team leads, senior engineers)
+Interview and evaluate prospective talent to ensure fit
+Qualifications
+Highly-technical software engineer and an effective people manager
+5-7 years of software development experience
+3+ years experience managing and growing software engineering teams as a people manager
+Excellent written and oral communication skills
+Strong analytical and problem solving skills
+A strong desire to mentor developers
+Have ability to build rapport and communicate with individuals from diverse cultural backgrounds
+Have excellent interpersonal skills.
+Have strong leadership skills.
+What Technologies You’ll Work With
+
+We are building applications using modern tools and technologies. Our primary app is Node.js based. On the backend we have multiple teams using a combination of architectural patterns ranging from multi-tiered to micro-services, and utilizing technologies like PostgreSQL, NoSQL databases, async inter-process communication (pub/sub), Python, Django. On the frontend we mainly use React.js. The platform is deployed to Google Cloud Platform (GCP), using a modern CI/CD pipeline (Docker, Kubernetes, CircleCI, CodeClimate, Cloud Functions, GitHub Actions, Cloud Run). Our tools and technologies are as follows:
+React, OpenAPI, FastAPI, REST
+Postgres, Firestore
+Typescript
+Docker, Kubernetes
+Cloud based CI/CD tools, CircleCI, CodeClimate
+Cloud Functions, Cloud Run, GitHub Actions
+Benefits
+Fully Remote work culture - we hire globally and all of our roles are fully remote!
+Bring your own device stipend - buy your own laptop with funds from Andela
+Quarterly work from home stipends
+Flexible working hours
+Equity (as a part of compensation package)
+Healthcare, 401k / pension (US only)
+Andela Affinity Groups
+Growth & development paths
+Generous Paid Time Off, Parental Leave, Compassionate Leave
+And more to come! We're on a journey to reimagine global benefits at Andela
+At Andela, we outcompete through diversity. We know that our strengths lie in the multiplicity of talents, perspectives, backgrounds & orientations resident in our community and we take pride in that. Andela is committed to a work environment in which all individuals are treated with respect and dignity. Each individual has the right to work in a professional atmosphere that promotes equal employment opportunities and prohibits discriminatory practices. Andela provides equal employment opportunities and workplace to all employees and applicants without regard to factors including but not limited to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, pregnancy (including breastfeeding), genetic information, HIV/AIDS or any other medical status, family or parental status, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state and local laws. This commitment applies to all terms and conditions of employment, including but not limited to hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. Our policies expressly prohibit any form of harassment and/or discrimination as stated above.
+
+Andela is home for all, come as you are.
+
+Engineering Manager
+
+100% remote
+
+Cybersecurity startup
+
+
+Intelletec is working with a cybersecurity startup dedicated to helping organizations secure and manage their sensitive data. As a leading enterprise technology company, their product affects the personal data that people entrust businesses to store & process with care every day. Via machine learning, this company's product makes it easy for organizations to discover, classify, and protect this sensitive data across their cloud footprint
+
+
+This role is looking for an Engineering Manager who will own the technical output of their engineering organization. Ensuring high technical standards by instituting processes (architecture reviews, testing) and culture (engineering excellence).
+
+
+Responsibilities:
+
+Directly manage engineers of all levels; provide feedback and guide promotions and leveling processes
+Scope and plan key deliverables by working with engineering managers and IC's to ensure project planning of key initiatives.
+Be both a hands-on coder and an effective people leader
+
+Required Skills:
+
+Minimum 6+ years of hands-on technical development experience
+Minimum 3+ years of experience mentoring and leading engineering teams
+Experience managing teams that build and operate high volume distributed systems in a SaaS environment
+Experience running the day-to-day sprint process for an engineering team
+Experience programming in Go or related language (Python/Java)
+Experience designing and building systems in a microservices-based architecture
+
+Compensation:
+
+Base salary up to $220k annually
+
+As Senior Manager, Engineering, you will partner closely with the CTO and the Director of Product Management to help continue to expand the Relocity Platform, which intelligently streamlines, enriches and transforms the curated 'Personal Host' experience through a collection of applications and services.
+
+In this role as a hands-on Director, you will lead and foster an environment where our Software Engineers will continue to improve their skills and never compromise on quality or performance. The ideal candidate should be a Laravel expert and modern .js enthusiast who enjoys designing and building high-quality applications. You should be a great communicator with terrific follow-through who is able to optimize workflows and/or document changes concisely.
+
+This is a Player/Coach role.
+
+Essential Duties and Responsibilities include the following. Other duties may be assigned.
+Grow and lead an outstanding engineering team, operate as an expert with the ability to guide and inspire the best performance, innovation and utilization of optimal engineering practices.
+Be instrumental in partnering with the head of product management to turn our strategy into cross-functionally aligned tactics
+Offer technical guidance, lay the groundwork for engineering and DevOps practices, and instill a product driven culture.
+Represent engineering and collaborate with your product counterpart on the product vision and requirements
+Translate product requirements into strategic technical guidance and requirements
+Contribute to all aspects of the software process: including architecture, specification reviews, testing, implementation, code reviews, debugging, and documentation
+Manage, Optimize & Leverage best development Processes
+Lead engineers in developing and expanding exceptional Frontend and Backend applications
+Ensuring proper software testing (PHPUnit, Unit, E2E)
+Understand and contribute to the product roadmap
+Assist in aligning product strategies across the team, driving experimentation, and delivering products to market
+Qualifications
+8+ years of software product development experience, including 3+ years of Leading/Managing software engineers
+Experience managing day-to-day technical and design direction amongst team
+Ability to influence and align multiple stakeholders without direct authority
+Prior experience working remotely preferred
+Attention to pixel-perfect detail
+Education And Technology Requirements
+BS/MS degree in Computer Science or a related technical discipline, or equivalent experience
+Experience developing SaaS products
+Hands-on expertise with Laravel 7.x and/or newer releases
+Minimum 4 years experience working as a Laravel framework developer
+3+ years of full-stack development experience using Vue.js 2 (or other js, e.g. Angular or React)
+Strong REST API development experience
+Familiarity with database technology such as MySQL
+Advanced knowledge in HTML, CSS, JavaScript
+ML/AI experience a plus
+Scrum Master a plus
+Company Benefits
+Competitive salary
+Paid Time Off
+Health, Dental, Vision, LTD Insurance
+401k
+Remote workplace
+Relocity proudly contributes a portion of all revenue to Not for Sale, an international non-profit organization based out of San Francisco, California that works to protect people and communities around the world from human trafficking and modern-day slavery.
+
+https://www.notforsalecampaign.org/about-us/
+
+Relocity is an Equal Opportunity Employer and does not discriminate against any applicant on the basis of race, color, religion/creed, national origin, gender, or sex, marital status, age, disability, use of a guide dog or service animal, sexual orientation, military/veteran status, or any other status protected by Federal or State law or local ordinance. Relocity will only employ those who are legally authorized to work. Any offer of employment is conditioned on the successful completion of a background investigation, credit check and drug test.
+
+Meet Upside
+
+We created Upside to help communities thrive! Our retail technology uses the sophistication of online retail—profit measurement, attribution, and incrementality—to provide users with more value on their everyday purchases and brick and mortar businesses with new, profitable customers. We’ve helped millions of users earn 2 to 3 times more cash back than any other product, and tens of thousands of brick and mortar businesses earn measurable profit. Billions of dollars in commerce run through the Upside platform every year, and that value goes directly back to our local retailers, the consumers they serve, and towards important sustainability initiatives. Our mission, values, and commitment to inclusivity guide our team of more than 200 people worldwide, and the quality of our culture is reflected in the impact we’ve had on communities nationwide.
+
+Meet The Platform Engineering Team
+
+The Platform Engineering team develops the software stack that all Engineers at Upside rely on. The team provides turn-key services and software solutions for developers to use The development stack enables the engineering organization to deploy fast and in confidence.
+
+We work directly with our developers across the organization supporting them in enabling new business opportunities while using innovative AWS tools. The mission of our team is to scale the platform to support our business growth. Our goal is to support 10x growth across an increased range of businesses over the next 24 months.
+
+About The Job
+
+The Platform Engineering lead will work in close partnership with the Product teams as well as our Infosec organization. Through these partnerships this leader will establish the engineering roadmap and will lead all aspects of its implementation to support our business needs. The leader will also be working across the engineering organization alongside the Machine Learning, Data, and Consumer Engineering teams to ensure that our solutions meet our business needs.
+
+The team also drives SDLC and the Reliability Engineering strategy for the rest of the firm helping us establish, set and meet our strategic reliability goals.
+
+What You'll Do
+You will be responsible for the strategic and day-to-day engineering workload of the team.
+You will be using Agile methodologies to manage and deliver the teams’ OKRs.
+Working with other Engineering Managers you will prioritize the work both tactically and strategically.
+Create with the product management team the OKRs, the roadmaps and drive the plans through sprints.
+Shape the strategic direction of the organization.
+Work with other engineering leads on the design of the future state of our platform .
+Responsible for the career development of the team members, the hiring, mentoring and organizational needs of the team.
+What You Need
+5-7 years of experience using cloud first technologies such as messaging, containers, relying on Identity management and other cloud-native tools (Mambda, SNS, SQS,Redis, etc).
+Prior experience with SRE and SDLC tools such as DataDog, PagerDuty, Git Actions, etc.
+Prior vendor management experience.
+Experience working with or leading SREs or leading productivity tool software development teams.
+7-10 years prior experience in building and leading high-impact teams.
+Experience in collecting, analyzing and writing requirements.
+Strong written and verbal communication skills and ability to work across multiple business and engineering organizations.
+5-7 years of programming experience in either Python or Java.
+The Fine Print
+Upside employees are currently working from home during the COVID-19 pandemic. Afterwards our engineering teams are adopting a hybrid approach which can support full-time remote work while enabling in-person meetups as necessary.
+Notice to recruiters and placement agencies: This is an in-house search with a dedicated resource. Please do not submit resumes to any person or email address at Upside. Upside is not liable for, and will not pay, placement fees for candidates submitted by any party or agency other than its approved recruitment partners.
+At Upside, we believe that diversity drives innovation. Our differences are what makes us stronger. We‘re passionate about building a workplace that represents a variety of backgrounds, skills, and perspectives and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Everyone is welcome here. Come join us!
+
+Want to work for a Scale-up that is currently revolutionising the HealthTech space?
+
+
+Well, we are currently exclusively partnered with a company that is shaping the new standard for healthcare data exchange with a user-friendly API platform. They are looking to create intuitive experiences for developers, build scalable infrastructure product teams love, and collaborate with innovative leaders launching data driven healthcare solutions
+
+
+The mission: is to enable simple and secure access to actionable healthcare data for digital health innovators.
+
+
+As they are going through their hypergrowth, they're are scaling across all verticals and especially growing out their engineering team(s). If you'd like to be part of the next big name in tech and feel you're well matched APPLY BELOW:
+
+
+Areas of Responsibility:
+
+
+● First and foremost, you’ll be a culture leader, responsible for developing and upholding
+
+Particle’s values, especially around how we work together; fostering collaboration and
+
+inclusivity.
+
+● You will manage and mentor software and data engineers, while considering their
+
+individual career trajectories at Particle and beyond.
+
+● You’ll use your experience as an Engineer, partnering with your team to uphold a high
+
+standard of engineering excellence by writing and reviewing engineering requirements
+
+documentation, white-boarding with members of the team, and reviewing their code
+
+contributions.
+
+● You’ll partner closely with your peers, sharing learnings with them, and bringing shared
+
+learnings back to your team.
+
+● You will be customer-focused, meeting with and partnering with our Customer Support
+
+and Sales teams as well as meeting with our customers, to ensure we’re delivering
+
+high-leverage solutions to our customers iteratively.
+
+● You’ll increase the efficacy of existing products while bringing new capabilities to market.
+
+● Finally, you will help Particle grow and evolve as we hire more people into our team by
+
+interviewing software engineers and other cross-functional roles.
+
+● You’ll consider and make recommendations about organizational design and how teams
+
+evolve, and looking to the future by partnering with senior leaders of the company on
+
+ambitious goals and plans.
+
+
+Qualifications
+
+
+Required:
+
+
+● You’ve led software engineering teams where Software Engineers and Tech Leads have
+
+reported directly to you.
+
+● You value developing the people on your teams as much as you care about developing
+
+great software.
+
+● You’ve built customer-centric products where customer feedback and hard data inform
+
+the decisions you and your team make.
+
+● You keep an eye out for how the industry is changing, technologies and best practices
+
+that are shifting and emerging, and hiring trends.
+
+● You have experience with modern cloud infrastructure. Particle Health uses Google
+
+Cloud Computing (GCP), but experience with any modern provider, such as Amazon
+
+Web Services (AWS), works for us.
+
+● You have 4+ years of experience in software engineering at a SaaS or consumer
+
+services product company, with 2+ years managing people directly.
+
+
+What We Offer:
+
+
+- We’re a remote-first company within the United States
+
+- Competitive salary and equity, based on experience
+
+- 401k through Guideline
+
+- Medical, dental, and vision 100% covered for employees =
+
+- 100% covered life insurance for employees
+
+- Parental Leave
+
+- Flexible vacation
+
+
+🌎 The role is based in USA
+
+
+📧 Interested in applying? Please click on the ‘Easy Apply’ button or for a confidential chat – oliver.morris@storm3.com
+
+
+⚡ Storm3 is a HealthTech recruitment firm with clients across London, Europe, and North America. To discuss open opportunities or career options, please visit our website www.storm3.com and follow the Storm3 Linked In page for the latest jobs and intel
+
+Employer-provided
+
+Pay range in New York, United States
+Exact compensation may vary based on skills, experience, and location.
+Base salary
+$225,000/yr - $250,000/yr
+
+Software Engineering Manager - FinTech / Crypto / Trading - Remote
+
+
+My client is a fast-growing series B start up, who have recently launched their latest product which is a stock & crypto intelligent tech for trading platforms. They're finding new & innovative ways to distribute their best-in-class investment intelligence platform.
+
+
+As an Engineering Manager, you'll be responsible for developing products, APIs, and SDKs that will enable neobanks, brokers, and other financial institutions to build better technologies for their customers. You will have the opportunity to make a direct impact on the financial journey of many customers.
+
+
+Experience Required
+
+5+ years of experience with software development in one or more OO programming language (e.g., c++, java, python)
+3+ years of experience architecting and designing (architecture, design patterns, reliability, and scaling) new and current systems, focused on building and scaling full-stack applications
+1+ year of experience in a leadership role (technical leadership or people management, supervision, or team leadership)
+Bachelor’s degree in computer science, or equivalent practical experience
+
+In return, you'll receive a competitive salary + benefits including health, dental and vision plans, 401(k) matching, parental leave, a complimentary gym membership which grants you access to 100s of gyms, commuter benefits, flexible hours, unlimited PTO, and more.
+
+
+They are building a highly scalable platform on a modern stack. Here you will have the chance to build things from the ground up, and own products and features from the start.
+
+
+If you would like to find out more about this exciting opportunity, in a critical role within a growing team, please send me your latest resume and I will endeavour to give you a call.
+
+Top Reasons To Work With Us
+
+Amazing company with longevity in the healthcare SaaS industry.
+
+Opportunity to make a profound impact
+
+Be a part of an incredible culture with amazing fast-paced agile teams!
+
+Clearwave has a current need for a Manager, Engineering who will be responsible for leading development teams and contributing to the continued growth of our suite of products, coordinate triage of work items and issues found within production environments. This is a hands-on position where you will take part in scrum ceremonies and help deliver features along with the team.
+
+Responsibilities
+
+Manage 5-8 engineers across multiple teams to deliver timely, high quality software products consistent with our product roadmap.
+Manages all engineering staff activities through the following administration tasks: (reviews, hiring, training, motivating, disciplining, recommendations of promotions/career paths/termination, etc.).
+Leads and acts a technical point of contact for key project initiatives with both internal staff and external clients/partners.
+Assists in developing and reviewing design approaches to ensure that solutions are architecturally sound across all cross-functional software pipelines.
+Provides in-depth technical guidance through the form of code reviews, design pattern instruction, best practice discussions, and lunch and learn sessions.
+Participates regularly in planning & scoping sessions with engineering, product, and QA leadership.
+Participates regularly in development strategy discussions with engineering, product, and QA leadership.
+Assists the Director of Software Engineering & System Architects in the selecting and procuring of departmental software development tools.
+Analyzes complex requirements and information to provide accurate estimates and ROMS (rough order of magnitude), while ensuring viability and appropriateness for defined scope of work.
+Contribute to the company’s engineering culture, by implementing best engineering practices.
+Lead and contribute up to 70% of hands-on coding depending on need.
+Drive a code-reuse/service first culture.
+Coordinate with on/offshore teams to ensure projects are in sync and on time.
+Works within an agile development process with continuous code integration, including R&D, QA, and support of code consistent with our product roadmap.
+Demonstrates strong interpersonal skills with a collaborative style, including the ability to develop creative approaches to tasks and difficult challenges given.
+Communicates effectively and efficiently to both internal and external customer bases across all organization levels with technical or non-technical language.
+
+Qualifications
+
+Required
+
+BS, BA, or MS in Computer Science, Management Information Systems, or equivalent.
+8+ years of software development experience, preferably within the .NET eco-system.
+3+ years of leading and managing a team of engineers through all development phases of scoping, architecture, implementation, testing, and delivery.
+3+ years of development experience of SaaS products in a cloud environment.
+Advanced proficiency in .NET: Visual Studio, C#, .NET Framework, .NET Core, Web API, Web MVC, web services, restful services, SQL Server, multi-threading, & asynchronous/synchronous coding.
+Proficient in C# (experience with Go, Java, Kotlin or Python is a plus).
+Advanced Proficiency in standard web technologies: HTML/HTML5, CSS, JavaScript/ jQuery (or various libraries), multi-tier architectures.
+Experience working with relational / non-relational DBs (experience with PostgreSQL is plus).
+Experience in complex programming principles including Object Oriented programming, Inversion of Control, Dependency Injection, SOLID principles, etc.
+Understanding of data structures, algorithms, and distributed systems.
+Ability to adhere to proper HIPAA guidelines regarding PHI.
+Ability to adhere to proper PCI compliance guidelines.
+Desired
+
+Experience using agile methodologies or test-driven development (TDD).
+Hands-on experience with cloud technologies building applications in microservices environments using docker, docker swarm, Kubernetes, etc.
+Experience with Linux & Git.
+Experience with monitoring and logging with tools such as AWS CloudWatch, Microsoft Application Insights, DataDog, etc.
+Previous experience in AWS or Azure.
+Who We Are
+
+Clearwave Corporation is a rapidly growing healthcare software company based in Atlanta, Georgia. We improve the patient experience by making the check-in process fast, simple, and seamless. We allow patients to check via a variety of digital devices. We eliminate paperwork, automate eligibility verification, reduce check-in times by 70%, and increase cash collections by over 50%. We value excellent customer service, honesty, respect, flexibility and cooperation. Our team works diligently to deliver results and provide fresh solutions to solve customer pain points.
+
+Pocket Gems seeks to build the greatest mobile games and most compelling interactive entertainment in the world. That’s the mission our founders began with, in an apartment above a pizza shop back in 2009, and it continues to inspire us today. Since then, we’ve grown to over 200 people headquartered in San Francisco, and with $155 million in backing from Sequoia Capital and Tencent, we’re constantly breaking new ground in mobile entertainment.
+
+Our products have been downloaded over 500 million times by players around the world and have grossed over $1 billion in revenue. We continue to release brand new content for Episode, a mobile storytelling network and platform, and War Dragons, a visually stunning 3D real-time strategy game.
+
+As our community of players continues to grow, we’re committed to building diverse and inclusive environments across our teams, and in our games.
+
+As an Engineering Manager on our team, you will lead, manage, and contribute code with a team of passionate engineers to ship our mobile games, delighting millions of players around the world. You will engage and develop engineers on your team, and guide their efforts as they undertake a wide variety of technical challenges. You’ll also lead the team technically and contribute code on a weekly basis to new features and new projects.
+
+Note: This role is open to remote employment for those who reside in California, Washington State, Colorado, Texas, New York and Massachusetts.
+
+What You’ll Do
+Engage and develop your team of engineers in their skills and careers
+Provide technical guidance and coaching to the team in software engineering best practices
+Balance the technical and product roadmaps within the team
+Code! You’ll design and code innovative, scalable and robust features
+Collaborate closely in small, nimble, cross-functional teams with product managers, artists, and designers
+Participate in all aspects of the project life-cycle, from ideation to specification to release
+What You Bring To The Team
+5+ years of engineering experience, including at least 1 year of relevant engineering team management experience
+Strong team building and empowering skills; you love building scalable and high-performing teams of engineers
+Experience in Objective-C, C++ or Python, as well as Cloud Services, such as AWS or GAE
+Strong competencies in data structures, algorithms, software design and OOP
+BA/BS in Computer Science or equivalent experience
+Extra Gems For
+A love for mobile development on iOS and/or Android
+Prior entertainment or gaming industry experience (NOT required)
+#WA #CA #TX #CO #NY #MA
+
+Read more about what we’ve been up to!
+Pocket Gems Blog
+At Pocket Gems, we're building teams that value originality, inclusivity, and accountability -- and we hope to engage with talent based on these and other core values. We also offer competitive perks, such as flexible vacation, 401k matching, and a generous benefits package,
+
+Pocket Gems is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+About AgencyKPI:
+
+
+AgencyKPI is a Midwest Insurtech company that provides a business intelligence platform for insurance networks, independent agencies, and insurers.
+
+
+The people at AgencyKPI are an unparalleled combination of experienced insurance industry leaders along with exceptional data scientists, software developers and business strategists, and we are looking for the right people with the right skills to join us.
+
+
+During a time when most Insurtech companies claim that disruption is the path to the future, AgencyKPI is developing software platforms that support Harmony, Understanding, and Balance between all partners and vendors in the insurance industry. Why this approach? Because we have a fundamental belief that insurance agencies, networks, carriers, and wholesalers desire to deepen their relationships through mutual understanding and the harmonizing and balancing of their collective efforts.
+
+
+Culture:
+
+
+We are remote - first company with employees located in various regions throughout the Midwest. We were Ranked by the Austin Business Journal in 2020 as one of the Top 10 Best Places to Work, because we strive to understand the working styles of all our employees to ensure that our “Ways of Working” best serve all of us collectively and as individuals. Our core values of Integrity, Innovation and Delivery guide us individually and as a team to work together in a cohesive manner to define and drive our organizational success. We are seeking talented individuals who share these values and want to make a direct impact to the insurance industry.
+
+
+What is the role?
+
+
+The Data Engineering Manager, reporting to the CTO, will lead a team of Data Engineers, Data Analysts, and Database Admins, and partner closely with Application and Product teams to define, design and deliver solutions that combine modern, cloud-native (AWS) data pipeline toolsets. We're building solutions to achieve amazing feats with data, to arm our customers with actionable intelligence. You will have a company-wide view of the Data Engineering solutions that you build, and you will consistently think in terms of automating or expanding the results company-wide.
+
+
+AgencyKPI thrives by finding the right people, aligning them on the right teams, with the right tools to solve the hard customer problems which align with our Mission/Vision/Values.
+
+
+What you’ll do on a daily basis:
+
+
+Lead a team of Data Engineers, Analysts and Admins
+Design and implement solutions to complex and ambiguous data challenges, starting from first principles
+Evolve our long-term data engineering strategies
+Define the tech stack & operational strategies
+Work with AWS technologies such as S3, Glue, Lambda, Athena, RDS and more
+Experiment and explore new technologies to create innovative solutions
+Apply data engineering best practices in terms of quality, security, scalability and maintainability
+Develop means for automating data- and analytics-related systems and processes, as appropriate, to support data science activities.
+Develop and manage the processes, controls, and technical solutions necessary for an effective data engineering function
+Adapts departmental plans and priorities to address resource and operational challenges.
+
+What background should you have?
+
+
+Required
+
+
+3+ Years managing a high performing Data Engineering (or similar) team
+Bachelor's degree in a relevant field (Computer Science, Engineering, Mathematics, etc.), or equivalent industry experience
+5+ Years with hands on exposure to data modeling, data warehousing, and building ETL pipelines with Amazon AWS services, at scale
+Knowledge of batch and streaming data architectures
+Familiarity with non-relational databases / data stores (object storage, document or key-value stores, graph databases, column-family databases)
+Flexible, adaptable and ability to work in a rapidly changing environment
+
+Preferred Qualifications
+
+
+Experience with AWS technologies like RDS, S3, EC2, Glue, Lambda, and IAM roles and permissions etc.
+Experience applying statistical and machine learning models to large datasets
+Experience using the scientific method to solve problems by forming hypotheses and testing them through well-documented and reproducible experiments
+Ability to effectively articulate technical challenges and solutions
+Ability to work with ambiguous/undefined problems; ability to think abstractly
+Maturity, judgment, negotiation/influence skills, analytical skills, and leadership skills
+
+What do we offer?
+
+
+• Competitive compensation package
+
+• Earn the opportunity to enjoy an equity position
+
+• Generous health, dental and vision insurance package that covers employee, spouse, and
+
+dependents
+
+• Instantly vesting 401k with company match
+
+• Getting to work with an incredibly talented team, in a rapidly scaling company, with unmatched industry buy-in
+
+Data Engineering Manager
+
+
+We are looking for talented people to join our team who are incredibly passionate about data and develop data assets contributing to the best patient care and patient experience, and exponential business growth. The ideal candidate should possess an analytical mindset and have a proven track record working with cross-functional business and technology teams.
+
+
+The Data Engineering Manager will be primarily responsible for leading and mentoring an innovative team of Data Engineers - growing people as you grow our business and technology (60% hands-on design and development of solutions and 40% leading).
+
+
+Please email resume to Scarver@Judge.com.
+
+
+Responsibilities
+
+Interface with business functions and technical team, gathering requirements and translating business requirements to technical solutions leveraging strong business acumen
+Assess the performance of the team with the use of various metrics and suggests best practices to improve the productivity
+Lead the project planning and capacity planning associated activities of the team
+Provide functional and technical expertise to data engineering teams in the context of designing, developing, and testing integration solutions
+Review or approve the budget, time reports, and project expenses, and also strategize the team’s project and capacity
+Support the planning and implementation of data design services, providing sizing and configuration assistance and performing a needs assessment
+Craft the architectures, data warehouses, and databases that support access and Advanced Analytics and bring them to life utilizing modern data cloud technologies
+Data profiling, cataloging, and mapping to enable the design and build of technical data flows
+Model data and metadata to support ad-hoc and pre-built reporting
+Own the design, development, and maintenance of enterprise datasets
+Adopt and define the standards and best practices in data engineering, including data integrity, validation, reliability, and documentation
+Analyze and solve problems at their root, stepping back to understand the broader context
+Learn and understand a wide range of MyeEyeDr’s data resources and know when, how, and which to use and which not to use
+Design and build modern performance data pipelines, data streams, and data service Application Programming Interfaces (APIs)
+Keep up to date with advances in cloud data technologies and run pilots to design the data architecture to scale with the increased data volume using Microsoft Azure
+Continually improve ongoing reporting and analysis processes, automating or simplifying self-service support for datasets
+Triage many possible courses of action in a high-ambiguity environment, making use of both quantitative analysis and business judgment
+
+Minimum Qualifications
+
+Bachelor or foreign equivalent degree in Computer Science, Information Technology, Computer Electronics, Communication Engineering or closely related field and following experience in data engineering:
+
+8+ years of experience mentoring and managing Data team
+8+ years of data warehousing experience
+8+ years with ETL tools (MS SSIS, Pentaho Data Integration, Talend Open Studio & Integration, Oracle Data Integrator).
+8+ years of experience with advanced SQL queries, stored procedures, views, triggers, and performance tuning queries.
+4+ years of experience in data engineering using Azure services: ADLS, Azure Data Factory, Azure Functions, Synapse/DW, Azure SQL DB, Event Hub, Azure Stream Analytics, Azure Analysis Service, Azure Data Catalog, Cosmo Db, ML Studio, AI/ML.
+3+ years of experience in C#, Python, Json
+3+ years of experience with one reporting tool (MS SSRS, Power BI, Tableau, LogiAnalytics)
+3+ years of experience with DevOps tools such as Azure DevOps, Visual Studio Team Server, GitLab, Jenkins.
+OR
+
+Masters or foreign equivalent degree in Computer Science, Information Technology, Computer Electronics, Communication Engineering or closely related field and following experience in data engineering:
+
+6+ years of experience mentoring and managing Data team
+6+ years of data warehousing experience
+6+ years with ETL tools (Microsoft SSIS, Pentaho Data Integration, Talend Open Studio & Integration, Oracle Data Integrator).
+6+ years of experience with advanced SQL queries, stored procedures, views, triggers, and performance tuning queries.
+2+ years of experience in data engineering using Azure services: ADLS, Azure Data Factory, Azure Functions, Synapse/DW, Azure SQL DB, Event Hub, Azure Stream Analytics, Azure Analysis Service, Azure Data Catalog, Cosmo Db, ML Studio, AI/ML.
+1+ years of experience in C#, Python, Json
+1+ year of experience with one reporting tool (Microsoft SSRS, Power BI, Tableau, LogiAnalytics)
+1+ years of experience with DevOps tools such as Azure DevOps, Visual Studio Team Server, GitLab, Jenkins.
+
+Preferred Qualifications
+
+5+ years of experience working agile data environment in healthcare and/or retail industry
+2+ years of consulting in software product development background
+Azure DevOps Implementation
+Familiarity with data management: Data Governance, Data Quality, MDM, Data Lineage, Data Catalog, etc.
+Azure Certifications:
+DP-200: Implementing an Azure Data Solution
+DP-201: Designing an Azure Data Solution
+AZ-400: Designing and Implementing Microsoft DevOps Solutions
+
+Position Requirements
+
+Position Summary
+
+We are looking for a Manager to join our Engineering Team within the Global Data, Technology and Tools team on Rufus, for Amazon. A successful candidate will be a data minded, hands-on individuals with a technical background (DevOps, data management, data governance), entrepreneurial spirit and an interest in media and marketing.
+
+Primary day-to-day tasks will include building data ETLs and APIs, working with teams and media partners, globally, to establish raw data templates, reinforcing templatized data collection, and managing communication with client data teams/3rd parties agencies leveraging the data. Regular data quality checks including comparison, reformatting and researching new potential sources are an integral part of the role (CI/CD).
+
+Given the technical nature of the role, prior experience working with ETLs and API creation are a must, as as strong experience with JavaScript, Python, SQL and AWS (Glue exposure desirable).
+
+A background working with media metrics is highly desirable.
+
+
+Key Responsibilities
+
+* Responsible for collecting, ingesting, auditing, processing, and the automation of all data feeds:
+
+* Manage and mentor junior analysts and engineers
+
+* Work with cross-functional internal teams to establish data reporting templates and routines (scoping and requirements gathering)
+
+* Work with team leads to establish operational/data requirements and help ensure adherence.
+
+* Primary point of contact for clients, internal teams and 3rd party partners with regards to data delivery, comparisons and QA checks
+
+* Lead and training and operational improvements with teams on outlined processes - subject matter expert
+
+* Collaborate and provide quality assurance, process optimizations and work with data from multiple partners, clients and systems for analysis and reporting
+
+* Lead ETL and API automated data processing buildouts for key data sources across major clients
+
+* Help manage Tableau data feeds and dashboard refreshes. Understand visualization platforms and how reporting/dashboard tools work.
+
+* Interest in analytics with emphasis on Marketing Mix Analysis.
+
+* Agile project management methodology experience
+
+* Strong written and verbal communication skills (professional and technical). This role will involve working with multiple teams and partners
+
+
+
+Desired Skills & Experience
+
+Education:
+
+
+* Bachelor’s Degree or above in: Information Systems, Computer Science, Data Science, Business Management, Statistics, Mathematics, or other related field.
+
+
+Work Experience:
+
+
+* At least 3+ years of experience in data specific function supporting reporting automation programs of work
+
+* Media data or agency experience is highly desirable
+
+
+About Us*
+
+Initiative is different to other media agencies.
+
+We are not trapped by a legacy structure primarily centered on paid advertising. Instead, we are liberated by a new world structure designed to deliver highly differentiated and highly effective communications strategies for our clients.
+
+We are the world’s fastest growing media agency built upon the strongest strategic capability of any agency in the market. Core to this strategic proposition is the belief that the faster a brand can move through culture the more relevant it can become.
+
+We call this Cultural Velocity ™.
+
+Our process is designed to create ideas that move through culture through unique insight, market leading analytics and strategic media brilliance.
+
+Our new world model is comprised of “craft centers” – Client Advice and Management, Strategy, Communications Design, Partnership and Culture, Insights & Analytics.
+
+Must Haves:
+
+· 6+ years of data engineering or equivalent experience.
+
+· Hands on experience with Databricks
+
+· Expert level coding experience with PySpark
+
+· Expert level coding experience Python
+
+· Strong knowledge of Azure cloud infrastructure (using and designing solutions on Azure Cloud, Azure Data Factory and Azure DevOps preferred)
+
+· Experience with software development practices such as Agile, TDD, and CICD
+
+· Excellent communication skills particularly bridging conversations between data and business stakeholders
+
+· Understanding of core business intelligence and data warehousing technology
+
+Plusses:
+
+· Expert level knowledge of relational databases and query authoring (SQL)
+
+· Proven experience designing and implementing big data technologies (Hadoop, NoSQL, OLTP, and OLAP)
+
+· Experience working with a distributed event-streaming platform such as Kafka
+
+· Experience leading or managing a Data Engineering team, including employee recruitment
+
+· Snowflake experience
+
+· Any experience with graph databases or graph libraries is a plus
+
+Day-to-Day:
+
+Insight Global is looking for a Data Engineering Manager to sit remotely for a client local to Lake Oswego, OR. The Data Engineering team is responsible for delivering a broad range of software capabilities including building data pipelines, managing the ETL/ELT processes, receiving, and delivering data through various interfaces, and processing significant amounts of data related to railcar movements, railcar liability, and financial calculations. As manager you will provide technical direction to the team and participate in development tasks. This duties for this position will be divided 50/50 between coding activities and management.
+
+Primary Responsibilities
+
+· Write expert level Python code for data processing as well as ETL/ELT pipelines
+
+· Coordinate with multiple teams on various data provisioning needs
+
+· Coordinate with Data Owners, Business Analysts, and Product Owners as needed throughout the projects
+
+· Contribute design ideas for complex data pipelines and ETL/ELT processes
+
+· Mentor data engineering team members
+
+· Perform code reviews for pull requests
+
+· Participate in strategy sessions with other managers
+
+· Perform one on one meetings with team members
+
+· Guide employees through work milestones and career development
+
+Notes:
+
+- Seeking someone who is a Sr. or Lead Data Engineer, seeking a management position.
+
+- 50/50 between coding and management (i.e. manage peers with interviews, conducting 1on1’s with team, leading strategy, etc.)
+
+- Growth opportunity – will be helping build out this team (2-3 more direct reports under this manager by the next fiscal year)
+
+Employer-provided
+
+Pay range in United States
+Exact compensation may vary based on skills, experience, and location.
+
+Are you looking for a career opportunity that allows you to grow your career? If so, this opportunity will genuinely excite you! Our client is transforming how their organization services their customers while aligning best in breed technology solutions. We are looking to build out our BI Team and are in search of a Data Engineering Manager who will help manage & support best in class work and work on innovative projects for the business.
+
+Required Skills:
+
+
+Experience with some business intelligence tools.
+Tableau knowledge and experience
+Cloud experience with any platform. The client is currently leveraging Google Cloud Platform.
+Strong technical aptitude and background
+10+ years experience working with BI platforms
+Solid Understanding of Data Engineering Standards
+Data Integration Platform experience 10+ years
+Data Warehouse-oriented Data Architecture & Modeling solid experience
+Data Stacks Experience
+Data Integration Approaches expertise
+Prior experience managing and leading teams
+Excellent Communication Skills and Personality
+Prior experience working with businesses and customers
+Prior industry experience working for a mid to large sized company would be ideal
+
+Position Details:
+
+
+The client is building their business intelligence practice and need someone that will help them modernize their BI tech stack to help them provide better analytics as they are in the process of moving from legacy applications to a more modern BI technology environment.
+Lots of upward growth potential in this role and the expectation in this role would be to eventually move into a director role at the company.
+The client is looking for someone that can help build out the analytics strategy.
+They are working on a lot of innovate projects to include working on projects leveraging IOT, Supply Chain innovations, Ecommerce(B2B and working on B2C, Salesforce & Automation and sales automation.
+This role will be responsible for driving the technology stack, building out the architectural roadmaps, building out the BI team, leading the delivery and solutions of the projects and leading the Tier 3 support team.
+You will be responsible for building out the team of 5-10 developers
+The ideal candidate will have a technical background, but this is not a hands-on role.
+This is a customer/business/executive facing position with high visibility – candidate needs to very polished, professional, comms skills, presentation skills etc
+
+Benefits: GSquared Group offers a competitive healthcare package and IRA benefits with company match to W2 consultants.
+
+About GSquared Group:
+
+GSquared Group is a boutique technology talent and consulting solutions company with a trusted reputation built over 20 years of experience in the Atlanta market. Our experience translates into a diverse and loyal network of clients and technology professionals who trust in us to connect them with top talent for their most compelling, innovative, and inspiring technology career and project-based opportunities.
+
+
+We believe in building lasting relationships with clients, consultants, and candidates - and it shows. We take pride in connecting technology professionals with positions that are the right fit – not just the right job. We are only as successful as the professionals who represent us.
+
+
+At GSquared Group, expect unparalleled professionalism and expertise you can depend on, delivered by a team of professionals focused on ensuring you are positioned to thrive. Discover more at www.gsquaredgroup.com.
+
+Solutions we offer:
+
+Technology Talent Solutions for contract, contract-to-hire, and direct hire positions
+
+Technology Consulting Solutions for short-term, high-touch, high-value engagements
+
+About GSquared Group:
+
+Shouldn’t your recruiting partner put as much effort and value into your career as you do? With GSquared Group, we take the time to understand where you would like to take your career and what is important to you.
+
+GSquared Group is a woman-owned boutique technology services company in the Atlanta area. Founded in 2010, we are a premier provider of IT talent search, management consulting, and software development services. We support a diverse client base that spans all industries and includes Fortune 100 to mid-market companies. We offer direct hire placement, contract, and contract-to-hire positions. We are proud to be known by our community for putting relationships at the core of everything we do.
+
+GSquared Benefits:
+
+Competitive & Comprehensive Healthcare Package (available only for W2 hourly consultants)
+Simple IRA with company match (available only for W2 hourly consultants)
+Professional development & networking opportunities
+A family-friendly environment
+Nice bonuses for referrals
+A culture that supports you and your career
+Hear what others are saying on Glassdoor: https://www.glassdoor.com/Reviews/GSquared-Group-Reviews-E651488.htm?filter.iso3Language=eng
+
+Data Engineering Manager
+
+
+This position will play a pivotal role on the Vari Technology Team contributing to business-critical projects in Vari’s Data Practice by supporting systems architecture, configuration, development, implementation, deployment, and support of Data capabilities for Vari. This role will primarily be responsible for expanding our existing Data Practice by establishing Data Governance processes across Vari’s expanding landscape. This role will also ensure that we have solutions around data quality capabilities and play a pivotal role in establishing future Data Strategies and Governance to improve efficiency, quality, and controls.
+
+
+This position will report to the Director of Technology but work daily within the business application teams and peer departments at Vari. We are looking for someone who is passionate about delivering excellence both tactically and through collaboration, strong partnerships, and exemplary customer service to internal stakeholders.
+
+
+
+
+WHO YOU ARE
+
+
+You:
+
+Raise the bar by taking the initiative to achieve results and make excellence your goal.
+Create lifelong fans by making customer experience your top priority.
+Are authentic and say what you mean, share how you feel, and are your true self.
+Are a team player and foster a sense of community by recognizing and valuing the unique contributions of our team.
+Believe it’s possible and look at challenges optimistically – seeing opportunities to bring solutions to the table.
+Embrace change and recognize the industry and the company is evolving.
+
+
+
+WHAT YOU’LL DO
+
+
+Provide Functional expertise on Master and Transactional Domains, as well as knowledge of key Integration points across Vari’s system ecosystems.
+Support ongoing projects, enhancements, and day-to-day production support activities.
+Identification of business strategic opportunities that will enable implementation of Data Governance policies, Metadata strategy and Data Quality Standards; support the design of target state architecture for the project development of the integration layers across systems.
+Stay current on emerging trends in Data Management processes
+Lead in strategizing and managing Data Management implementations across multiple domains in the areas Data Service Execution, Governance, Metadata and Data Quality
+Support definition and prioritize systems integration between MDM and source/target systems (cloud) including liaison with product owner, system owners and data stewards
+Troubleshoot and diagnose complex issues, coordinate with business and technical teams to resolve issues.
+Effectively work with business and IT team to prioritize and plan implementation of changes.
+Ability to work independently and alongside others on multiple activities, with flexibility to manage competing demands and changing priorities.
+Balances needs of multiple stakeholders. Gains buy-in from groups who may be resistant to change.
+Champion continuous process improvement, performance management, and metrics-driven results.
+
+
+
+HOW YOU’LL GET THERE
+
+
+Bachelor's degree in Computer Science, Information systems, Engineering or a related discipline preferred.
+7+ years of relevant data management consulting or industry experience (master data, metadata, data architecture, data governance, data quality, data modeling, data standards)
+Must understand Data Requirements for interfaces necessary for implementation and operation end-to-end Vari’s solution processes.
+Experience with Azure, Salesforce, or SAP solutions would be plus
+Minimum 5 Years Microsoft SQL experience preferred.
+Strong background in implementing Data Management – Product Information Management solutions preferred
+Detailed understanding of data governance and data profiling concepts.
+Proven track record of managing customer-centric data management and governance solutions across a complex portfolio of stakeholders
+Define and maintain Data Governance Objectives and Key Results (OKRs).
+Exhibits strong analytical ability and creativity in developing and integrating an end-to-end solution.
+Lead and manage Technology staff resources as assigned.
+Communicate data governance strategy and policies and provide guidance on their operational implementation.
+Excellent written and verbal communication skills. Strong relationship management skills.
+Proficiency in Atlassian (Jira, Service Desk, Confluence) preferred.
+Working in Agile environment preferred.
+Proficiency in MS Office (Word, Excel, Project, PowerPoint, SharePoint) preferred.
+
+
+
+
+Company Description:
+
+
+We started by developing the world’s leading sit-stand desk converter to help a coworker with back pain, but now we’re so much more than a desk. We are flexible workspace solutions made simple and installed fast.
+
+
+From a collection of office furniture to workspaces offering space-as-a-service, we provide everything high-growth businesses need to unlock the potential of their workforce. Today, we have over 3 million fans worldwide. We’ve shipped products to more than 120 countries, and our solutions are in 98% of Fortune 500 companies.
+
+
+We promote a company culture that encourages diversity, creativity, innovation, and inclusion. Vari® has become one of the most innovative, forward-thinking companies in the world. We’re growing quickly, so our company is fast-paced and exciting, but also friendly and supportive. Our employee benefits package includes medical, dental, and 401K, but also profit sharing, education reimbursement, and wellness perks, like an onsite gym.
+
+
+
+Why Vari?
+
+
+We’re award winners:
+
+Best Place to Work - FORTUNE
+National Entrepreneurs of the Year – EY
+Fastest Growing Company in DFW – SMU
+Award Winning Leadership – CEO of the Year (DCEO, 2021), Most Admired CEO (Dallas Business Journal, 2019), CMO of the Year (American Marketing Association, 2019), Outstanding CFO Large Private Company (DCEO, 2019)
+Multiple Innovation Awards
+
+We want you to be happier and healthier:
+
+Your own Active Workspace
+On-site gym with Peloton Cycle and locker room
+Group fitness classes – from bootcamps to yoga
+Comprehensive health plans
+Wellness program and insurance premium discounts
+
+We value our employees:
+
+Community events that promote company culture
+Enhanced paternity / maternity programs
+401K and Profit-Sharing plan
+Up to three weeks of personal time off a year
+Earn up to 8 hours of volunteer time off a year
+Team building events on and off site
+Short-term and long-term disability premiums covered at 100% by Vari®
+
+Are you interested in building the future of healthcare and transforming the patient experience? Are you hopeful about what data and medical research can do to improve medicine? We’re looking for a Data Engineer to ensure PatientIQ remains on the forefront of using data to drive positive healthcare outcomes.
+
+As the manager for our Data Engineering Team, you will lead a team in a dynamic environment that works cross-functionally with all other departments, such as Engineering, Product, Customer Success, and Sales. You will work on a broad array of problems that rely heavily on solid data engineering principles being in place: business intelligence, data science, and software engineering. We heavily value diligence, curiosity, and initiative, as those are key to unlocking the value of PatientIQ's data for our users and our decision-making. Your work will be impactful across the entire organization.
+
+Role Responsibilities
+Coordinate engineering efforts to positively impact the lives of our customers and their patients.
+Facilitate engineering team meetings and remove roadblocks for the team. Run standups and train others to do the same.
+Work with product managers and other engineering team leads to advocate for new product features.
+Report on project statuses to the company.
+Evangelize our software development best practices within the team.
+Perform peer code reviews to ensure the team is producing well-tested and maintainable code.
+Mentor team members on your direct team, as well as others.
+Planning for new hires, recruiting, hiring, and training Data Engineering team members
+Develop and maintain ETL infrastructure to support the ingestion of external data sources.
+Build and maintain tools necessary to ingest new customer data.
+Define and implement key metrics for PatientIQ's data warehouse.
+Help scale PatientIQ's data strategy as the platform and business grows.
+
+Requirements
+
+Ideal Qualifications
+Experience leading a team of data engineers or software engineers.
+Experience with PostgreSQL, Redshift, Looker, Tableau, Metabase, or similar.
+BS/MS in Computer Science, Engineering, Mathematics, or related field.
+Deep knowledge of SQL and at least one database technology.
+Proficient in Python or Ruby a plus.
+Experience with version control systems (e.g. git) and writing reusable and extensible code.
+Highly self-motivated with strong analytical problem-solving skills and attention to detail.
+
+Nice to Haves
+Experience with workflow management systems.
+Experience designing, building, and maintaining ETL infrastructure in a production setting.
+Experience in machine learning and/or business intelligence.
+Experience with ETL tools like Apache Kafka, Logstash, Segment, or Informatica.
+Experience with cloud technologies such as AWS, Google Cloud Platform, or Azure.
+Experience working in Healthcare, Finance or another regulated industry.
+
+Benefits
+Great Benefits - top-notch health, dental and vision insurance. Additional perks available including 401K.
+We are Mission Driven - our team is motivated to solve complex problems, drive medicine forward, and ultimately improve patient outcomes.
+True Idea Meritocracy - great ideas win out. We encourage all team members to challenge the status quo because our mission demands this.
+Flexible Time Off - we trust you to take the time you need when you feel it is appropriate, given your workload and responsibilities. No need to track it or save up.
+World-Class Team - we’re at the top of our industry because of our employees. They’re the best investment we can make, and we never forget that.
+Fast Growing - we are building the largest platform for healthcare providers, industry partners, researchers, and others to collaborate on the mission to improve patient outcomes.
+
+How would you like to become a Platform Engineering Manager for a globally recognized media company in their Data division? This role provides the opportunity to oversee the creation of new digital products that will be used by millions of users worldwide.
+
+
+What's The Job?
+
+As our Engineering Manager in the Data division, you'll oversee a team of 6 engineers, including Full-Stack, Backed Software, and Data engineers. You'll work cross-functionally with other engineering teams supporting the build and optimization of our Data platform.
+
+
+The goal of your team is the continued infrastructure build of our Data Platform, and the creation of new digital products that will increase the personalization of our users experience, and in turn drive user growth and engagement.
+
+
+We want you to maximize the individual potential of each of the engineers under your guidance, and the teams overall productivity.
+
+
+We are looking for a Software Engineer first, who has expertise in using Data tools and building Data products/platforms.
+
+
+You'll be approximately 80% hands-off, to 20% hands on.
+
+
+The ideal candidate has experience as a Backend Software / Data Engineer before moving into an Engineering Manager position for at least the past 2 years.
+
+
+This role is fully remote, but you're more than welcome to come into the NYC whenever you'd like.
+
+
+Who Are We?
+
+We are a globally recognized media company headquartered in NYC. We have several million users / customers that view our content both in traditional print and digitally, the latter being our biggest area of growth and focus right now. We have invested significantly in our technology departments of late, and we continue to see that value in putting our resources in our Data platforms development.
+
+
+What Skill's Do You Need?
+
+Previous experience as a Software and/or Data Engineer.
+Minimum of 2+ years in a people management position.
+You are able to maximize individual and team performances.
+You have a modern tech stack in your armory: Go, Python, Scala, SQL, dbt, Apache Beam, Fivetran.
+Excellent inter-personal and communication skills to work cross-functionally with other engineering teams in an effective way.
+
+Compensation:
+
+$170,000 - $190,000 Base Salary.
+15% Bonus.
+RSUs.
+Full Robust Benefits Package (Vision, Dental, Health).
+401(k) w/ Matching.
+Fully Remote.
+Employer-provided
+
+Pay range in United States
+Exact compensation may vary based on skills, experience, and location.
+Base salary
+$170,000/yr - $190,000/yr
+
+Data Engineering Manager
+
+
+SUMMARY
+
+Vari is looking for an experienced Data Engineering Manager to lead our data practice within our Technology Team. In this role, you will lead a small team of data engineers to help drive the transformation of our internal data platform. You will partner with other internal stakeholders to refine and execute against our data strategy, vision, and roadmap to deliver the business insights and analytics required to scale our business.
+
+We are looking for someone who is passionate about delivering excellence both tactically and through collaboration, strong partnerships, and exemplary customer service to internal stakeholders.
+
+
+WHO YOU ARE
+
+You:
+
+
+Raise the Bar by taking the initiative to achieve results and make excellence your goal.
+Create Lifelong Fans by making customer experience your top priority.
+Are Authentic and say what you mean, share how you feel, and are your true self.
+Are a Team Player and foster a sense of community by recognizing and valuing the unique contributions of our team?
+Believe it’s Possible and are the optimist who looks at challenges as opportunities and brings solutions to the table.
+Embrace Change and welcome change that comes your way learning from it.
+WHAT YOU’LL DO
+
+
+Lead a team of data engineers to support ongoing data projects, enhancements, and day-to-day production support activities.
+Collaborate with other internal stakeholders to develop and then operationalize our data vision, strategy, and roadmap.
+Key contributor in the development of an enterprise data governance process. Including, a focus on data quality, master data management, and our overall operational excellence as it relates to data.
+Lead the team in the migration of the existing data warehouse to a new more robust and scalable Data Architecture.
+Manage the team on incorporating new internal and external data sources by designing and implementing new dimensional data models and schemas and the ETL process to populate them.
+Balances needs of multiple stakeholders. Gains buy-in from groups who may be resistant to change.
+Champion continuous process improvement, performance management, and metrics-driven results.
+
+HOW YOU’LL GET THERE
+
+
+Bachelor's degree in Computer Science, Information systems, Engineering or a related discipline preferred.
+7+ years of relevant data management consulting or industry experience (master data, metadata, data architecture, data governance, data quality, data modeling, data standards)
+Experience with Azure, Salesforce, or SAP solutions would be plus
+Minimum 5 Years Microsoft SQL experience preferred.
+Detailed understanding of data governance and data profiling concepts.
+Proven track record of managing customer-centric data management and governance solutions across a complex portfolio of stakeholders
+Define and maintain Data Governance Objectives and Key Results (OKRs).
+Exhibits strong analytical ability and creativity in developing and integrating an end-to-end solution.
+Excellent written and verbal communication skills. Strong relationship management skills.
+Proficiency in Atlassian (Jira, Service Desk, Confluence) preferred.
+Proficiency in agile/scrum frameworks with experience leading scrum teams.
+
+Company Description:
+
+
+We started by developing the world’s leading sit-stand desk converter to help a coworker with back pain, but now we’re so much more than a desk. We are flexible workspace solutions made simple and installed fast.
+
+
+From a collection of office furniture to workspaces offering space-as-a-service, we provide everything high-growth businesses need to unlock the potential of their workforce. Today, we have over 3 million fans worldwide. We’ve shipped products to more than 120 countries, and our solutions are in 98% of Fortune 500 companies.
+
+
+We promote a company culture that encourages diversity, creativity, innovation, and inclusion. Vari® has become one of the most innovative, forward-thinking companies in the world. We’re growing quickly, so our company is fast-paced and exciting, but also friendly and supportive. Our employee benefits package includes medical, dental, and 401K, but also profit sharing, education reimbursement, and wellness perks, like an onsite gym.
+
+
+
+Why Vari?
+
+
+We’re award winners:
+
+Best Place to Work - FORTUNE
+National Entrepreneurs of the Year – EY
+Fastest Growing Company in DFW – SMU
+Award Winning Leadership – CEO of the Year (DCEO, 2021), Most Admired CEO (Dallas Business Journal, 2019), CMO of the Year (American Marketing Association, 2019), Outstanding CFO Large Private Company (DCEO, 2019)
+Multiple Innovation Awards
+
+We want you to be happier and healthier:
+
+Your own Active Workspace
+On-site gym with Peloton Cycle and locker room
+Group fitness classes – from bootcamps to yoga
+Comprehensive health plans
+Wellness program and insurance premium discounts
+
+We value our employees:
+
+Community events that promote company culture
+Enhanced paternity / maternity programs
+401K and Profit-Sharing plan
+Up to three weeks of personal time off a year
+Earn up to 8 hours of volunteer time off a year
+Team building events on and off site
+Short-term and long-term disability premiums covered at 100% by Vari®
+
+**Vari® provides equal employment opportunities to applicants and employees without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or disability.
+
+Position Summary
+
+As a data engineer on the Reprise Data Solutions & Governance team, you will working with data from Fortune 500 companies in just about every industry. You’ll have the opportunity to write advanced SQL queries using T-SQL, create aggregate views for Tableau visualizations, and work within the AWS ecosystem. To succeed in this role, you have a few years of hands-on experience with relational databases, writing SQL statements, and have a good understanding of how and where to process data efficiently. You should be able to consider data from the perspective of an end user to derive actionable insights that tell a functional story. You also have or are interested in gaining experience in the AWS ecosystem.
+
+
+Any addition to our team would be comfortable driving their own work, communicating with cross-functional teams of diverse backgrounds, and have the confidence to share their opinions and insights. The best candidate would be curious and think critically before implementing a possible solution.
+
+
+Key Responsibilities
+
+Write T-SQL to execute queries and create aggregate views for reporting
+Analyze existing SQL statements to improve performance and validate business requirements
+Work with our DBA to update the schemas and improve performance
+Perform data quality checks to validate ETL processes
+Document code and processes
+Use Jira and Kanban methods to plan and deliver work
+
+Desired Skills & Experience
+
+Strong SQL/T-SQL skills such as subqueries, CTEs, window functions, or complex joins
+Familiarity with ETL jobs and writing scripts
+Tableau or other visualization experience
+Ability to translate between functional business users and technical requirements for developers
+(Bonus) Media/Ad experience
+(Bonus) AWS experience with RDS, EC2, Glue, S3, Athena, and related services
+(Bonus) Using git and versioning to collaborate with the team and manage code
+
+Employment Transparency
+
+It is the policy of Mediabrands, division of the Interpublic group, to provide equal employment opportunities to all employees and applicants for employment without regard to race, color, ethnicity, gender, age, religion, creed, national origin, sexual orientation, gender identity, marital status, citizenship, genetic information, veteran status, disability, or any other basis prohibited by applicable federal, state, or local law.
+
+Please note this job description is not designed to cover or contain a comprehensive listing of activities, duties, or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.
+
+The employer will make reasonable accommodations in compliance with the American with Disabilities Act of 1990. The job description will be reviewed periodically as duties and responsibilities change with business necessity. Essential and other job functions are subject to modification. Reasonable accommodations may be provided to enable individuals with disabilities to perform the essential functions.
+
+For applicants to jobs in the United States: In compliance with the current Americans with Disabilities Act and state and local laws, if you have a disability and would like to request an accommodation to apply for a position with Mediabrands, please email accommodation@mbww.com
+
+SENIOR DATA ENGINEERING MANAGER
+
+SAN FRANCISCO BAY AREA
+
+$210,000 - $240,000 + RSUs
+
+
+Looking for a strong people Senior Data Engineering Manager to join a critical data team at a company that is a leader in its industry with extreme growth and proven success. If you want to make a big impact through your drive in data and leadership skills, this is the job for you!
+
+
+THE COMPANY
+
+
+This is a leading company that is centered around an automation platform and enables business to improve productivity. This Senior Data Engineering Manager will be engaging with multiple stakeholders, and lead their team in data initiatives that make a large impact across the entire company.
+
+
+THE ROLE
+
+
+As a Senior Data Engineering Manager, you will be responsible for leading a team to build out a vision and direction for their data products. You will have the opportunity to make lending decisions regarding the architecture and data systems.
+
+
+Set the vision for the Data Engineering team
+Lead and grow a team of data engineers
+Work and engage closely with multiple stakeholders across the company
+Be a strong people leader first
+Cross functional engagement
+Improve visibility into their data systems
+
+YOUR SKILLS & EXPERIENCE
+
+
+Previous work-experience with AWS products
+Fluent in Python and SQL
+Experience working with Redshift
+Strong leadership skills- Empowering, motivating, able to delegate
+Well-versed in stakeholder management
+Nice to have: AI/ML experience
+
+BENEFITS
+
+210,000- 240,000 base salary
+RSUs
+Medical, Dental, Vision Insurance
+
+HOW TO APPLY
+
+Please register your interest by sending your resume to Alexandra Oechsle via the apply link on this page.
+
+*** Prefrably looking for someone who can work from Pittsburgh - PA (Preffered Location) / Memphis – TN but open to consider for someone who is willing to work initial 2 weeks from Pittsburgh - PA (Preffered) / Memphis – TN; after that can have flexibility to work Remotely but willing to attend client meeting in-person once in a month or two months at client location for key meetings ***
+
+
+Required Skills and Qualifications:
+
+
+Core Skills:
+
+8-10 years of Project Delivery Management (Agile preferred) with of hands-on experience on data engineering, data architecture, BI/Analytics, data operations and data migrations & integrations in GCP cloud environments.
+
+Job Roles & Responsibilities
+
+Accountable to the overall solution delivery, data program management, service metrics, status reports
+Act as an Agile and DataOps coach / Sr. Data Engineering Manager, on data modernization, data engineering, improvements on data operations, ML Operations, and data engineering excellence
+Responsible for the design, build and optimize end-to-end autonomous data pipelines and implementation of production grade and scalable data ops framework & MLOps framework
+Lead & coach both client and service provider teams on day-to-day basis to enable data to support strategic enterprise digital transformation
+Drive cultural, process, and technology transformation aligning data engineering, data Integration, data duality, and data Security, data best practices
+Assess DataOps maturity of current landscape of data and infrastructure on key organizational data and business process/factors
+Assist team in developing proposed target data architecture, data models and data governance processes
+Prepare and recommend the best practices with data and analytics delivery engineering and engagement governance.
+
+Nice to Have:
+
+Multi-cloud experience is a plus - GCP, Azure.
+Experience with Snowflake, EDW’s like Teradata is a plus.
+Expertise in SQL Server database architecture, TSQL development, and tuning
+Solid experience in MS traditional data warehousing (SQL Server, SSIS, etc.)
+Pay range unavailable
+
+**This role is open as a remote opportunity**
+
+
+Signet Jewelers is the world's largest retailer of diamond jewelry, operating more than 2,800 stores worldwide under the iconic brands: Kay Jewelers, Zales, Jared, H.Samuel, Ernest Jones, Peoples, Piercing Pagoda, Rocksbox and JamesAllen.com. We are a people-first company and this core value is at the heart of everything we do, from empowering our valued team members, to collaborating with our customers, to fostering the communities in which we live and serve. People – and the love their actions inspire – are what drive us. We’re not only proud of the love we inspire outside our walls, we’re especially proud of the diversity, inclusion and equity we’re inspiring inside. There are dynamic career paths awaiting you – rewarding opportunities to impact the lives of others and inspire love. Join us!
+
+
+
+Signet is creating a best-in-class customer data platform team that will lead to a connected ecosystem of data, technology, tools, techniques, people, and processes. The selected candidate in this role will drive technology and engineering efforts that enable advanced analytics and actionable insights to help drive Signet's performance. This team serves as internal consultants to essential functions across the Digital Organization.
+
+
+Strategy & Planning
+
+Lead data engineering effort to deliver a single view of customers and prospects.
+Lead the technical architecture and implementation of our Customer Data and Analytics platform
+This role will be a member of the Digital technology organization and will create and deliver on the technology roadmap for our customer data and analytics platform.
+Collaborate closely with Application architecture and Developments cross functionally to ensure all future solutions are built in alignment with our data strategy
+Play an active role in Digital Architecture Review Board
+Ability to provide thought leadership for best practices and new/emerging concepts in the areas of data management and analytics.
+Educating technology personnel on best practices in areas like governance models and frameworks
+
+Project Implementation
+
+Own and lead initiatives to define, design and implement the customer data platform solution which includes reference architectures, estimates, and costing.
+Prepare technical design documents, presentations for architecture review board, reports, and other technical artifacts.
+Collaborate with various business, IT teams and vendors to elicit requirements and implement solutions.
+Manage a team responsible for implementation, architecture and ongoing support of the customer data and analytics platform
+Review technical designs different vendor teams produce for accuracy and best practice adherence. Do the same during the development phases to ensure the code produced is of highest quality.
+Performs additional duties and projects as assigned.
+Consistent regular scheduled attendance is considered an essential function of this job.
+
+Formal Education & Certification
+
+Bachelor’s degree in relevant field of study.
+
+Knowledge & Experience
+
+Minimum Years of Experience: Five (5) years of professional experience including project or program management.
+Minimum Years of Experience: Two (2) years of experience driving business case development, including quantitative and qualitative analysis.
+Demonstrate Minimum 3 Years of Experience with database design principles, modern ETL principles, BI/visualization tools, trends in Big Data, integration with SaaS applications.
+Minimum 2 Years of Experience with at least one major CDP vendors like Adobe RTCDP, Blueconic, Tealium, Salesforce or similar
+Minimum Years of Experience: Two (2) years of deep experience with a web analytics platform (Adobe Analytics or Google Analytics).
+
+Personal Attributes
+
+Listening, verbal and written communications skills with the ability to translate information into understandable terms to a variety of audiences.
+Responsive and alert to new learning opportunities, growth, and development of technical, interpersonal and business skills; able to recognize and address areas needing improvement.
+Motivated and competent to contribute appropriate time and effort to work needing attention.
+Attentive to detail with focus on accurate and timely results.
+Organized and able to prioritize tasks, responding effectively to competing needs.
+Attentive and reactive to customer needs and concerns.
+Strong customer service orientation.
+Able to contribute to team effort and individual achievement.
+
+At HashiCorp, we’re building a generation-defining infrastructure software company, powered by our core principles and a growing team of talented, committed professionals working together to help organizations seamlessly transition to and operate in the cloud. Founded in 2012 and headquartered in San Francisco, 85 percent of our employees work remotely, strategically distributed around the globe. From our inception we built the company with a remote-first approach because we believe talent has no boundaries.
+
+About The Role
+
+Product Analytics is focused on translating our trove of data into consumable models and tools that accelerate time-to-insight for the HashiCorp product organization.
+
+As a Sr. Analytics Manager, you will work closely with IT Data Engineering and Cloud Analytics to orchestrate pipelines that power your analyses and dashboards to enable actionable insights for your stakeholders.
+
+You will make it easier for every PM and key business stakeholder at HashiCorp to reliably self-serve answers to their questions about customer behavior and product usage, by leveraging the wealth of customer and product data we generate.
+
+This role is an individual contributor with both functional and technical responsibilities.
+
+Responsibilities
+Deliver on inquisitive analyses that answer critical business questions.
+Own the creation and maintenance of self-serve tools (Looker dashboards, Tableau visualizations, etc.) that will enable the PM organization to be more data-centric in their decision-making.
+Engage deeply with the HashiCorp product teams to understand their journey to the cloud and help drive the right data pipelines to capture those journeys.
+Identify and drive opportunities to make data more consumable and decrease time-to-insight for analytics consumers.
+Skills And Experience
+5+ years developing analytics from data to dashboard using enterprise tools like Tableau and Looker for a B2B SaaS company.
+Experience working with data from user behavior platforms like Segment, Heap, and Mixpanel.
+Strong grasp of SQL, structuring data and ability to effectively query multiple tables of different grains with the use of subqueries and window functions.
+Excellent problem-solving analytical skills with the ability to synthesize and communicate complex results.
+Ability to shape ambiguity into tangible deliverables.
+Strong communication skills with an emphasis on written communication.
+Experience presenting insights and recommendations to senior leaders.
+Experience with stakeholder management and setting expectations.
+Preferred Qualifications
+Strong business acumen with 2+ years experience developing analytics for go-to-market functions (Sales, Marketing, Services).
+Knowledge of Python or R.
+Knowledge of visualization best practices.
+Strong grasp of data modeling and semantic layers, understands both data lake and data warehousing models.
+Attributes We Look For In Successful Analytics Managers
+Attention to detail
+Self-directed and inquisitive
+Explain complex ideas simply
+Ability to tell a story with data
+Ability to set and manage expectations
+HashiCorp embraces diversity and equal opportunity. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. We believe the more inclusive we are, the better our company will be.
+
+For more information regarding how HashiCorp collects, uses, and manages personal information, please review our Privacy Policy.
+
+The Senior Manager of Customer Experience Analytics will play a critical role supporting internal teams’ ability to understand and utilize customer experience data in ways that create value for subscribers, partners, and Asurion. This role serves as a technical expert with the skills to lead a team of analysts in the development of scalable datasets, complex reports and dashboards to support our internal Customer Experience partners. The ideal candidate will have familiarity with data visualization and querying tools, data modeling techniques, critical thinking proficiency, strong business acumen, and superior analytical and communication skills.
+
+
+This role is responsible for the achievement of three objectives:
+
+Design and support development of analytics infrastructure (including data structures).
+Development of customer analytics dashboards and insight tools
+Lead the delivery of Customer Experience data analytics
+
+The leader in this role will support a team of analysts to further develop these competencies for CX.
+
+
+Key Responsibilities
+
+Lead a team of analysts and engineers to create and utilize large, cross-platform data sets and tools to put reliable, clear data in the hands of our customer experience teams
+Lead the development of tools to enable high-quality analyses of customer data for stakeholders
+Manage multiple concurrent projects, including providing documented status updates and guides to milestone delivery for stakeholders
+Act as operational data champion on behalf of CX stakeholders to ensure enterprise operational data improvements and accuracy
+Partner with teams across marketing analytics and IT to design and implement data infrastructure and processes that will allow for sophisticated customer insights development.
+Independently analyze data, validate contents for accuracy, and assist in the creation of datasets using SQL
+Design and develop complex and performant datasets using BI tools, especially Power BI
+Partner with the Director, Marketing Analytics and Business Intelligence to define proper solutions for customer analytics (e.g. technical architecture, vendor selection, systems integration) and ensure achievement of strategic objectives for the Marketing Analytics organization.
+Develop close alignment with IT / Security / Legal teams on all platform development to ensure compliance with Security / Regulations / Risk mitigation issues
+TEAM LEADERSHIP
+
+Maintain product backlog for Customer Experience analytics in alignment with CX stakeholders
+Provide technical leadership for the development of analytical products
+Ensures creation of documentation for data processes and flows
+Provide coaching and mentorship for a team of skilled analysts
+Develop the leadership capabilities of the internal team
+Identify and close technical skill gaps on the team
+Ensure team is using the most efficient and effective techniques for delivering marketing support programs
+
+Essential Qualifications
+
++7 years of prior work experience in roles that include data engineering or business intelligence (e.g., engineer, design, testing)
+Experience delivering data analysis products for business stakeholders
+Experience building intuitive and informative reports and dashboards using BI tools such as Power BI or Tableau
+Demonstrated experience using SQL to query relational database management systems
+Analytical mindset and experience
+Ability to manage ambiguity and communicate uncertainty, including anticipating challenges in advance of project impacts
+Strong ability to communicate, including explaining complex concepts to diverse audiences
+Familiarity collaborating with data analysts and data infrastructure teams
+
+Preferred Qualifications
+
+Bachelor’s degree in engineering or other technical disciplines (e.g., Computer Science, Mathematics, Information Management)
+Experience working with Customer Experience teams and using related data like experience survey responses and customer attributes
+Experience using advanced analytical languages (Python, R) or platforms (e.g. Dataiku, IBM Watson Studio)
+
+ABOUT GAIN THEORY:
+
+Gain Theory (A Wunderman Thompson Company) is a global marketing effectiveness consultancy, empowering marketing and insight professionals to create agile, smarter, data-informed cultures using data, technology and advanced analytics.
+
+
+Gain Theory is trusted by clients around the world to enhance business performance in both the short and long-term by improving marketing effectiveness and efficiency, increasing baseline profits, growing market share and driving share price growth.
+
+
+The global team consists of 200+ consultants, data scientists, mathematicians and marketing technology specialists who operate globally servicing 113 markets worldwide.
+
+
+THE ROLE
+
+Gain Theory (A Wunderman Thompson Company) is looking for a Senior Manager to support our Analytics efforts for key clients in North America. The Senior Manager will be primarily client facing where they will oversee, manage, and build robust data management solutions required for Gain Theory to deliver our full analytical solutions to clients. This individual will be an innovative, problem-solving networker who is motivated to drive data initiatives within North America and globally.
+
+
+The Senior Manager will need to collaborate with a diverse team of client leads, data engineers, analysts, designers, solution owners, and various COEs (centers of excellence) in a global matrix structure. Our teams bring together cutting-edge data engineering, advanced analytics, unified measurement products and enterprise scalable engineering to build products that will shape the next decade of faster, smarter, data informed decision-making. We believe consumer privacy, client confidentiality, brand growth and user experience are essential to performance.
+
+
+RESPONSIBILITIES
+
+
+Analytics
+
+• Develops project timelines and deliverable schedules
+
+• Oversees creation of Marketing Mix and Multi-touch Attribution Models, utilizing multivariate regression analysis
+
+• Manages project progress, concerns about deliverables, issues, etc.
+
+• Uses Tableau, SQL, Excel, etc. for data manipulation, analysis, and reporting
+
+• Produces and interprets diminishing return curves based on model results and develops multiple-scenario simulations and optimizations
+
+
+Client Interaction
+
+• Leads client engagement and manages the overall relationship
+
+• Creates and delivers presentations that exceed client expectations
+
+• Uncovers business needs and identifies areas of opportunity for growth
+
+• Organizes and leads in-person client meetings and conference calls
+
+• Negotiates and resolves client, agency, and vendor conflicts
+
+
+Management
+
+• Demonstrates time management skills to ensure on-time completion of projects on accelerated schedule
+
+• Manages internal team and effectively fosters teamwork and drives motivation
+
+• Resolves project conflicts
+
+• Participates in the development, mentoring, and retention of staff members under their management
+
+• Actively contributes to company initiatives, processes, and roll-outs
+
+
+REQUIREMENTS
+
+• Bachelor’s degree required, MBA or Advanced degree preferred
+
+• 3+ years related work experience
+
+• Client relationship management expertise
+
+• Exceptional written and verbal communication skills including presenting and story telling a must
+
+• Experience in managing and mentoring team members
+
+• Experience in Marketing Mix Modeling, Multitouch Attribution, Media Optimization required
+
+• Strong analytical skills; ability to analyze raw data, draw conclusions, and develop actionable recommendations
+
+• Understanding of industry research sources, such as Nielsen/IRI sales data or TV/online advertising data
+
+• Proficient in Microsoft PowerPoint and Excel, including pivot tables and V-Lookups
+
+• Comprehensive understanding of Statistics (Correlations, T-Stats, R2, sample sizing, etc)
+
+• Python, R, SQL, and Tableau experience is highly preferred
+
+• Excellent problem-solving, quantitative and analytical skills
+
+• Capability to handle multiple projects and meet tight deadlines
+
+• High attention to detail
+
+• Ability to work under minimal supervision and take initiative on assigned tasks
+
+Overview
+
+Mavent Analytics is a data and analytics strategy, delivery and talent services firm. We have been engaged by our client to lead an executive search for a Head of Data & Analytics role (seeking Director or VP level). This position is remote for those located in the broader Midwest with travel required monthly to our client’s Iowa headquarters. A relocation package is available for those not located in the Midwest.
+
+Are you the right fit?
+
+You have experience transforming data rich organizations into insights driven organizations; you have been through the journey and have the strong desire to do it again
+You are a strong and relentless leader that enjoys the process of evangelizing for the data & analytics team by partnering with the business to drive impactful strategies that result in operational excellence, accelerated company growth and increased profitability
+You prefer to be in a broader data & analytics leadership role that spans analytics, data architecture, platform development, data enablement / management, data governance, data science, BI and data engineering
+You are capable of enhancing a current data & analytics vision and strategy by redeveloping the roadmap for future scale and growth; you are a change agent that has experience changing organizational behavior to a data driven culture
+You understand the importance of building a high performance culture and excel at growing leaders and scaling teams
+What’s in it for you?
+
+Privately held organization with strong support and investment into the business without the red tape of many corporate environments
+Mature organization and national leader in their industry with plans to double revenue in the next five years; be instrumental in the achieving growth and enjoy the benefits that come with it
+Opportunity to work for a company with strong core values and culture; they walk the talk and are fully invested in their people
+Report directly to the CIO who embraces autonomy and is highly invested in personal and professional growth for his team
+Strong starting position; not a start-up situation but focused on evolving and growing data maturity to the next level
+Mission / Responsibilities
+
+Own accountability for the development and execution of the data & analytics strategy
+Establish relationships with the executive team and business stakeholders; drive buy-in and support of the data & analytics strategic roadmap
+Deliver data analytics capability in parallel with the data foundational work that is taking place over the next couple of years; deliver key analytics insights to the executive team and business partners throughout the organization (balance strategic and tactical measures)
+Drive advanced analytics and data science initiatives that support pricing, revenue growth, profitability, and operational efficiency programs – accountable for insights that drive these programs to success
+Build an effective data governance process that promotes clarity and action
+Refine and enhance data enablement / management approaches and capabilities for the organization
+Define the organizational structure - solid framework for the analytics, data science and engineering teams; career paths and development programs that supports substantial growth over the next 2-3 years and builds a talent advantage
+Required & Preferred Skills/Education
+
+Approximately 8-10 years + of experience leading and scaling diverse data & analytics teams in rapidly growing and changing environments
+Experience building and executing data & analytics strategies and roadmaps
+Strong leader with executive presence and influential style
+High level of business acumen; as important as the data & analytics experience
+Proven ability to lead change and evangelize for the data & analytics teams
+Experience assessing data architecture needs and contributing to technology and platform design
+Capable of implementing robust data enablement / management structures
+Prior success designing and leading enterprise data governance programs
+Possess the experience to build real-time analytics with rear-view and predictive approaches
+Diverse team leadership comprised of data, BI, analytics / data science, and data engineering teams
+Must have experience collaborating with leaders in data science and data engineering to develop and productionalize machine learning and artificial intelligence models
+Industry experience in manufacturing or related fields including supply chain, CPG, logistics, construction, retail, or pharma highly preferred
+Graduate-level degree in a quantitative field including analytics, statistics, mathematics, engineering, or economics highly preferred
+*Mavent Analytics and our client engages in ways that embrace diversity of race, ethnicity, culture, gender identity, age, sex, disability and experience.
+
+How would you like to become a Director of Data Engineering at one of the largest media and entrainment companies on the planet? If you love leading teams taking on true Big Data projects and initiatives, this is the place for you!
+
+
+What's The Job?
+
+
+We are looking for a Director of Data Engineering that is both technical and a great people manager. We want your technical skills to gain the respect of the engineers you will be leading, hold them technically accountable, and to high standards. You'll be conducting code reviews, and need to know the nuance of the technologies we use.
+
+
+As our Director of Data Engineering you'll be leading 4 different projects, and you need to be able prioritize and switch content effectively. You will have around 5-8 full time employees reporting to you here in the U.S. and may need to liaise with off shore contractors if necessary.
+
+
+We are a true Big Data environment, heavily using Spark, Databricks, Scala and AWS. We have 80 different data sources to ingesting out our data platform, so you'll be working with Petabytes of data. We are also using a little Snowflake now too, so if you have experience with it, thats a nice bonus.
+
+
+This role can be done fully remote, or you're more than welcome to work out of our NYC office whenever you'd like. We do work East Coast hours, and have regular 9am EST standups.
+
+
+Who Are We?
+
+
+We are a global leader in the media and entertainment business. We have a vast array of properties that combine to millions of users on a daily basis. We are headquartered in NYC, but are open to our technologists working remotely or coming into the office on a hybrid model. As a company, we are responsible for some of the most loved and cherished brands that entertain all demographics, and are continually pushing the envelop to stay at the forefront of our industry. Our properties include TV, streaming, movies & theme parks.
+
+
+What Skills Do You Need?
+
+
+Previous people management experience either as a manager or director.
+Experience with Big Data and technologies such as Spark, Databricks, AWS, and Scala.
+If you have used Snowflake previously, that is an added bonus but not necessary.
+
+Compensation:
+
+
+$200,000 - $220,000 Base Salary.
+Annual Bonus of 10%
+Full Benefits Package (Dental, Vision, Health)
+Lots of other perks that come with a global entertainment company like free theme park tickets and streaming subscriptions
+Ability to choose your work environment - fully remote or come into NYC office when you prefer.
+
+What's In It For You?
+
+This is a great opportunity to join a large and successful division. Our division alone in the company could be its own Fortune 500 entity - our division generates between $8-12 Billion dollars. You'll get to work on an already very well built and robust data infrastructure, that is truly a Big Data environment. We have developed advanced techniques to drive costs, some of which we have submitted patents for.
+
+About Upstart
+
+Upstart is a leading AI lending platform partnering with banks and credit unions to expand access to affordable credit. As we transitioned to being a public company, we’re now poised to leverage our domain expertise and revolutionize every aspect of lending and credit risk evaluation. We’ve recently expanded our offerings to include automobile refinancing and we plan to take on more verticals as the business grows.
+
+By leveraging Upstart's AI platform, Upstart-powered banks and credit unions can have higher approval rates and lower loss rates, while simultaneously delivering the exceptional digital-first lending experience their customers demand. Upstart's patent-pending platform was the first to receive a no-action letter from the Consumer Financial Protection Bureau related to fair lending. Upstart not only supports a large remote workforce, but also has offices in San Mateo, CA; Columbus, OH; and Austin, TX.
+
+Most Upstarters join us because they connect with our mission of enabling access to effortless credit based on true risk. If you are energized by the impact you can make at Upstart, we’d love to hear from you!
+
+The Team
+
+Data Engineering is part of the Engineering org. Data Engineering serves 2 functions, building a self service data platform and enabling intelligent use of data which is central to the success of our product and company. Our data engineering team provides an ecosystem of tools and datasets that enable both business users and technical users to reliably access our data.
+
+The Role
+
+As the Director of Data Engineering at Upstart, you will be responsible for Upstarts data, which includes;
+
+Upstart is looking for an experienced engineering leader for our Enterprise data team. Our companies entire business model revolves around data. We are the first lending platform to leverage machine learning to price credit and automate the borrowing process using the data capabilities built by data engineering.
+
+In this role, you will be responsible for the core infrastructure which supports analytics, development, deployment, and monitoring of enterprise data models and pipelines that serves usable data across all ML & Analytics solutions in the company and other business units.
+
+If you are looking for the opportunity to join a hyper-growth company, develop a high performing team and make an outsized, lasting impact on an organization, this may be the right opportunity for you.
+
+Position Location - This role is available in the following locations: Remote, San Mateo, Columbus
+
+Time Zone Requirements - This team operates on the East/West Coast time zones.
+
+Travel Requirements - This team has regular on-site collaboration sessions. These occur 5 days per Quarter at one of our office locations. If you need to travel to make these meetups, Upstart will cover all travel related expenses.
+
+How you’ll make an impact:
+Partner with our recruiting team to attract a diverse team of exceptional engineers,
+Coach individuals and managers through career and skill development,
+Partner with product management, Engineering , Analytics, data scientists, and other internal stakeholders to set the technical roadmap for our reporting , analytical and ML capabilities
+Partner with data science teams on the development and deployment of new ML solutions.
+
+What we’re looking for:
+Minimum requirements:
+Have 10+ years of engineering management experience and 15+ years overall software engineering experience,
+Have led teams of 10+ engineers and have experience managing managers,
+Expertise in cloud native / big data technologies
+Expertise in building reporting & analytics solution in a platform way
+Preferred qualifications:
+Are a excellent communicator in person and in writing,
+Are comfortable working with remote teams
+Want to be part of a dynamic and fast paced environment
+Have a track record of attracting and developing great engineering talent
+Are well versed in agile development methodologies
+The minimum base pay for this position in Colorado is $190k + bonus + equity + benefits. Base pay may vary depending on job-related knowledge, skills, and experience. This information is provided in accordance with the Colorado Equal Pay Act. It is specific to Colorado and may not be applicable to other locations.
+
+Upstart is a proud Equal Opportunity Employer. We are dedicated to ensuring that underrepresented classes receive better access to affordable credit, and are just as committed to embracing diversity and inclusion in our hiring practices. We celebrate all cultures, backgrounds, perspectives, and experiences, and know that we can only become better together.
+
+https://www.upstart.com/candidate_privacy_policy
+
+100% Remote
+
+This Jobot Job is hosted by Samantha Cunningham
+
+Are you a fit? Easy Apply now by clicking the "Apply" button and sending us your resume.
+
+Salary $180,000 - $210,000 per year
+
+A Bit About Us
+
+Alignment with the core values collaborative, curious, and courageous
+
+
+
+Why join us?
+
+
+We’re looking for a Director, Data Engineering to join us and drive a cohesive data strategy across all our partners. We’re looking for a leader with the technical acumen to ensure we build scalable and sustainable data solutions. The Director of Data Engineering will build a team that will implement their defined data strategy and drives data engineering best practices in collaboration with other engineering teams. Does this sound like you? If so, please read on…
+
+What You Will Do…
+Lead, manage and grow our data engineering team
+Work closely with peers and our global leadership team to establish a motivating environment of innovation and creativity
+Define our data strategy including ingestion, integration, distributed data processing, and data security
+Work to modernize our existing tech stacks and data platforms
+Collaborate with product and other engineering leaders to find areas of opportunities for automation and machine learning
+Partner with Product and other key stakeholders to understand roadmap and vision to identify data requirements and define delivery plans for both business intelligence and data analytics
+Collaborate with cross-functional leaders to identify functional & technical requirements and design data solutions using best practices and modern architecture.
+Job Details
+
+Qualifications
+8+ years of relevant experience in the data engineering field
+5+ years of experience leading and managing engineering teams
+Strong experience with Data Lake Infrastructure, Data Warehousing, and Data Analytics tools
+Strong experience with cloud-based data platforms (AWS, GCP & Azure)
+Solid understanding of Agile development methodologies
+Strong communication and collaboration skills
+Passion for creating and sustaining a diverse and inclusive culture where individuals and teams can do their best work and unlock their potential
+Interested in hearing more? Easy Apply now by clicking the "Apply" button.
+
+The Head of Data Engineering will manage and direct the company’s data engineering departments. Our team is growing and if you are passionate about brand building, e-commerce and career growth, this could be a great fit.
+
+
+Salary: $185-$230K + bonus + equity
+
+Location: Remote
+
+In this position, your supervisory responsibilities include but are not limited to: Hire and train IT staff; Schedule, organize, and assign projects to members of the IT team; Conduct performance evaluations that are timely and constructive.
+
+What You Will Do:
+
+Manage a high performing, agile software team in a rapidly growing, global organization.
+Partner closely with engineering, product, and leadership to facilitate project delivery.
+Leveraging your background, actively contributing to technical discussions and strategy.
+Contribute to department-wide initiatives promoting technical excellence, innovation, engagement, and diversity.
+Work with our recruiting team to hire and onboard top engineering talent.
+Encourage a healthy and innovative team culture demonstrating core values through mentorship and coaching.
+Constantly detect and take advantage of opportunities to improve team performance, quality, and communication (Kaizen!).
+You’ll Succeed With:
+
+BS or MS in computer science or a related technical field.
+10+ years experience developing software
+5+ years experience with large scale data pipelines, data analytics and ETL.
+2+ years experience managing remote, international multi-disciplinary teams
+2+ years experience with near real time streaming
+Hands-on manager, able to write code and perform code reviews
+Excellent communication, documentation, and presentation skills.
+Excellent time management, prioritization, and decision making skills driving high-impact, rapid, and iterative change in a fast-moving environment.
+Excellent communication, documentation, and presentation skills.
+Experience hiring, onboarding and developing strong engineering teams.
+Experience with coaching and mentorship to elevate team performance.
+Ability to take initiative and make an impact on the larger organization.
+Ability to work remotely and manage your own time in an international team.
+Nice to Haves:
+
+Experience with Kafka, Kafka Streams/Flink/KSQL and/or Confluent
+Experience with Redis, mySQL and Postgres
+Real time ETL experience
+Knowledge with avro, protobuf or similar
+Knowledge of PHP, Perl, NodeJS, Python, Java
+AWS experience
+Experience with Atlassian products (JIRA/Confluence/BitBucket) and with Github
+Knowledge of Shopify or E-Commerce a plus
+
+ClickHouse: We are the company behind the popular open-source, high performance columnar OLAP database management system for real-time analytics. ClickHouse works 100-1000x faster than traditional approaches . By offering a true column-based DBMS, it allows for systems to generate reports from petabytes of raw data with sub-second latencies. With an amazing community already adopting our open-source technology, we are now embracing our journey in delivering Cloud first solutions to delight our customers.
+
+With top adopters such as Uber, Cisco, and eBay - not only do our products work at lightning speed, so do we.
+
+We are an open and collaborative company. Our colleagues are curious, engaged and excited about what they do. If you want to work in an environment where you can be an agent of change and have your voice heard- then read on.
+
+ClickHouse is focused on growing a vibrant user community and becoming a Cloud-first company. We are looking for a Product Manager experienced with driving SQL database capabilities. This is an exciting opportunity to work with a popular open-source project to extend and deepen its core capabilities and to develop cloud-native extensions that delight developers and data analysts across many use cases and market segments. If you are a doer, with a “can do” mentality, and a bias for action - we would love to hear from you.
+
+What you will be doing:
+Understand the real-time analytics and cloud database markets, competition, and technology trends in depth
+Engage with the ClickHouse open source user community and ClickHouse Cloud customers to understand current and aspirational use cases for ClickHouse core database
+Distill and prioritize feature requests and issues into clear priorities for net-new capabilities and improvements
+Work with engineering teams to scope and refine approaches to solving customer problems, both in the core database and in ClickHouse Cloud offerings
+Set clear measurable goals around customer success, and use data-driven approaches to ensure new capabilities meet customer needs
+
+What you bring along:
+Knowledgeable and passionate about data engineering markets - data warehousing, data analytics, data science, business intelligence, and observability
+Strong vision around where these markets are headed, and what it takes to become a leader in this space
+Previous experience with ClickHouse or a highly related OLAP technology at a deeply technical level, including expert SQL skills
+Previous experience with open source projects, ideally as a product manager
+Passionate about building enterprise capabilities that are powerful yet easy to use
+Excellent written and verbal communication skills
+Comfortable with public speaking at meetups, conferences, webinars
+Ability to influence multiple stakeholders without direct authority
+Comfortable working with ambiguity and evolving based on business needs
+
+Bonus Points for:
+Previous contributions to open source projects
+Engineering experience, ideally around distributed/cloud systems in C++
+Experience effectively working remotely in a global, distributed organization
+
+Perks:
+Flexible work environment - ClickHouse is a distributed company offering both office based and remote work options (your choice!). We do not check when you log in or out. You are the owner of your calendar because work-life balance is important to us.
+Employer contributions towards your healthcare.
+Equity - Any new team member who joins our company is eligible to receive stock options.
+Our competitive time-off policy complies with all local country laws at a minimum of given time off + all paid bank holidays.
+Home office setup allowance for our remote employees.
+
+ClickHouse, Inc. is an Equal Opportunity Employer. We respect and seek to empower each individual and support the diverse cultures, perspectives, skills and experiences within our workforce. We celebrate diversity and do not discriminate based on race, religion, color, national origin, sex, sexual orientation, age, veteran status, disability status, or any other applicable characteristics protected by law.
+
+Grow With Us
+
+“In Tandem” means together, and we strive to embody that in every aspect of our business. Whether your office-based or fully remote, Tandem Diabetes Care creates new possibilities for people living with diabetes, their loved ones, and the healthcare providers supporting them through a positively different experience.
+
+
+INNOVATE EVERYDAY
+
+At Tandem, we strive to put our values into action. Our “Team Up”, “No shortcuts” approach has propelled us to be an industry leader and make significant strides in the diabetes technology space. We are proud to be the makers of the only color, touch-screen insulin pump that is capable of remote feature updates and compatibility with continuous glucose monitoring. Watch our latest video to see our product features and capabilities here: t:slim X2™ Insulin Pump with Control-IQ™ Technology
+
+
+a Day In The Life
+
+The Data Science & Analytics team uses Tandem’s data assets to solve data-driven problems, generate knowledge and insights, answer business questions with data, identify and prioritize opportunities to improve overall user experience (products, processes, and experiences), and develop a portfolio of data-centric products & services powered by machine learning and algorithms. The team is also tasked with developing & maintaining the data infrastructure, tools, and models necessary to enable this work and to meet the core data provisioning needs of the organization’s data consumers.
+
+The Sr. Product Owner II, Data Platform will work with data engineers, data analysts, data scientists, and cross-functional data consumers to understand data science and analytics use cases. They will define and prioritize the data platform capabilities to support these use cases, facilitate the cross-team collaboration needed to map these capabilities into stories, manage the data infrastructure team’s backlog, and communicate and coordinate with the stakeholders.
+
+Develops a deep understanding of Tandem’s data strategy, data science and analytics use cases, and data consumers’ core pain points and jobs to be done
+Defines the data platform product vision aligned to our team and company goals and growth
+Understands emerging data science, analytics, and data infrastructure technologies and identified opportunities where these technologies could address core pain points and jobs to be done
+Works cross-functionally to develop and explicitly communicate the data platform capabilities, goals, and roadmap
+Works with stakeholders to turn their requests into clear problems to solve
+Facilitates the cross-functional problem solving needed to define data infrastructure user needs and stories
+Creates and clearly communicates backlog items to the data infrastructure team
+Orders backlog items
+Ensures the backlog is transparent, visible, and understood
+Supports program increment planning
+Effectively communicates with stakeholders and users to understand their needs and clarify expectations
+Builds shared understanding within and across the teams, and with stakeholders
+Facilitates collaboration and communication
+Helps the team understand the context for their stories
+Participates in the cross-functional definition of a data-centric product roadmap for patients, payors, providers, and internal stakeholders
+
+You’re Awesome At
+
+Understanding of new data science, analytics, and data infrastructure technologies and how they might be applied to help solve relevant problems
+Capable of identifying user needs and facilitating collaborative problem-solving to address them
+Able to leverage the team to map a problem into user stories and create shared understanding around them
+Knowledge of the fundamentals of data engineering and data ops
+Good foundation in data architecture design
+Knowledge of or experience with Azure Cloud, Databricks, SQL Server, and data modeling
+Customer empathy
+Ability to think strategically
+Extraordinary communication skills, verbal and written, and demonstrated ability to influence, persuade, and ability to articulate a value proposition to a technical and non-technical audience
+Ability to maintain focus on the key problems to be solved
+Capable of managing multiple priorities effectively and be able to identify and recommend best course of action from several alternatives.
+Adept at influencing and driving complex projects across multiple functional groups
+Capable of managing multiple backlogs with some dependencies
+Good understanding of data science & analytics
+
+Extra Awesome
+
+Bachelor’s Degree in a quantitative discipline
+Minimum of 7 years’ experience acting as a product owner or product manager
+Experience with data engineering, data science, or data analytics
+
+WHAT’S IN IT FOR YOU?
+
+In addition to innovative technology, we have a culture that fosters the idea that the happiest people are the most productive people. Not only do we hire forward-thinking achievers to join our workforce; we reward, develop, and retain them too. Just one of the many reasons of how we #StayAwesome! To learn more about our culture and benefits please visit https://www.tandemdiabetes.com/careers.
+
+
+BE YOU, WITH US!
+
+Tandem is firmly committed to being an equal opportunity employer and maintaining a diverse and inclusive environment. We value and embrace that every single one of us brings value to the table. But sometimes we forget that when we don’t meet 100% of a job description’s criteria – maybe you’re feeling that way right now? We encourage you to apply anyway. Because we want you to be you, with us.
+
+• Overall 12+ yrs in IT
+
+• Technical program management: 5+ years
+
+• Deep technical experience in Data Analytics and Data Pipelines
+
+• Solution Architecture involving complex systems.
+
+• Strong SQL querying skills mandatory. Cosmos/Kusto/Databricks a plus.
+
+• Strong Communication and cross-functional skills – roles which involve coordinating with 10+ teams.
+
+• Ran multiple projects simultaneously and manage Campaigning.
+
+• Meeting with stakeholders to coordinate and gather requirements
+
+• Coordinating with stakeholders and business in Quarterly roadmap planning
+
+• Communicating project updates to stakeholders
+
+• Coordinate between teams on estimates and cross team communications
+
+• Track project deliverables and ensure deliverable meet the timelines
+
+• Coordinating sprint Grooming with leads
+
+• Drive and coordinate sprint Planning meeting between Data Engineering and Viz team
+
+Grow With Us
+
+“In Tandem” means together, and we strive to embody that in every aspect of our business. Whether your office-based or fully remote, Tandem Diabetes Care creates new possibilities for people living with diabetes, their loved ones, and the healthcare providers supporting them through a positively different experience.
+
+
+INNOVATE EVERYDAY
+
+At Tandem, we strive to put our values into action. Our “Team Up”, “No shortcuts” approach has propelled us to be an industry leader and make significant strides in the diabetes technology space. We are proud to be the makers of the only color, touch-screen insulin pump that is capable of remote feature updates and compatibility with continuous glucose monitoring. Watch our latest video to see our product features and capabilities here: t:slim X2™ Insulin Pump with Control-IQ™ Technology
+
+
+a Day In The Life
+
+The Data Science & Analytics team uses Tandem’s data assets to solve data-driven problems, generate knowledge and insights, answer business questions with data, identify and prioritize opportunities to improve overall user experience (products, processes, and experiences), and develop a portfolio of data-centric products & services powered by machine learning and algorithms. The team is also tasked with developing & maintaining the data infrastructure, tools and models necessary to enable this work and to meet the core data provisioning needs of the organization’s data consumers. The Sr. Product Owner II, Data Science & Analytics will work cross-functionally to define data science use cases and data products. They will facilitate collaboration and manage the backlog for a team of data analysts, data scientists, and data engineers who use data and modeling to create data products that help the organization meet its objectives.
+
+Develops a deep understanding of Tandem’s customers’ and stakeholders’ core pain points and jobs to be done
+Understands emerging data science, analytics, and data infrastructure technologies and identified opportunities where these technologies could address core pain points and jobs to be done
+Works cross-functionally to develop and explicitly communicate the data strategy and goals
+Works with stakeholders to turn their requests into clear user needs and problems to solve
+Creates and clearly communicates backlog items
+Orders backlog items
+Ensures the backlog is transparent, visible, and understood
+Supports program increment planning
+Effectively communicates with stakeholders and users to understand their needs and clarify expectations
+Builds shared understanding within and across the teams, and with stakeholders
+Facilitates collaboration and communication
+Helps the team understand the context for their stories
+Participates in the cross-functional definition of a data-centric product roadmap for patients, payors, providers, and internal stakeholders
+
+You’re Awesome At
+
+Ability to think strategically
+Understanding of new data science, analytics, and data infrastructure technologies and how they might be applied to help solve relevant problems
+Capable of identifying user needs and facilitating collaborative problem-solving to address them
+Able to leverage the team to map a problem into user stories and create shared understanding around them
+Customer empathy
+Extraordinary communication skills, verbal and written, and demonstrated ability to influence, persuade, and ability to articulate a value proposition to a technical and non-technical audience
+Ability to maintain focus on the key problems to be solved
+Capable of managing multiple priorities effectively and be able to identify and recommend best course of action from several alternatives.
+Adept at influencing and driving complex projects across multiple functional groups
+Capable of managing multiple backlogs with some dependencies
+Good understanding of data science & analytics
+
+Extra Awesome
+
+Bachelor’s degree in a quantitative discipline
+Minimum of 7 years’ experience acting as a product owner or product manager
+Experience with data science, data engineering, or data analytics
+
+WHAT’S IN IT FOR YOU?
+
+In addition to innovative technology, we have a culture that fosters the idea that the happiest people are the most productive people. Not only do we hire forward-thinking achievers to join our workforce; we reward, develop, and retain them too. Just one of the many reasons of how we #StayAwesome! To learn more about our culture and benefits please visit https://www.tandemdiabetes.com/careers.
+
+
+BE YOU, WITH US!
+
+Tandem is firmly committed to being an equal opportunity employer and maintaining a diverse and inclusive environment. We value and embrace that every single one of us brings value to the table. But sometimes we forget that when we don’t meet 100% of a job description’s criteria – maybe you’re feeling that way right now? We encourage you to apply anyway. Because we want you to be you, with us.
+
+
+Referrals
+
+We love a good referral! If you know someone that would be a great fit for this position, please share!
+
+
+If you are applying for this job and live in California, please read Tandem’s CCPA Notice:
+
+https://www.tandemdiabetes.com/careers/california-consumer-privacy-act-notice-for-job-applicants
+
+
+
+
