@@ -44,10 +44,10 @@ for lines in f:
     line = strstrip(f.readline()).strip()
     
     # make a dictionary of unique lines
-    if line not in txtlines.keys():
+    if line not in txtlines:
         # lines with 3 words or less are typically headers in a hierachy and not useful here
         if line.strip().count(' ') > 3:
-            txtlines[line] = {}
+            txtlines[line] = []
     
     # make a dictionary of unique keywords
     for s in  line.split(' '):
@@ -55,39 +55,76 @@ for lines in f:
         # check for plurals
         if ls[-1:] == 's' and ls not in snouns:
             ls = ls[0:len(ls)-1]
-        # add the keyboard if it's not ignored, blank, or only 1 character
+        # add the keyword if it's not ignored, blank, or only 1 character
         if ls not in ignore and ls != '' and len(ls) > 1:
+            # Initialize the list if needed
             if ls not in keywords.keys():
                 keywords[ls] = []
             if line not in keywords[ls]:
+                # Add the line to the keyword
                 keywords[ls].append(line)
+                # Add the keyword to the line
+                if line in txtlines:
+                    txtlines[line].append(ls)
 
 # Count the keywords
 kcnt = {}
+lsum = {}
 for x in keywords:
     kcnt[x] = len(keywords[x])
+for x in txtlines:
+    lsum[x] = 0
+    for y in txtlines[x]:
+        lsum[x] = lsum[x] + kcnt[y]
 
-# Sort the dictionary
+# Sort the keyword dictionary by keyword count
 sorted_tuples = sorted(kcnt.items(), key=operator.itemgetter(1), reverse=True)
 sk = OrderedDict()
 for k, v in sorted_tuples:
     sk[k] = v
 
+# Sort the line dictionary by line score
+sorted_tuples = sorted(lsum.items(), key=operator.itemgetter(1), reverse=True)
+sl = OrderedDict()
+for k, v in sorted_tuples:
+    sl[k] = v
 
-# Calculate the significance
+# Calculate the significance of keywords
 arr = list(sk.values())
 smean = np.mean(arr)
 sserr = np.std(arr)
 npsig = normal_dist(arr, smean, sserr)
 sig = npsig.tolist()
 
-# output
+# Calculate the significance of lines
+larr = list(sl.values())
+lsmean = np.mean(larr)
+lsserr = np.std(larr)
+lnpsig = normal_dist(larr, lsmean, lsserr)
+lsig = lnpsig.tolist()
+
+# Summary Output
 c = 0
 for x in sk:
-    if sk[x] > 1:
-        print ('KEYWORD:  ', x, ' (' + str(sk[x]) + ' / ' + str(round(100-sig[c], 2)) + '%)')
-        for z in keywords[x]:
-            print ('  *', z)
+    if sk[x] > 1 and 100-sig[c] > 94.99:
+        # more than 1 keyword and keyword confidence > 95%
+        l = 0   # line counter for lsig
+        pk = 0  # t/f does this keyboard have at least 1 line with more than 80% confidence
+        for z in sl:
+            if z in keywords[x] and 100-lsig[l] > 79.99:
+                pk = 1
+            l = l + 1
+        if pk == 1:
+            print ('KEYWORD:  ', x, ' (' + str(sk[x]) + ' / ' + str(round(100-sig[c], 2)) + '%)')
+        
+        l = 0   # line counter for lsig
+        for z in sl:
+            if z in keywords[x]:
+                if 100-lsig[l] > 79.99:
+                    # If confidence on the line is reasonably high, print it
+                    print ('  * (' + str(round(100-lsig[l], 2)) + '%)', z)
+            l = l + 1
         print()
     c=c+1
+
 
