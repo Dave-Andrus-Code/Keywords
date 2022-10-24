@@ -1,0 +1,1920 @@
+
+
+Technical Project Manager
+
+Beacon Job Description
+
+ABOUT BEACON DATA
+
+As a full stack data and strategy consulting firm, Beacon leverages machine and human intelligence to help clients deliver breakthrough performance. Organizations don’t just call us to architect smart data strategy – they call us to implement it. As their expert data partner, our cross functional team parachutes in to optimize data environments, clean inconsistent data, and operationalize AI / ML use cases that accelerate growth. But at Beacon, having an impact means more than improving the bottom line: one in four clients is a mission-based organization.
+
+We are constantly in search of top talent to join our team of professionals. As a fast-growing company with a premier client base, Beacon offers exceptional career opportunities both on our internal Solutions Delivery teams as well as externally with our expanding client base on a contractual, contract-to-hire, and/or permanent placement basis. If you are looking to expand your data management skillset and work in a cutting-edge environment, then we want to talk to you.
+
+BEACON PROJECTS
+
+No Beacon project is ever the same; we work across multiple sectors, providing unique learning and development opportunities. Examples include: deduping and stitching together millions of airline customer records to increase FFP membership; decreasing idle rates for a supply chain services company by predicting optimal inventory levels; leveraging data signals to optimize fundraising efforts for the largest children’s hospital charity in the U.S.; architecting and implementing expert data strategy for the largest online theater ticketing company; and using ML to optimize each dial attempt and improve credit cardholder debt collection efforts for a global contact center.
+
+WHAT YOU'LL DO
+
+Beacon Data is seeking a talented, Technical Project Manager (“TPM”) to join our data team and help us solve complex and interesting problems for our diverse clients. Your team will:
+
+· Analyze the data flowing through the existing ERP, CRM, IOT and other workflow systems
+
+· Structure and redesign the data flows with the aim of maintaining single source of truth for all master data and consistent reporting
+
+· Set up and maintain the appropriate data infrastructure to support the above plan on an AWS environment (ex: Redshift, EC2, ELT tools, data wrangling tools)
+
+· Maintain the highest security standards across the entire data eco system
+
+· Implement and maintain BI & reporting tools
+
+· Integrate with workflow systems such as Sales Force, Epicor, Adobe Marketing, etc.
+
+· Acquire, ingest, and process data from multiple sources and systems into a data warehouse
+
+· Collaborate with business teams to map data fields to hypotheses and curate, wrangle, and prepare data for use in reporting and BI
+
+
+WHO YOU'LL WORK WITH
+
+The TPM will provide day-to-day leadership and direction to a technical team made up of Data Analysts, Data Engineers and Data Scientists. Beacon’s project team will also work and collaborate closely with this fast-growing client’s internal data analyst, data engineer, and IT department following an agile scrum project delivery method. This is not a “go-to- your-cubicle” role, but rather a dynamic environment with active cross-team communication and collaborative problem solving focused on building tools for improving company-wide effectiveness with data, initially focusing on two foundational data projects:
+
+1) Customer Definition and Customer Data Cleansing; and
+
+2) Order Flow Analysis and Data Streamlining
+
+Once these foundational projects are complete, Beacon and the client will be able to execute many other strategic projects and analyses that will impact business value Other foundational project benefits include understanding customers to more effectively upsell and cross sell, increased productivity inside and outside the IT department, warehouse optimization, increased call center efficiencies, and retiring their old BI platform.
+
+RESPONSIBILITIES
+
+· Be the face of Beacon with this and other Beacon clients.
+
+· Act as liaison between Beacon SME's and Beacon’s on the ground project staff.
+
+· Collaborate with executive leadership, business stakeholders and product management to ensure data solution teams deliver on business needs in a consistent & predictable manner.
+
+· Manage the delivery of data solutions including integration with internal and external systems.
+
+· Help define project scope, deliverables, roles and responsibilities in collaboration with technical stakeholders and business partners.
+
+· Assign and monitor work of technical personnel, ensuring that project steps are in alignment with business objectives, on-time and within budget (manage Jira, stand-up meetings, presentations, client updates, etc.).
+
+· Establish, plan, and execute major client milestone reviews and decision gates to complete the client’s data solution and project life cycle.
+
+· Own a client’s data and technology roadmap and ensure successful execution of the roadmap.
+
+· Drive innovation into client data solutions through technology.
+
+· Champion non-functional requirements like high availability, scalability, and performance.
+
+· Enable rapid iteration processes while maintaining stable data solution delivery for clients.
+
+· Architect and build scalable cloud-based services and supporting delivery processes for clients.
+
+· Collaborate with clients’ senior stakeholders to ensure documentation, architecture guidelines and standards are created, updated and followed.
+
+· Promote a culture of autonomy and initiative, while driving engagement teams to get stuff done.
+
+
+REQUIRED QUALIFICATIONS
+
+· 4+ years proven technology leadership experience.
+
+· 4+ years engineering, architecting, and delivering technology solutions.
+
+· BS in computer science or related field mandatory
+
+· Intellectual curiosity and passion for data, technology, and applied machine learning.
+
+· Ability to offer solutions based on client needs while being technology agnostic.
+
+· Must communicate technical jargon to non-technical people in an understandable way.
+
+· Proven, successful IT project management skills.
+
+· Customer-oriented work ethic and ability to foster a sense of teamwork across all members of the project team extending to the customer.
+
+· Proven leadership skills and the ability to motivate and foster teamwork.
+
+· Experience building services & automated solutions on public clouds (Amazon, Azure, and GCP).
+
+· Experience driving adoption of new technology into existing complex systems.
+
+· Deep knowledge of data architecture and delivery methods and techniques.
+
+· Ability to thrive in a dynamic culture, respond to changing priorities and coordinate development of multiple critical initiatives.
+
+· Ability to independently manage the operational aspects of multiple ongoing initiatives
+
+· Ability to drive to big picture goals and milestones while maintaining strong attention to detail
+
+· Experience in data and business process mapping or operational redesign / improvement
+
+· Strong sense of personal responsibility and accountability for delivering high quality work
+
+WHO YOU ARE
+
+    You are a highly collaborative individual who can lay aside your own agenda, listening to and learning from colleagues, challenging thoughtfully and prioritizing impact. You search for ways to improve things and work collaboratively with colleagues. You believe in iterative change, experimenting with new approaches, learning, and improving to move forward quickly. You also like to have fun and value authenticity.
+
+
+Scrum Master Job Description
+
+We are looking for an experienced scrum master to oversee and guide scrum team on an Agile transformation. The scrum master's responsibilities include ensuring that development teams follow scrum framework values and agile practices, mentoring and motivating the teams to implement and improve processes, facilitating meetings and decision-making processes, and eliminating team impediments.
+
+To be successful as a scrum master, you should have a firm grasp of agile practices and the ability to effectively coach, manage and mentor development teams. An outstanding scrum master should have excellent interpersonal, project management, and problem-solving skills.
+
+Scrum Master Responsibilities
+
+100% Remote Role working US Central Time Zone
+
+Using agile methodology values, principles, and practices to plan, manage, and deliver solutions.
+
+Training, mentoring, and supporting scrum teams to follow agile values, principles, and practices.
+
+Determining and managing tasks, issues, risks, and action items.
+
+Scheduling and facilitating scrum events, meetings, and decision-making processes.
+
+Monitoring progress and performance and helping teams to make improvements.
+
+Planning and organizing demos and product/system testing.
+
+Ensuring the proper use of collaborative processes and removing impediments for the scrum team.
+
+Tracking project processes, deliverables, and financials.
+
+Preparing and presenting status reports to stakeholders.
+
+Scrum Master Requirements
+
+Bachelor's degree in computer science, information technology, or a relevant field preferred.
+
+Certified scrum master, SAFe preferred.
+
+3+ years of experience as a scrum master or in a similar role.
+
+Working knowledge of agile methodology, techniques, and frameworks, such as Scrum or Kanban, to deliver solutions.
+
+Leadership and management experience.
+
+Excellent people and project management skills.
+
+Strong communication and presentation skills.
+
+Strong analytical and problem-solving skills.
+
+Scrum Master
+
+Remote
+
+long term
+
+Job Description
+
+    Financial/Banking/Insurance sector experience is a must**
+
+Required Qualifications And Preferred Qualifications
+
+Bachelor's degree or relevant experience.
+
+Certified Scrum Master; SAFe certification preferred.
+
+6+ years of experience as a Scrum Master required.
+
+2+ years of experience in a SAFe release train practicing PI planning.
+
+Ability to act as a Scrum Master for a large (15+) full-stack application development team or two teams (10+) where needed.
+
+Experience with teams doing web and mobile application development (Android and iOS) highly preferred.
+
+Experience In The Financial Services Industry Preferred.
+
+Working knowledge of agile methodologies and techniques.
+
+Experience using Jira, Mural, Aha, and Qtest (or similar).
+
+Adept at refinement, story splitting, story pointing and estimating, fostering velocity, actionable retrospection, and other Scrum techniques.
+
+Proven leadership and management experience.
+
+Excellent people and product management skills.
+
+Outstanding communication, facilitation, negotiation, and coaching skills.
+
+Strong analytical and problem-solving skills.
+
+Familiarity with Clarity PPM.
+
+Tanuj Mittal
+
+US IT Recruiter
+
+Email: tanuj@stellentit.com
+
+Gtalk: tanuj@stellentit.com
+
+
+Remote Location: Georgia, Texas, Florida, Michigan, Oklahoma, or North Carolina preferred
+
+
+Role Description:
+
+The IT Project Manager is responsible for managing the delivery of Identity Management solutions across a range of technologies. Key project for a Fortune 500 company that is starting soon. The Project Manager will be responsible for leading the project team to define identity lifecycle processes and will be involved in the day-to-day management of the implementation of the IDM solution, including managing third-party vendors, coordinating with the overall program team, creating work plans and tracking progress of the delivery, identifying risks and raising issues to the program.
+
+
+    Manage IDM Requirements, Design, and Implementation
+    Meet the evolving and diverse needs of a broad customer base and various business partners with an emphasis on ‘business value’. Continuously seek creative and innovative means to balance information security with business enablement and efficiency.
+    Ensure compliance with information security standards, policies and procedures. Communicate and implement industry best practices and solutions employed in the information security space.
+    Primary project interface for IT project team and customer stakeholders
+    Act as primary contact to Senior IT Management, including the VP of Technology on project progress and status
+    Work with the project leaders to identify resource requirements, determine appropriate team members, organize project deliverables, and define scope of project
+    Support business analysis and process discussions as part of application migration activities throughout the lifecycle of the project
+    Manage stakeholder expectations throughout the project re: scope, budget, billing, milestones, resourcing, schedules and time frames
+
+
+Qualifications
+
+    A minimum of 3-5 years of relevant program/project management experience with Identity Management
+    Excels working in a dynamic, fast-changing project environment
+    Identity and Access Management experience with a major platform such as SailPoint, Okta, Microsoft, Micro Focus
+    Experience in overseeing at least one enterprise-wide transition to a large IDM solution
+    Comfortable managing aggressive schedules
+    Prior experience successfully managing large-scale IT deployment projects.
+    Strong communication skills (both written and verbal) and possess excellent presentation skills
+    Strong individual and team time management skills, prioritizing and delegating tasks
+
+
+Why Idenhaus?
+
+
+We are a boutique, rapidly growing firm working together to solve our clients’ most challenging IT problems. If you want excitement and the potential to shape your own destiny, come work for us. We are where the action is! We are looking for people with an entrepreneurial spirit who have a true passion for building something great from scratch and are willing to push themselves to achieve big goals.
+
+This customer-facing position represents Jade Global to external customers with primary responsibilities for all contractual and financial aspects for each assigned account or contract. Primary objectives are customer satisfaction and retention and financial profitability for Jade Global.
+‪
+TASKS
+
+    Ensure achievement of the SLA metrics, service KPI’s and customer
+
+satisfaction
+
+    Interface with customer resources to address any delivery issues and concerns
+    Consult with Jade Management to develop strategic and tactical plans for the
+
+account
+
+    Lead weekly, monthly, or quarterly customer meetings as needed
+    Create financially and technically complete and profitable supplemental
+
+proposals for additional services provided to customers
+
+    Support the sales team in pre-sales activities
+    Renew existing customer contracts
+    Establish governance model to ensure success
+
+‪
+EXPECTATIONS
+Skills and Knowledge
+
+    Ability to direct and coordinate efforts and actions across LOB’s within the
+
+Managed Services unit to provide services as contracted by customer
+
+    Exceptional verbal and written communications skills; expertise in setting and
+
+managing customer expectations
+
+    Strong teamwork and interpersonal skills at all management levels
+    Understanding of how to leverage Jade capabilities to increase business
+    Experience in all or some of the following technologies, Oracle, SFDC, SNOW,
+
+BI, Web, Java, Microsoft, client/server, databases, Network, Server, telecommunication, storage, high availability and disaster recovery, job scheduling, asset management, lease management, software distribution, NOC and help desk services
+
+    Demonstrated understanding of operations best practices, including
+
+performance measurement, capacity planning, and all aspects of operational processes
+
+    Strong knowledge and understanding of business needs, with the ability to
+
+establish and maintain a high level of customer trust and confidence
+
+    Vendor negotiation and contract management experience
+
+‪
+Qualifications
+
+    Minimum of 10 years’ experience in several Information Technology fields
+
+(Servers, Databases, Network, Applications, Databases etc.)
+
+    Minimum of 3 years’ experience in customer management roles or equivalent
+    Three to five years of demonstrated technical management/supervisory
+
+experience in systems operations, in most of the following areas:
+
+    demonstrated competency in strategic reasoning and leadership with strong abilities in relationship management
+    demonstrated experience in financial management in the areas of budget, cost control and cost reduction measures
+    demonstrated leadership of multi-discipline, high ‑ performance work teams / groups whether local based or international
+    experienced in working with customers to develop solutions to complex business problems
+    Bachelor’s Degree in Computer Science or related discipline with an
+
+information technology focus, or equivalent technical training; advanced degree preferred
+
+    Best practices experience or certification desired (ISO, ITIL, COBIT, Six
+
+Sigma), including regulatory compliances (SOX, SAS, HIPAA)
+
+    Proven written and oral communications and presentation skills
+    Demonstrated experience in working with technology related external vendors
+	
+	 SCRUM MASTER
+
+
+Location: Westlake and Boston (Remote until Covid)
+
+
+Duration: 12 Months
+
+
+Rate: DOE
+
+
+Job Description
+
+
+    5+ years of experience in software development, with at least 2 years leading complex IT projects/initiatives
+    Good technical exposure and experience in web and mobile application development
+    Hands on experience running technology initiatives, including planning, execution, and delivery
+    Experience leading, influencing and collaborating in a matrix-managed environment and across multiple, diverse groups
+    Experience owning an Agile team; Scrum Master Certification, a plus
+    Bachelor's degree in MIS/Computer Science or related field
+
+Agile Scrum Master experience is a must.
+
+Clear understanding of one of the agile frameworks and key best practices (Disciplined Agile, SAFe, Scrum, Kanban etc.).
+
+Experience supporting the NASCO organization (either as a contractor or employee) or using NASCO tools/products during work with a NASCO customer (such as Horizon, Highmark, etc.).
+
+Position Description
+
+The Certified Scrum Master will focus specifically on the area of Claims API and Digital Connector groups to develop APIs and Events for consumption by Plan and internal customers.
+
+What You'll Get To Do
+
+Determine how backlog tasks will be handled.
+
+Own everything that happens in each sprint.
+
+Facilitate daily stand ups run the stand up or ensure another resource is designated to do so. Work to define and implement best practices.
+
+Plan and constantly manage current and next sprints there will be constant grooming and shuffling. Pull the highest priority items from backlog for sprint planning.
+
+Allocate resources to tasks as prioritized for current sprint and soft-allocates for upcoming sprints.
+
+Identify ancillary resources to support current and upcoming sprints.
+
+Ensure CSRs are written as needed.
+
+Facilitate/coordinate the clearing of blockers.
+
+Be the main point of contact to facilitate responses to issues/defects received from non-Pod resources (i.e., outside of the stand ups).
+
+Track defects.
+
+Allocate 25% of dev hours per sprint to DevOps activities; if/when that is not used, pull high priority tasks forward from upcoming sprints.
+
+Plan and facilitate sprint planning meetings and retrospectives.
+
+Focus on long-term effectiveness of team.
+
+Lead one or more agile teams as the scrum master and team member.
+
+Employ best practices for agile/scrum methodology, while operating within the department's overall SDLC Framework.
+
+Work collaboratively with the product managers and team members to give input and support to the strategic direction of the initiative.
+
+Motivate and support team members and ensures they have the tools and knowledge to do their jobs and that all blocking issues are resolved quickly.
+
+Create self-organizing agile teams and facilitates the delegation of tasks and responsibilities to appropriate team members.
+
+Act as moderator for sprint planning, daily standups, sprint demos, and refactoring/reflection sessions.
+
+In partnership with the Product manager & Product Owner ensure a robust, prioritized backlog is available.
+
+Support Product Manager in understanding and communicating team effectiveness and performance.
+
+Communicate team status to all internal stakeholders and continuously refines/improves metrics by working with the team.
+
+Coordinate cross team dependencies with other Scrum Masters and participate in Agile Community of Practice (CoP).
+
+Escalate issues that require executive attention.
+
+Discover opportunities to support organizational initiatives and develops strategies and programs to promote initiatives.
+
+Participate in the development of programs as a strategic partner that supports the company plan as directed by leadership.
+
+Provide planning, project coordination, and management for the development of organizational initiatives, while concurrently facilitating efficient operations to meet current and future business needs within the organization.
+
+Be responsible for balancing workload to optimize the effectiveness of project development and management.
+
+Perform analysis to determine root cause of challenges and provides solutions for improved operational and process performance.
+
+You'll Bring These Qualifications
+
+Agile Scrum Master experience is a must.
+
+Experience with NASCO products, either through supporting the NASCO organization or working with NASCO products at a NASCO customer.
+
+Clear understanding of one of the agile frameworks and key best practices (Disciplined Agile, SAFe, Scrum, Kanban etc.).
+
+Strong analytical, problem solving and planning skills.
+
+Ability to demonstrate leadership ability to effectively interact with all levels of management. Stakeholder Management, Negotiation and Communication skills.
+
+Understanding of the fundamentals of iterative and incremental development. Ability to help manage scrum team backlog and priorities using agile based tools (ServiceNow, Jira, Rally/Central Agile, Version1, etc.).
+
+Excellent communication, facilitation and mentoring skills.
+
+Ability to effectively present budgetary and/or cost information, and respond to questions as appropriate.
+
+Demonstrable conflict resolution skills.
+
+Demonstrable risk management and mitigation skills.
+
+Knowledge of tools used to assist with scrum team planning (ServiceNow, Jira, Agile Manager, Version1, etc.).
+
+Ability to be flexible as projects are often non-routine and require re-prioritizing of workload. Ability to maintain confidentiality.
+
+Ability to perform other assignments as required by senior management.
+
+Knowledge Of Workers Compensations Industry Preferred.
+
+Prashant
+
+IT Technical Recruiter
+
+Phone: 732-962-1575
+
+Email: Prashant@stellentit.com
+
+Gtalk: Prashant@stellentit.com
+
+https://www.linkedin.com/in/prashant-tyagi-790119210/
+
+ Job title: AGILE SCRUM MASTER
+
+
+Quincy MA (Remote)
+
+
+Experience 11 To15 Years
+
+
+Job summary "
+
+
+" Past Product Owner Work
+
+
+" Mention of Rally or JIRA for backlog management (Either can translate to the other easily)
+
+
+" Training and Certification (POPM) a plus but minimum experience as past PO
+
+
+" Need a confident PO that has no problem working with different levels to prioritize the backlog. We don t need a push over. Need someone who can go in and do their job taking the business with them. So displays confidence to interact with business stakeholders." Required Skills ,Jira, CX-Scrum Master.
+
+
+Diverse Lynx LLC is an Equal Employment Opportunity employer. All qualified applicants will receive due consideration for employment without any discrimination. All applicants will be evaluated solely on the basis of their ability, competence and their proven capability to perform the functions outlined in the corresponding role. We promote and support a diverse workforce across all levels in the company. 
+ Description
+
+Client is looking for a Certified Scrum Master (CSM) and Project Manager (PM). This person is well versed in Scrum and Project Management best practices. Experience with Azure DevOps for user story management & reporting is highly preferred.
+
+Candidates should have experience coaching new development teams and product owners to use scrum best practices. Experience using SAFe is highly desirable.
+
+Must be comfortable managing IT projects using waterfall or hybrid approach. A background in managing vendor lead projects is required. A strong understanding of program management concepts is preferred, and great communication skills are paramount.
+
+Good understanding of technologies like Salesforce, Mulesoft, RPA or Snowflake are a bonus. Candidates are empowered to make a difference in the lives of individuals with Developmental Disabilities in Ohio
+
+Required
+
+    Certified Scrum Master (CSM) from Scrum Alliance
+    4+ years as a Scrum Master on a product team
+    4 + years of experience using the Scrum framework
+    5+ years overseeing vendor lead projects ensuring successful delivery of contract scope and deliverables.
+    7 + years designing & implementing project plans, which identify needs and define major tasks and milestones, based on scope, resources, budget, and personnel.
+    5+ years of previous experience in enterprise (10 project team members or budget greater than $500,000) program/project planning and management functions
+    4+ years of experience using Team Foundations Server or Azure DevOps to manage the product backlog and report team metrics.
+
+Position: Agile PM/Scrum Master
+Location: REMOTE
+Industry: Media/Entertainment
+12 Month Contract + Extensions: W2 or C2C
+This group within this Global Media/Entertainment company continues to grow and expand their direct to consumer line of business. They are seeking an Agile Project Manager/Scrum Master to join theirur Program Delivery team to support multiple delivery teams. As part of this role you will work with the teams to evolve the way they work in support of agile ways of working.
+
+We are looking for a dynamic, collaborative personality that can champion agility while conducting traditional program management activities to ensure we meet our customer needs. You are passionate about leading change, helping shift mindset, fostering new ways of thinking and working and building new capabilities that will help us create value. You are laser-focused on customer satisfaction and building high performing team and will need to wear many hats so flexibility and a can-do attitude are critical!
+
+Major Responsibilities:
+
+    Embrace the agile mindset, advocate and champion Agile Ways of Working across the program teams instituting agile and lean principles through doing, coaching, teaching, and guiding
+    Facilitate meetings such as planning, standups, backlog refinement, and reviews/demos helping the team learn the skills and the value to be had by facilitating these meetings themselves
+    Set up work management tools and the processes to be used by the team and train as needed
+    Monitor the team agile board and establish metrics to measure team progress, productivity, and effectiveness in delivery against goals, identifying anti-patterns or other behavior patterns that emerge
+    Coach the team in the best ways to break down the work into manageable chunks that can be delivered iteratively
+    Help the team to learn how to manage capacity and work estimates properly
+    In partnership with the tech lead, manage risks and issues and resolve them within the team if possible Encourage the team to resolve the impediments they can within the team and take responsibility for removing impediments if the team is unable to do so
+    Foster a cohesive relationship across the team, helping to keep everyone aligned and working collaboratively
+    Facilitate conversations on how the team is trending against the overall roadmap, goals, and objectives
+    Escalate risks and issues to management/leadership as needed for assistance
+    Coach the team throughout delivery ensuring they are following the process and not falling off the rails. This lift becomes less and less over time as the team matures.
+    Develop agile training materials and provide training and coaching to teams on applying agile principles and practices, roles and responsibilities, and frameworks
+    Develop dashboards for tracking, measuring and reporting metrics such as team value delivery, customer satisfaction, team happiness, effectiveness of agile adoption, and team maturity 
+
+Required Skills:
+
+    Minimum 5 years experience as agile project manager/scrum master
+    Certified Scrum Master preferred
+    Experience with scrum, kanban, SAFe, and other agile frameworks understanding what's fit for purpose
+    Hands-on experience with tools such as JIRA and Confluence; Jira administration and knowledge of JQL is a plus
+	
+	Our client is looking for ERP Scrum Master for a Long term project in 100% Remote below are the detailed requirements.
+
+Job Title: ERP-Scrum Master
+
+Location: 100% Remote
+
+Duration: Long term
+
+Job Description
+
+    Bachelor's degree in Computer science or equivalent, with minimum 10+ Years of relevant experience.
+    You should have strong experience as Scrum master for ERP and Salesforce Projects.
+    Expermageience demo and retrospective
+    Experience in IR story - backlog grooming, acceptance criteria.
+    Must be Conduct Scrum meetings - every two weeks
+    You should Coordinate daily stand-up meetings
+    You should Report to RT - release train engineer - burndown chart, report
+    You must attending scrum of scrum meeting, participate meeting and discuss , impediments and dependencies
+    Should coordinating PI planning event - helping team prod owner, taking goals, objectives for PI planning
+    Demonstrate excellent communication skills including the ability to effectively communicate with internal and external customers.
+    Ability to use strong industry knowledge to relate to customer needs and dissolve customer concerns and high level of focus and attention to detail.
+    Strong work ethic with good time management with ability to work with diverse teams and lead meetings
+	
+	
+Meet the hiring team
+Daniel
+Daniel Panizza
+2nd
+The Wolf of Main St. 🐺 | Recruitment Professional | Investor
+Job poster
+Message
+
+We're searching for an experienced Project Manager with experience managing Saas services projects. You will be managing large software related projects related to our transportation video safety software platform, SmartDrive!
+
+
+https://www.omnitracs.com/smartdrive
+
+
+What You’ll Do
+
+    Manage large, multi-location, multi-phase implementations as well as technical projects spanning seven of the core products.
+    Coordinate with Sales, Customer Experience, Sales Engineering, the Professional Services PMO, and customers to gather customer data and ensure project readiness.
+    Prepare initial project management documents and tools based on templates and the Professional Services Statement of Work and or Price Schedule, including project plans, issues lists, and other standard PS tools.
+    Lead discovery and consulting calls with internal teams and SmartDrive customers.
+    Resolve technical and customer problems, escalating issues and inquiries when necessary.
+    Assume responsibility for documenting project activities and status and provide information to project teams, Professional Services management, and other SmartDrive teams relevant to client billable work.
+    Act as project lead on internal projects, such as building the framework for and mentoring teammates on new PS service offerings.
+    Perform best practices analysis and consult with customers and PS management on increasing ROI.
+    Interact with customers in a professional manner, including proper handling of customer complaints.
+    Respond to customer email inquiries in a professional manner.
+
+
+What You’ll Bring
+
+    EDUCATION: Bachelor’s degree preferred.
+    EXPERIENCE: 3-5 years’ experience with software implementation project management.
+    Experience with the SmartDrive software solutions strongly preferred.
+    Excellent listening, presentation, verbal, and written communication skills.
+    Ability to effectively manage multiple projects and deadlines at the same time.
+    Proficiency with MS Office and Windows.
+    Ability to learn and stay current on SmartDrive’s product suite.
+    Ability to work independently, take ownership of tasks and deliver high quality services.
+    Ability to operate in a high energy, fast-paced enterprise software environment.
+    Ability to work a flexible schedule and embrace change enthusiastically.
+    Ability to function effectively in a project team to ensure customer satisfaction.
+    Some travel required.
+
+
+*Target compensation will be $60,000 base with a 10% annual bonus to start*
+
+
+Please send an email or text to Daniel Panizza if qualified and interested to speed up the process.
+
+Innowave Marketing Group is an established, expanding organization that has achieved award-winning success by designing high-impact customer programs in the corporate and hospitality arena.
+
+
+    This is an application to be considered for future openings.*****
+
+
+Applications submitted through this link become part of our applicant pool for future job openings in this role type and you may not receive any updates regarding your application. Applications will be kept on file for at least 6 months and you will be contacted if a role opens up to which your skills are well-suited.
+
+
+Our IT are FULLY REMOTE positions that can be worked from one of the 50 states of the United States or Washington DC. They require a reliable high-speed internet service and quiet working area. Equipment is provided.
+
+
+Functions in this department may include IT Project Manager, IT Business Development Manager, IT Developer, & IT Programmer. These are not typically entry-level positions. Candidates must typically have at least two years of similar experience.
+
+
+Full job description for a typical IT Project Manager role
+
+
+IT Project Manager - Client Projects
+
+
+Job Summary And Responsibilities
+
+
+Plan, document, initiate, track, test, implement and manage information technology (IT) projects to successful completion. Serve as point of contact and liaison between internal team members, external clients, IT partners, and suppliers. Monitor progress to assure deadlines, requirements and cost targets are met. Function as the bridge between the technical operators and the business (client) with a keen eye for detail and solid project management organization.
+
+
+The primary type of IT projects you will be managing are e-commerce websites and B2B websites. The secondary types of IT projects are API integrations. Experience in these areas is required.
+
+
+Required Competencies (Occupational)
+
+
+Project Management
+
+
+    Overall - Successfully plan and execute large and complex IT projects simultaneously and across multiple IT partners and internal and external stakeholders. Experienced in obtaining quotes from various vendor types.
+    PM Lifecycle - Lead projects and product development including technical and non-technical staff in analysis, design, documentation, development, testing and implementation efforts for projects to ensure deliverables meet stated expectations for scope, quality, cost, timing, and business objectives.
+    Change Management - Participate in decisions that impact or change project scope, identifying and documenting needed changes to the original plan and ensuring project stakeholder buy-in for any proposed changes.
+    Risk – Proactively identify and manage project issues and risks throughout the life of the project, developing action and contingency plans as appropriate.
+    QA - Validate project deliverables against scope and quality expectations and participate in project stage-gates (including project post-mortems or wrap-ups), identifying opportunities for execution and process improvement. Verifies application results by conducting system audits of technologies implemented.
+
+
+Documentation / Reporting
+
+
+    Communicate with clients (internal and external) to obtain and clarify business requirements, documenting and decompose those requirements into more granular and actionable IT specifications; look holistically at the downstream impact of requested functionality while identifying risks and unintended consequences.
+    Lead and facilitate meetings, prepare and publish agendas/presentations/minutes from the meetings, prepare status reports, organize project information, and follow-up on action-items and assignments
+    Handle confidential and non-routine information
+    Author Requirements, Statements of Work, IT Quotes, Testing Plans, QA documents, and Training Manuals.
+
+
+Required Competencies (Foundational, Soft Skills)
+
+
+    Deliver on project commitments through leadership, teamwork, problem analysis/resolution, effective and constant communication, and productivity improvements.
+    Skillful at coordinating and integrating multiple work streams and sub-projects to deliver the overall business objectives.
+    Resolve conflicts in prioritization, requirements, resources. Ensure changes are understood and approved.
+    Collaborate effectively with a focus on client-centric service mentality; adept at deescalating, diplomacy and problem solving.
+    Excellent written and verbal communication skills; able to clearly communicate technical concepts to both technical and non-technical audience; able to interact professionally with a diverse group, including executives, managers, and subject matter experts.
+    Uses logic and reasoning to identify strengths and weaknesses of alternative solutions
+    Gives full attention to what other people are saying, takin time to understand the points made, asking questions
+    Exercises sound judgment and takes initiative
+
+
+Qualifications
+
+
+    5+ years of experience as an IT Project Manager preferably using both Waterfall and Agile methodology.
+    5+ years of demonstrated experience leading enterprise-wide business application projects with an understanding of the web application development life cycle and methodologies and experience in eCommerce, B2B website development and API integrations. Exposure to ERPs, and SQL/MySQL and Azure environments is a plus.
+    Strong attention-to-detail, client-centric service instinct and organizational skills
+    Must be able to thrive in and adapt to an extremely fast-moving, dynamic environment.
+    Able to manage multiple priorities, organize complex requests, and resolve issues creatively.
+    Understands project governance, software development and testing life cycles.
+    PMP certification and/or certified scrum master a plus
+    Working experience using Wrike or Asana for issue tracking a plus
+    Proficient in MS Office Suite
+
+
+Work Location
+
+
+    Remote.
+
+
+Travel Requirements
+
+
+    Must be able to travel domestically to client events. Approximate travel may be 3-5 trips/ year at 2-3 days each.
+
+
+Typical Starting Salary Range for this Role: $85,000-$95,000
+
+
+Residency Requirements:
+
+
+    Must be located in one of the 50 states of the United States or Washington DC
+    Sponsorship is not available
+
+
+Core Values:
+
+
+    Accountability
+    Delivering excellence
+    Integrity
+    Attention to detail
+    Follow up and follow through
+    Client centric service
+
+
+Benefits for Full-Time Employees:
+
+
+    Medical insurance
+    Dental insurance
+    Vision insurance
+    Life insurance
+    Voluntary life insurance
+    401(k)
+    Paid holidays
+    Generous PTO policy
+    Company-provided equipment
+    Positions designated as remote are fully and permanently remote
+
+
+About Innowave Marketing Group:
+
+
+    Innowave Marketing Group provides luxury and innovative reward solutions unique to the loyalty and promotional marketing space. Our experts design effective consumer loyalty programs, engagement programs, sales & channel incentives and consumer promotions. Casino programs include loyalty points programs, VIP shopping events and retail store projects.
+
+
+Inclusiveness:
+
+
+    We are an equal opportunity employer and consider all qualified applicants equally without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran status, or disability status
+	Job Description
+
+
+The IT Project Manager will be responsible for driving all phases of medium to large IT projects/programs to successful completion. The IT Project Manager is responsible for providing day to day leadership management and coordination of all activities pertaining to project direction, goal setting, planning, estimating, resource allocation and assignments, project health and reporting, problem resolution and collaboration with key stakeholders to ensure project goals are met. In addition, the Project Manager proactively provides coaching and mentoring to individuals and teams for Project Management best practices, continuous process
+
+
+improvement and customer satisfaction initiatives.
+
+
+Pay Range
+
+
+The typical pay range for this role is:
+
+
+Minimum: $ 75,000
+
+
+Maximum: $ 167,000
+
+
+Please keep in mind that this range represents the pay range for all positions in the job grade within which this position falls. The actual salary offer will take into account a wide range of factors, including location.
+
+
+Required Qualifications
+
+
+5+ years of demonstrated project management experience including managing one or more large complex IT product/software development cycles/projects
+
+
+5+ years experience working in a PMO (Project Mgt Office) environment as project managers, Scrum Masters and/or Product Managers
+
+
+5+ years experience in executing complex projects over previous
+
+
+Scrum Certification
+
+
+Preferred Qualifications
+
+
+∙ Certified Scrum Master (CSM) or Project Management Professional (PMP), Scrum, SAFe Agile certifications - preferred
+
+
+∙ Demonstrated experience in executing complex projects over previous 5-7 years
+
+
+Education
+
+
+Bachelor’s degree in technology area or equivalent experience.
+
+
+Business Overview
+
+
+Bring your heart to CVS Health
+
+
+Every one of us at CVS Health shares a single, clear purpose: Bringing our heart to every moment of your health. This purpose guides our commitment to deliver enhanced human-centric health care for a rapidly changing world. Anchored in our brand — with heart at its center — our purpose sends a personal message that how we deliver our services is just as important as what we deliver.
+
+
+Our Heart At Work Behaviors™ support this purpose. We want everyone who works at CVS Health to feel empowered by the role they play in transforming our culture and accelerating our ability to innovate and deliver solutions to make health care more personal, convenient and affordable.
+
+
+We strive to promote and sustain a culture of diversity, inclusion and belonging every day.
+
+
+CVS Health is an affirmative action employer, and is an equal opportunity employer, as are the physician-owned businesses for which CVS Health provides management services. We do not discriminate in recruiting, hiring, promotion, or any other personnel action based on race, ethnicity, color, national origin, sex/gender, sexual orientation, gender identity or expression, religion, age, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law.
+Quilt Software is becoming a market leader in point-of-sale (POS) software, offering specialty vertical-specific inventory management solutions for high SKU businesses with complex requirements. We offer an integrated payments solutions to manage to process a high volume of payments flowing through the software at a retail or wholesale level.
+
+
+We are backed by PSG Equity. PSG was founded in 2014 and has raised over $10 billion in capital. PSG has invested in dozens of vertical software and integrated payments companies, and facilitated hundreds of add-on acquisitions. To learn more about PSG, visit www.psgequity.com
+
+
+The Technical Project Manager is a highly motivated and technical individual that will drive technology projects through their life-cycle, ensuring technical solutions are sound and aligned with business goals. They will be responsible for the day-to-day management of projects through all stages of the implementation. They will be required to clarify and define concrete actions as part of a larger project plan and will work closely with stakeholders to ensure alignment with goals.
+
+
+This role is fully remote and candidates can be located anywhere in the United States
+
+
+What you will do
+
+    Work as the right hand of the VP of Business Systems
+    Define project responsibilities with stakeholders
+    Research and evaluate hardware and software technology options for each program
+    Track and execute multiple programs pertaining to the business and team mandates
+    Create metrics and tracking systems to allow review of various programs
+    Direct people and relationships across multiple teams to get programs done successfully
+    Create periodic reports of select programs to share KPIs 
+
+
+Requirements
+
+    2+ years experience in the project management fields
+    2-4 years experience in IT or Software Development
+    High execution and operational skills - tracking and documenting
+    Solid technical understanding of software systems integrations
+    Bachelor's degree in an IT-related field
+    Good grasp of systems and integrations: 
+
+    Trello
+    Monday
+    Salesforce
+    Netsuite
+    Billing systems (e.g. Recurly, StaxBill, Zone Billing)
+    Data lakes
+    Amazon Web Services 
+
+
+GobalSource IT currently has a direct client that is looking for a Jr. IT Project Manager for a long term, remote contract opportunity.
+
+
+The Jr. Project Manager will be responsible for the execution of every phase / sprint / iteration of multiple Information Technology focused projects of moderate complexity. This work can be done 100% remote, working with our client on Pacific Time.
+
+Responsibilities:
+
+    Manage day-to-day activities of assigned projects, lead daily Scrum/stand up meetings
+    Responsible for planning and managing IT projects to meet product delivery, quality, customer service, cost and revenue goals.
+    Planning and Scheduling - uses project management planning tools to ensure projects are on schedule, in scope and coordinate parallel activities with various internal and external stakeholders
+    Identifies tasks, assigns, and coordinates with resources and creates/tracks project schedules. Maintain and contributes to PMO processes.
+    Ensures clear communication, transparency between teams and timely resolution of issues
+
+Requirements:
+
+    3-5 years of IT Project Management experience
+    Experience working within a Scrum / Agile project framework
+
+Logistics: 100% Remote, must work Pacific Standard Time
+
+Start: 1-2 Weeks
+
+Rate: $35-40 W2
+
+We cannot subcontract for this role
+
+
+Please contact me if you would like to discuss this opportunity. Thanks!
+	
+Meet the hiring team
+sachin
+sachin singh
+2nd
+Creating the Next Together
+Job poster
+1 mutual connection
+Message
+
+Day to Day:
+
+Ascendion is looking for a Scrum Master for a large healthcare company in the Tampa area. This role will be extremely hands on with working with enterprise level projects.
+
+Must Haves:
+
+• Strong command of agile/scrum
+
+• Create dashboards, gather metrics, measure and monitor team progress
+
+•Collaborate with product owner in defining / refining / prioritizing product backlog in preparation for sprint planning
+
+• Coach team on agile best practices and standardized use of tools
+
+•Work with Agile Center for Excellence to recommend and develop agile standards that foster team and organizational agility
+
+•Conduct beginning and program increment agile maturity assessments
+
+• Facilitate conversations around standardization of workflow process management tools and integration with external management and reporting systems
+
+• Collaborate with program management on process improvement initiatives
+
+•Facilitate scrum ceremonies (daily scrum, sprint planning, sprint retrospectives)
+
+• Track and remove impediments for the scrum team; shield team from outside distractions
+
+Meet the hiring team
+Danielle
+Danielle Heartz
+3rd
+Talent Acquisition Partner - North America
+Job poster
+Message
+
+WHY WORK FOR US?
+
+
+Catena Media offers a fully remote workplace in North America, with no physical office to report to and the tools you need to do your job provided at your home. We also boast one of the top vacation and holiday plans you'll find in the US or Canada, a best-in-class retirement plan, robust health care coverage, wellness benefits, and more.
+
+
+SCOPE OF THE JOB:
+
+
+Seeking an experienced Scrum Master to lead and develop our agile teams. We offer an excellent opportunity for a leader seeking the ability to establish goals and create plans to help drive their team towards maximizing their potential.
+
+
+This position will work in a close relationship with Product Management, Development Management, and QA to guide agile activities. This will include backlog refinement, sprint planning, daily stand-ups, release planning, and retrospectives. The ideal candidate will have strong communication skills, be process-driven, and be able to pick up new knowledge and skills.
+
+
+YOUR CHALLENGE:
+
+    Guiding the team and organization on how to use agile methodologies and values to deliver excellent increments every sprint.
+    Organize and lead Scrum ceremonies.
+    Guiding the team on how to get the most out of self-organization.
+    Taking responsibility of projects through their entire lifecycle.
+    Oversee and manage scope, timeline, quality, goals and deliverables that support business goals.
+    Removing impediments or guiding the team to remove impediments.
+    Ensuring that all relevant processes are followed on projects.
+    Following continual improvement processes and increasing transparency.
+    Supporting the Product Owner, especially on refining and maintaining the product backlog.
+
+
+TO DO IT, YOU WILL NEED:
+
+    At least 3+ years of working experience as a Scrum Master required
+    Ability to collaborate with and lead Scrum teams.
+    Experience with implementing successful Agile techniques using Scrum.
+    Excellent verbal and written communication and listening skills.
+    Knowledge and awareness of Project Management principles, documents and plans.
+    Ability to adapt to a changing environment.
+    Ability to deliver results on time, within budget, and to the very highest standards.
+    Project reporting and stakeholder management.
+
+
+Working Conditions:
+
+
+This position is 100% remote. Must be available regular business hours in your evening and/or weekend work on occasion. Must possess a stable, high-speed internet and working cellular telephone. Must be able to routinely perform indoor work with minimum noise levels. Must be able to perform job functions independently and work effectively either on own or as part of a team. Must be able to plan and direct the work activities of self and others. Must be able to read and carry out various written instructions and follow oral instructions. Must be able to speak clearly and deliver information in a logical and understandable sequence, naturally or electronically and may include adaptive aids. Must be capable of dealing calmly and professionally with numerous different personalities from diverse cultures at various levels within and outside of the organization and demonstrate highest levels of customer service and discretion when dealing with the public. Must be able to perform responsibilities with composure under the stress of deadlines / requirements for extreme accuracy and quality and/or fast pace. Must be able to effectively handle multiple, simultaneous, and changing priorities. Must be capable of exercising highest level of discretion on both internal and external confidential matters.
+
+
+Physical Requirements:
+
+
+Perform primarily sedentary work with limited physical exertion. Must be able to routinely perform work on a computer for an average of 8 hours per day. At times, occasional evening and weekend work may be required. Must be capable of travel by automobile (as driver and passenger), commercial airlines, rental vehicles and public transportation and be able to lodge in public facilities, as may be occasionally asked to travel to sites or events. Must be capable of regular, reliable, and timely attendance.
+
+
+Catena Media is an Equal Opportunity Employer M/F/D/V, who believes in diversity in the workforce.
+
+
+The job description doesn't imply an employment contract, nor is it intended to include every duty, task, or instruction for which the employee is responsible. Other tasks may be assigned, based on business needs and the department supervisor's request.
+
+
+Below you will find some of the perks and benefits we will offer you as a future employee at Catena Media North America:
+
+Where applicable, confirmation that you meet customer requirements for facility access which may include proof of vaccination and/or attestation and testing, unless an accommodation has been approved.
+
+
+Secure our Nation, Ignite your Future
+
+
+Become an integral part of a diverse team while working at an Industry Leading Organization, where our employees come first. At ManTech International Corporation, you’ll help protect our national security while working on innovative projects that offer opportunities for advancement.
+
+
+Currently, ManTech is seeking a motivated, career and customer-oriented Technical Scrum Master to join our team for Remote work that allows 100% Telecommuting and working from home anywhere in the United States!
+
+
+Responsibilities Include, But Are Not Limited To
+
+
+    Responsible for developing software in Java and possibly other languages to support a large scale IT system with Linux-based servers, Amazon Web Services (AWS) cloud instances, and Oracle and/or Postgres Databases.
+    Responsible for taking ownership and developing software to completion with each sprint, as part of an Agile delivery team that uses Scaled Agile Framework (SAFe).
+    Responsible for full spectrum of the software development life-cycle.
+    Frequently communicates with co-workers, management and customers, which may involve delivering presentations. Must be able to exchange accurate information in these situations.
+    Performs as a technical expert in the design development, coding, testing, and debugging new software or complex enhancements to existing software.
+    Works with technical staff to understand and to develop resolution of software problems.
+    Resolves customer complaints with software and respond to suggestions for software modifications or enhancements.
+    Participates in the development of software user manuals or other documentation.
+    Assists in the training of less experienced software development staff and may act as a team leader on less complex projects.
+    No supervisory responsibilities, accountable for own contribution.
+
+
+Basic Qualifications
+
+
+    Experience with Java software development on Linux based systems
+    Requires 5 to 7 years or more of related experience in software development. Preferred: Bachelor’s degree (in Computer Science or related field) or equivalent.
+    Requires conceptual knowledge of practices and procedures within a particular area of expertise. 
+
+
+Preferred Qualifications
+
+
+    Experience with Web Applications, Web Services
+    Experience with Relational databases (Oracle or PostgreSQL)
+    Experience with Linux Systems
+
+
+Security Clearance Requirements
+
+
+    Applicants MUST HAVE an active TOP SECRET
+
+
+Physical Requirements
+
+
+    Must be able to remain in a stationary position 50%.
+    Needs to occasionally move about inside the office to access file cabinets, office machinery, etc.
+    Constantly operates a computer and other office productivity machinery, such as a calculator, copy machine and computer printer.
+    Often positions self to maintain computers in the lab, including under the desks and in the server closet.
+    Frequently communicates with co-workers, management and customers, which may involve delivering presentations. Must be able to exchange accurate information in these situations.
+
+
+The projected compensation range for this position is $135,300-$200,000. There are differentiating factors that can impact a final salary/hourly rate, including, but not limited to, Contract Wage Determination, relevant work experience, skills and competencies that align to the specified role, geographic location (For Remote Opportunities), education and certifications as well as Federal Government Contract Labor categories. In addition, ManTech invests in it’s employees beyond just compensation. ManTech’s benefits offerings include, dependent upon position, Health Insurance, Life Insurance, Paid Time Off, Holiday Pay, Short Term and Long Term Disability, Retirement and Savings, Learning and Development opportunities, wellness programs as well as other optional benefit elections.
+
+
+For all positions requiring access to technology/software source code that is subject to export control laws, employment with the company is contingent on either verifying U.S.-person status or obtaining any necessary license. The applicant will be required to answer certain questions for export control purposes, and that information will be reviewed by compliance personnel to ensure compliance with federal law. ManTech may choose not to apply for a license for such individuals whose access to export-controlled technology or software source code may require authorization and may decline to proceed with an applicant on that basis alone.
+
+
+ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.
+
+
+If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
+
+
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. To request an accommodation please click careers@mantech.com and provide your name and contact information.
+
+JOB SUMMARY
+
+    As an agile capability lead with hands on experience in coaching team(s), product owners in its Agile/Lean/Scrum adoption and emerge maturity by fostering agile best practices and mindsets.
+    Must have an open "servant first" mentality and prioritize the needs of their teammates over their own to build highly engaged teams.
+    As a scrum master,
+        strive relentlessly to remove impediments,
+        reduce the time to market by fostering an environment that allows teams to respond rapidly to changes.
+        encourage teams to practice transparency to make informed decisions and produce high quality work
+        drive growth and innovation through the continuous improvement mindset.
+
+Essential Duties And Responsibilities
+
+    Serves as a servant-leader of the team, facilitating Agile Ceremonies: Daily Scrum, Planning, Grooming, Sprint Review, and Retrospectives.
+    Coaches team members on Agile practices and frameworks as needed.
+    Leads the scrum and development teams in self-organization.
+    Proactively assists with mitigation of issues and impediments.
+    Facilities backlog grooming and story point assignments, using planning poker.
+    Follows through on sprint commitments.
+    Monitors team effectiveness through performance indicators Sprint Velocity, Sprint Burndown, Backlog health, Cumulative flow diagrams.
+    Assist teams in adopting and using Jira effectively.
+    Assist teams to identify and implement Continuous Improvement initiatives for teams.
+    Facilitates Root Cause Analysis discussions in order to identify proactive measures to prevent future problems.
+    Regularly meet with Product Owners to maintain and refine the product backlog, ensuring they are prepared for sprints to come.
+    Collaborates with Product Owners and other stakeholders to identify and meet priorities based on ROI or contractual commitments.
+    Facilitates activities to achieve a high-performance team, recognizing strengths and addressing gaps.
+    Facilitates the resolution of conflicts.
+    Communicates and collaborates with other scrum masters as part of a Scrum of Scrums.
+
+Qualifications
+
+REQUIREMENTS
+
+    Scrum certified – CSM / SSM / PSM
+    Deep understanding of Agile & Lean values and principles
+    3+ years’ experience as a Scrum Master or Agile Coach of a distributed Agile team, preferably in a technology domain
+    Skilled in training / coaching individuals and teams in Agile practices and values
+    Experience with scaling agile across the organization
+    Working knowledge of the Jira work management tool a plus
+    Excellent communication and presentation skills
+    Strong collaboration skills
+We are working with an California-based client to identify a Scrum Master. The ideal candidate will align with the responsibilities and qualifications outlined below.
+
+Responsibilities
+
+    Drive tactical team-level improvement as part of the scrum process, applying principles and practices from agile and lean
+    Select tool, framework, and methodologies for team-level activities, within established guidelines
+    Guide team development efforts towards successful project delivery
+    Adhere to high-quality development principles/scrum principles while delivering solutions/Sprint work on-time and on-budget.
+    Establish delivery processes for the preparation of reports, manuals, and other documentation on the status, operation, and maintenance of software
+    Maintain high standards of software quality within the team by establishing good practices and habits
+    Identify and encourage areas of growth and improvement within the team
+
+Qualifications
+
+    At least 3+ years of experience on an Agile Scrum development team
+    Able to perform the complete system life cycle using the Agile Scrum Methodology phases from project initiation, analysis and requirements, design, coding, testing, and implementation
+    Hands-on experience with the full-cycle software development process
+    Excellent communication skills, both written and verbal
+
+#scrum #agile #projectmanagement #informationtechnology #sdlc #softwaredevelopment	
+Scrum Master/Sr Project Manager
+
+Location: Remote USA (East or Central US preferred)
+
+About Infor
+
+Infor delivers end-to-end ERP and strategic edge applications that are integrated and delivered in a multi-tenant cloud. We believe that customers need industry-specific solutions, and that one size does not fit all.
+
+We are proud to serve more than 68,000 companies worldwide. Infor is a standalone subsidiary of Koch Industries, Inc., which has annual revenues of over $110 billion.
+
+For more information visit [1] www.infor.com
+
+Position Summary
+
+The primary role of the Scrum Master/Sr. Project Manager is to serve as a SAFe (Scaled Agile Framework) coach and servant leader for the Landmark Framework agile teams assisting the self-organizing, self-managing teams to achieve its goals. Teaching and coaching team practices, implementing and supporting SAFe principles and practices, identifying, and eliminating impediments, and facilitating flow. Working with the extended Scrum Master community to support the organizational transition to and increase the effectiveness of SAFe across the enterprise. This role will also lead multi-scrum and project level roadmap initiatives by organizing, coordinating, and reporting on status.
+
+This role serves a critical function to enable Infor’s strategic vision of improving customer experience and drive for greater market share.
+
+A Day in The Life Typically Includes:
+
+Facilitates the team’s progress toward team goals - The Scrum Master is trained as a team facilitator and is continuously engaged in challenging the old norms of development to improve performance in the areas of quality, predictability, flow, and velocity. They help the team focus on creating increments of value each iteration and achieving daily and Iteration Goals in the context of the current Program Increment (PI) Objectives.
+
+Leads team efforts in relentless improvement - Helps the team improve and take responsibility for their actions; facilitates the team retrospective. Teaches problem-solving techniques and helps the team become better problem-solvers for themselves.
+
+Facilitates events - Facilitates team events, including (where applicable) the Daily Stand-up, Iteration Planning, Iteration Review, and Iteration Retrospective ensures they are productive and kept within the timebox.
+
+Supports the Product Owner - The Scrum Master helps the Product Owner in their efforts to manage the backlog and guide the team while facilitating a healthy team dynamic with respect to priorities and scope.
+
+Facilitates the removal of impediments - Many blocking issues will be beyond the team’s authority or may require support from other teams. The Scrum Master supports the team in addressing and eliminating these issues to improve the likelihood of achieving the objectives of the Iteration.
+
+Promotes SAFe quality practices - SAFe provides guidance to assist the teams in constantly improving the quality of their deliverables and meeting the Definition of Done (DoD). The Scrum Master helps foster the culture of technical discipline and craftsmanship that is the hallmark of effective Agile teams.
+
+Builds a high-performing team - Focuses on ever-improving team dynamics and performance, and coaches the team in self-management. Helps the team resolve interpersonal conflicts and challenges, and identify opportunities for growth. Escalates people problems to management where necessary, but only after internal team processes have failed to resolve the issue; helps individuals.
+
+Coordinates with other teams - The Scrum Master supports the team’s efforts to continuously improve communications and relationships with other teams. They frequently represent the team in the Scrum of Scrums (SoS).
+
+Supports SAFe adoption - The Scrum Master supports the overall adoption of SAFe across the enterprise by coaching stakeholders and other non-agile teams on effective interactions with agile teams, and participating in the Scrum Master Community of Practice.
+
+Process Improvements - Assist with the development of new and continuous improvement of existing business processes that support the Agile framework across teams.
+
+Project Level Initiatives - Work with stakeholders and teams to define project scope while focusing on regular and timely delivery of value; Organize and lead project status and working meetings; Leverage existing tools to understand and relay progress; Manage risks and work with management to anticipate and avoid issues; Adapt to changing requirements; Participate in delivery planning.
+
+What You Will Need:
+
+Basic Qualifications:
+
+*
+Experience working as a SCRUM Master preferred
+*
+Experience managing large complex cross-functional technical projects
+*
+Experience in full software development life cycle
+*
+Bachelor's Degree in appropriate field of study or equivalent work experience
+*
+Experience with Cloud based software/solutions (ERP)
+*
+Working knowledge of Agile and bug tracking systems, preferably JIRA
+*
+Must be an influencer, able to deal with strong personalities
+*
+Must have experience with cross functional team coordination and collaboration
+*
+Experience with large multi-domain projects
+*
+Passionate about continuous process improvement
+*
+Ability to deliver under pressure, maintaining composure and positive interactions
+*
+Ability to establish immediate credibility with business stakeholders, build consensus, and achieve goals through influence
+
+What Will Put You Ahead?
+* Certified SAFe Scrum Master (SSM)
+* Certified Scrum Master (CSM)
+* Certified Project Management Professional (PMP)
+* Experience with AWS
+* Experience with Agile Coaching
+* Experience with Agile Transformation
+About The Company
+
+We are leading decentralized blockchain infrastructure protocol. This is an opportunity to get in on the ground floor of our quickly growing adoption curve. As an open-source, permissionless protocol driving developer adoption, we believe in a future that will enable greater participation in global digital economies and communities.
+
+Our CultureWe are committed to building a fun, inclusive workplace and culture based on our values. Our core values inform how we work together as a team, how we service our users, and how we approach the products we build.We're looking for open-minded, motivated individuals that want to expand the adoption of Web3. We are a fast-moving, collaborative, and free-thinking team. We're united by our desire to fully decentralize Web3, build amazing products for our users, and create a diverse and welcoming workplace.
+
+Responsibilities
+
+    Work with engineering teams in the process of adopting Agile including QA, DevOps, Frontend, Backend, Design and Protocol.
+    Take over and manage existing scrum ceremonies including Sprint Planning, Stand Ups and Backlog Grooming.
+    Implement Sprint Reviews and Retrospectives
+    Provide a path for resolving impediments and help keep the team focused as well as define and achieve Sprint goals.
+    Remove impediments or guiding the team to remove impediments through coordination and creative thinking
+    Determine and communicate potential risks of meeting sprint goals
+    Assist with overall internal communication, improving transparency, and radiating information
+    Contribute to the advancement and improvement of Agile practices within the organization
+    Coordinate release and product launch processes with Product Management, Marketing and other teams
+
+Requirements
+
+    The ability to make potentially mundane tasks feel fun
+    Strong knowledge in Agile methodology and has the ability to educate others on the value of adopting Agile processes.
+    Experience as a full time employee at a product-based software company (as compared to agency / consultancy), preferably a startup.
+    4+ years of relevant work experience
+    Experience in playing the Scrum Master role for at least two years for a software development team
+    Excellent documentation, communication, facilitation and coaching skills
+    Data analytics and visualization skills
+    Scrum Master Certification
+    Experience working during an organization Agile transformation
+    Knowledge of blockchain and cryptocurrency
+Job Locations
+
+US-Remote
+
+Seniority Level
+
+Mid-Senior Level
+
+Overview
+
+The primary focus of this position will be to closely collaborate with all the stakeholders of product development - Product Owner (PO), Business Analyst (BA), Developer, and Quality Assurance (QA), Documentation Specialist in order to deliver product increments meeting the specified requirements of a given product release by Agile approach, which includes:
+
+Responsibilities
+
+    Guiding the team and organization on how to use Scrum practices
+    Guiding the team on how to work efficiently and effectively
+    Removing impediments and guiding the team to find the right solution for any issue occurred
+    Building a trusting and safe environment where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on compromising and problem solving
+    Facilitating team activities to complete work in a cooperative and collaborative manner
+    Facilitating discussion, decision-making, and conflict resolution
+    Assisting internal/ external communication, improving transparency, and sharing information
+    Supporting and coaching the Product Owner, especially with respect to refining and maintaining the product backlog
+    Providing support to the team using a servant leadership style whenever possible, and leading by example
+    Setting and continually managing product expectations with scrum teams and other stakeholders
+    Ensuring that product releases are completed to design specifications and as per the “Definition of Done”
+    Identifying managing and controlling the change control process both with internal and external stakeholders
+    Managing and mitigating risk
+    Participating and helping drive continuous process improvements and adoption to ensure delivery of extremely high-quality software products
+
+Qualifications
+
+REQUIRED QUALIFICATIONS
+
+    Bachelor’s degree in software engineering, computer science, or a related field
+    Experience playing the Scrum Master role for at least two years for a software development team that was diligently applying Scrum principles, practices, and theory
+    Strong understanding of Scrum framework
+    Good skills and knowledge of servant leadership, facilitation, situational awareness, conflict resolution, continual improvement, empowerment, and increasing transparency
+    Knowledge of numerous well-documented patterns and techniques for filling in the intentional gaps left in the Scrum approach (example: numerous Burndown techniques, numerous Retrospective formats, handling bugs, etc.)
+    Ability to employ persuasion/ negotiation skills with discretion and consideration
+    Experience in risk management and risk mitigation
+    Ability to communicate ideas in both technical and user-friendly language
+    Highly motivated, directed, and a team player
+    Able to prioritize and execute tasks in a high-pressure environment
+    Experience working in a team-oriented, collaborative environment
+    Excellent English in both written, oral communication and mentoring skills
+    Strong interpersonal, organizational, time management, and problem-solving skills
+    Ability to travel nationally and internationally as per request
+    Scrum Master certification (CSM, PSM, PMI-ACP, …)
+    Knowledge of other Agile approaches: XP, Kanban, etc.
+
+DESIRED QUALIFICATIONS :
+
+    Knowledge or experience of scaled agile framework: preferred SAFe , Nexus, LeSS
+    1-3 years’ experience in project management
+    PMP certification
+    Knowledge of industrial automation software, and/ or material handling
+    SR1
+
+About Us
+
+WHAT WE DO
+
+Headquartered in Atlanta with locations globally, Fortna is an award-winning, end-to-end design-build firm whose expertise spans over seven decades of service. Founded in 1946, we provide strategy, automation design & systems integration, and warehouse execution software to the world’s most recognized brands.
+
+What Sets Us Apart
+
+At Fortna, our three mission-critical pillars connect our people across the globe and help distinguish us as a leader in the marketplace.
+
+    Our PEOPLE are at the heart of everything we do. We are guided by a set of business principles and ethics that are baked into the excellence we bring to each project from start to finish.
+    Our PASSION unites our Associates through our shared passion and commitment to integrity, hard work, and a collaborative approach. We love what we do, and it shows.
+    We PROMISE to be accountable, act with integrity, and deliver results for our clients. Our diverse team of global Associates work as “One Team” to deliver on our promises to Clients.
+
+What You Can Expect
+
+Perks and benefits: At Fortna, our people are everything – so the perks and benefits you’ll receive from being part of the Fortna team are generous. From competitive compensation packages and health insurance offerings to Associate-led committees created to drive positive change, the employee experience at Fortna is truly unmatched.
+
+Talent Development: We believe every Associate deserves the resources and support to grow and thrive. That’s why a career at Fortna comes with powerful professional development opportunities. Learn directly from the industry’s best and brightest. Our training, mentoring and on-the-job experiences are designed to enhance your skillset – preparing you for increasingly challenging roles and accelerating your career.
+
+Statement to Third Party Agencies - To ALL recruitment agencies: Fortna only accepts resumes from agencies on the Fortna preferred supplier list. Do not forward resumes to our applicant tracking system, Fortna employees, or any Fortna office location. Fortna is not responsible for any fees or charges associated with unsolicited resumes.
+100% Remote
+
+Healthcare expereince is MUST
+
+Senior Scrum Master
+
+Requirements
+
+8+ Years Experience
+
+Proven experience as Agile Coach/Scrum Master/Kanba11 practitioner
+
+Proven experience transforming teams to Agile /Scrum from waterfall or other methodologies.
+
+Excellent communication and Partnership skills
+
+Hands on experience on Agile practices, Scrum process, Kanban, etc. as an Agile Coach/Scrum Master.
+
+Proven leadership experience in IT delivery , building and sustaining high performing teams.
+
+Able to provide need based coaching to team members to be agile and support agile delivery.
+
+Extensive experience as Scrum Master
+
+Proven experience applying Agile approach to data warehousing/ data integration and business intelligence.
+
+Recent Scrum Master, Scrum Coach and Product Owner certifications -required
+
+    Professional, Academy for Healthcare Management (PAHM ) or Fellow, Academy for Healthcare Management (FAHM) certifications - OPTIONAL
+
+PLEASE SHARE RESUME AT career@tekintegral.com OR tsharma@tkintegral.com
+ Job Title: IT Project Manager (Scrum Master)
+
+Job Location: Remote (Virginia)
+
+Job Type: Long Term Contract
+
+Job Description
+
+To oversee the application of project management methodology during all phases of the project cycle, with responsibilities that include project design, scope management, cost control, quality and performance reporting. IT Project Mangers are responsible for managing the technical direction of a project through the design, implementation and testing in accordance with project objectives.
+
+Responsibilities
+
+    Strong PM experience with recent scrum experience
+    Experience with process improvement, scrum, UAT
+    These two resources will be working with Product owners, RTE, other scrum team members to manage scope of work based on PI planning
+    Involved in Process improvement
+    Involved in UAT and operational testing (more on reporting side the CFO space)
+    Making changes on reporting side (accounting close process, financial reporting)
+    Involve in PI planning, will be finishing the project until delivery
+
+Qualifications
+
+    Bachelor's degree in a technical field such as computer science, computer engineering or related field required.
+    MBA or other related advanced degree preferred.
+    Scrum certification.
+    10+ years experience.
+    2+ years of explicit experience as an Agile Scrum Master of an Agile delivery team, preferably in a variety of situations
+    Proven project management experience.
+    Demonstrated ability to be flexible/ adaptable in exercising judgment in a changing environment and to manage competing priorities.
+
+Inetrested candidates can send their updated resumes at humera@agile-techlabs.com 
+
+100% Remote
+
+only GC or US Citizens candidates
+
+About The Role
+
+The Lead Scrum Master will provide support across various cross-functional project teams focused on driving the end-to-end digital product lifecycle for features and products improving the overall online experience for customers. The Lead Scrum Master will establish best practices to streamline the scrum processes and standards, coach teams across the organization and create a consistent method of work estimation/story point calculations. The work supports the Digital Product Manager in managing project scope and schedule, project status report, change management, governance, role identification, and business communication with the stakeholders.
+
+Experiences Required For This Role
+
+Project Planning & Management At least 5 years of experience and use cases with the following:
+
+    Facilitate regularly recurring scrum-of-scrums
+    Coach teams and stakeholders in lean/agile practices and mindset
+    Coordinate interdependencies across project teams
+    Obtain and provide visibility into progress and impediments, escalating where appropriate
+    Ensure cross-team alignment to program goals with clear and consistent communication
+    Defining project scope and schedule across various digital projects
+    Focusing on regular and timely delivery of value and ensuring sprints are completed on-time
+    Organizing and leading project status and working meetings
+    Ability to write and review detailed documentation (requirements documents, weekly/monthly reports, meeting notes, etc.)
+    Communicating plan deviations
+    Provide feedback on team resourcing to improve efficiency and reduce bottlenecks
+    Championing ongoing process improvement initiatives
+
+Risk/Issue Management & Mitigation At least 5 years of experience and use cases with the following:
+
+    Identifying and mitigating plans
+    Resolving issues to keep the project moving
+    Proactively avoiding risks
+    Ensuring the team meets required policies
+    Making recommendations for continuous improvement
+
+Product Manager Support At least 5 years of experience and use cases with the following:
+
+    Supporting the Product Manager in managing expectations for project deliverables
+    Managing stakeholder communications
+    Helping to implement an effective system of project governance
+
+Team Management & Team Building At least 5 years of experience and use cases with the following:
+
+    Assisting in team development while holding teams accountable for their commitments
+    Assigning tasks to individuals and balancing the workload across teams
+    Leveraging organizational resources to improve team and individual capacity for project work
+    Ensuring team members are fully engaged in the project, making a meaningful contribution, and encouraging a sustainable pace
+    Motivating team members
+
+Digital Platforms, Tools and Discipline At least 3 years of experience and use cases with the following:
+
+    Working with enterprise scale digital platforms specializing in at least 3: omni-channel service delivery, web content management, customer relationship management, identity and data integration
+    Establishing continuous improvement/delivery pipeline to continually improve products post-launch based on customer research and feedback
+    Leading documentation and communication throughout the product lifecycle for both technical processes and cross-functional teams affected by new change
+    Usage of productivity, communication, and analysis tools to manage iterative delivery, such as JIRA/Confluence, Google Analytics, Git Repository, Microsoft Teams, Microsoft Office (Word, PowerPoint, Excel)
+    Experience establishing QA practices utilizing tools such as Xray is desired.
+
+Knowledge, Skills, And Ability
+
+Project Management
+
+    Extensive experience with Jira and Confluence is required
+    Experience with Advanced Roadmaps and Work Otter is preferred
+    Experience as an Agile Coach is required
+    Developing and supporting modern, agile product and project management processes
+    Establishing the project environment necessary to operate as a high performing cross-functional team in partnership with stakeholders
+    Building and clearly communicating the vision, strategy, roadmap, and resources required for delivery
+    Scoping, prioritization, and translation of technical and design tasks into delivery plans
+    Government-specific task management is preferred
+    Data-driven decision-making
+
+Skills & Qualifications
+
+    3 years of user-centered design
+    3 years of user research and analytics
+    5 years of management/supervisory experience
+    5 years of customer relationship management platforms such as Salesforce
+    5 years of web content management platforms such as Sitecore
+
+Performance in Complex Situations
+
+    Communication and collaboration with state-wide partners
+    Clearing challenges for team members
+    Comfort in blazing a path through an ambiguous work environment
+    Judgement fitting to the ever-changing environment
+    Ability to juggle multiple project workstreams
+
+Service Design Team Building
+
+    Supporting teammates' skills and behaviors development and delivery
+    A balance between strong domain expertise and flexibility
+    Prioritization, organization, and triage in an independent environment
+    Encouraging of an interactive, cooperative, collaborative, and customer-focused work environment
+    Ability to maintain strict confidentiality
+    Judgement in dealing effectively and diplomatically with all levels of government staff
+
+Please share resume at msharma@tekintegral.com or career@tekintegral.com.
+
+ Role: Scrum Master
+
+Location: AZ / NJ / TX (Remote Until Pandemic)
+
+Duration: 12+ Months
+
+10+ Years Experience is Must.
+
+Skills
+
+    Servant Leader Must be able to garner respect from his/her team and be willing to get their hands dirty to get the job done
+    Communicative and social Must be able to communicate well with teams and stakeholders
+    Facilitative Must be able to lead and demonstrate value-add principles to a team
+    Assertive Must be able to ensure Agile/Scrum concepts and principles are adhered to, must be able to be a voice of reason and authority, make the tough calls.
+    Situationally Aware Must be the first to notice differences and issues as they arise and elevate them to management
+    Enthusiastic Must be high-energy
+    Continual improvement - Must continually be growing ones craft learning new tools and techniques to manage oneself and a team
+    Conflict resolution - Must be able to facilitate discussion and facilitate alternatives or different approaches
+    Attitude of empowerment - Must be able to lead a team to self-organization
+    Attitude of transparency Must desire to bring disclosure and transparency to the business about development and grow business trust
+    Experience managing multiple teams within the complete Software Development Lifecycle (SDLC) including creating project and contingency plans, release cycles, resources and schedules
+    Participate in Scrum kick-offs and facilitate daily meetings with project stakeholders to monitor, review and communicate project progress
+    Determine the frequency and content of status reports from the project team, analyze results, and troubleshoot problem areas
+    Proactively anticipate, identify, manage and communicate project risks, issues, changes, etc.
+    Understand backlog tracking, burndown metrics, velocity, and task definition
+
+Qualifications
+
+    BS of equivalent from an accredited 4-year university or college required; Masters/MBA preferred and analytic discipline a plus
+    5+ years project management experience in fast-paced SDLCs
+    High degree of both technical expertise and business acumen, including familiarity developing new software
+    Ability to execute effective product management and agile techniques and best practices
+    Strong results-orientation combined with excellent judgment and problem-solving skills; track record of product success
+    Excellent verbal and written communication skills and presentation skills (including executive audiences)
+    Excellent analytical and technical writing skills.
+    Excellent time management with the ability to work under pressure and to tight deadlines.
+    Be an effective communicator with strong interpersonal skills
+    Excellent understanding and experience of Agile/Scrum methodology
+    Consistently deliver on deadlines, on time and within budget
+
+Desirable Skills
+
+    Scrum Master certification highly preferred
+    PMP certification preferred
+
+Position: Scrum Master
+
+Location: Remote
+
+Duration: 3 Months
+
+The Scrum master will have responsibilities in line with the requirements mentioned above as well as the following deliverables:
+
+    *************
+    *************
+    Work with other Scrum Masters in the organization to set up appropriate Scrum of Scrums to manage cross team dependencies
+    Work with the team(s) to identify and isolate blockers each sprint
+    Work with the team(s) to escalate blockers that have not been resolved in more than 48 hours
+    Provide the following reports to the team(s) and management at the end of every sprint
+    Burndown
+    Burnup
+    Improvements implemented across the team(s) each sprint
+    Fix/version progress status
+    Dependencies across teams and their status
+    Blockers across teams and their assignees, status and age since opening
+
+Describe the must have technical skills/experience (ask for alternative/tool/version) of the position in priority order:
+
+    Jira
+    Experience working in Agile as scrum masters on technology delivery projects
+    Scrum master certification is a plus
+
+Is there anything you are willing to flex on if there is not a candidate under the current market conditions with all your must have skills?
+
+    Scrum Master certification
+
+Does this position require any degrees or certifications for the candidate to be successful?
+
+    Scrum master cert is a plus
+    More focused on experience
+
+Logistics
+
+Describe interview process:
+
+    Two step interview process
+    One video interview
+
+
+Hi
+
+I have an urgent position below, If you are interested in this opportunity then please reply with your updated resume to naresh@ncsus.net
+
+Role: Scrum Master
+
+Location: Remote
+
+Required Skills: Retail & e-commerce experience.
+
+Job summary:
+
+· Agile Certification, experience with SAFe agile.
+
+· Expert Level on Jira
+
+· Experienced with Confluence
+
+· Retail Experience is must.
+
+· Ecommerce & mobile development scrum role is plus.
+
+    · Project Management & experience with managing project finance is plus.
+
+NCR Corporation (NYSE: NCR) is a leading software- and services-led enterprise provider in the financial, retail and hospitality industries. NCR is headquartered in Atlanta, Georgia, with 36,000 employees globally. NCR is a trademark of NCR Corporation in the United States and other countries.
+
+
+Software Project Manager with responsibility for the development, release, and lifecycle management of new software products for the Financial Services markets. Key activities include development of product requirements, value proposition, business case, pricing strategy, product roadmap, and competitive analysis. Lead cross-functional teams in concept development, new product introduction, and lifecycle management of software service product offerings. Accountable for all program metrics including development schedule, cost, unit sales, revenue, margin, product quality, market share and customer satisfaction. Gather, prioritize, and document product requirements and validate value proposition. Support and work directly with sales organization for product training, sales strategy, customer presentations, and RFP responses. Provide direction, content, and support for product marketing efforts including trade shows, marketing programs, webinars, and sales collateral. Perform competitive analysis and monitor market / technology trends. Develop pricing strategy. Define cost targets and manage cost reduction activities.
+
+
+    BASIC QUALIFICATIONS:
+    Minimum of 5 years of related experience in Project/Program Management, Product Management, Marketing, Engineering, Operations, or Sales.
+    Bachelor's degree in relevant field (preferably Business or Engineering degree combined with strong technical aptitude).
+    Must be able to work remotely with clients and NCR teams, proficient with remote web and video conferencing, must be highly motivated and self-sufficient.
+    Strong leadership, project management and people skills required to motivate and direct a team of independent contributors from various functional areas including engineering, services, operations, supplier management and product marketing.
+    High energy level combined with good organization and multi-tasking skills necessary to achieve constantly changing mix of short, medium, and long-term objectives.
+    Ability to manage interruptions in schedule to respond to ad hoc sales queries, new customer opportunities, and escalation of program issues.
+    Strong analytical and problem-solving skills.
+    Business and decision modeling proficiency in Microsoft Office Suite of products required to develop and support recommendations.
+    Confidence and presentation skills needed to interact effectively with senior management, key customers, and partners in both selling and problem-resolution scenarios.
+    Natural curiosity and self-motivation to learn and keep current on technical and market trends.
+    Track record of delivering on commitments and producing high quality work. Strong verbal and written communication skills.
+
+
+PREFERRED QUALIFICATIONS:
+
+    Experience within the high-tech industry.
+    Experience leading cross-functional teams to deliver projects on time and on budget.
+    Technical knowledge of Software as a Service, Digital Banking solutions, and computing technologies.
+    Ability to be creative as well as analytical, organized and detail oriented.
+
+
+Offers of employment are conditional upon passage of screening criteria applicable to the job.
+
+
+Full time employee benefits include:
+
+
+    Medical Insurance
+    Dental Insurance
+    Life Insurance
+    Vision Insurance
+    Short/Long Term Disability
+    Paid Vacation
+    401k
+
+
+EEO Statement
+
+
+Integrated into our shared values is NCR's commitment to diversity and equal employment opportunity. All qualified applicants will receive consideration for employment without regard to sex, age, race, color, creed, religion, national origin, disability, sexual orientation, gender identity, veteran status, military service, genetic information, or any other characteristic or conduct protected by law. NCR is committed to being a globally inclusive company where all people are treated fairly, recognized for their individuality, promoted based on performance and encouraged to strive to reach their full potential. We believe in understanding and respecting differences among all people. Every individual at NCR has an ongoing responsibility to respect and support a globally diverse environment.
+
+
+Statement to Third Party Agencies
+
+
+To ALL recruitment agencies: NCR only accepts resumes from agencies on the NCR preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR employees, or any NCR facility. NCR is not responsible for any fees or charges associated with unsolicited resumes.
+
+Scrum Master
+
+
+Come join our Agile & Consulting Practice as a Project Manager / Scrum Master in support of one of our commercial clients in the Philly area (remote initially). In the PM/Scrum Master role you will provide effective collaboration, facilitation, leadership and coaching skills supporting the agile development process and delivery of applications. You will be responsible for enforcing the agile tenants as interpreted by the team, removing impediments and promoting transparency. This position requires commitment to exceptional results, a strong desire for continuous improvement, and the ability to build a collaborative culture within the team. You will facilitate daily stand-ups and ensure the integrity of the agile process by capturing velocity and removing obstacles to drive projects to successful release. In this highly visible role, you will have significant interaction with product owners and regular contact with senior management.
+
+
+This is starting as a Contract opportunity and does have the possibility of going permanent.
+
+
+Primary Duties And Responsibilities
+
+
+    Organize and facilitate daily stand-up meetings, reviews, retrospectives, sprint and release planning, demos and other Scrum-related meetings.
+    Work collaboratively with Product Owners, cross-functional development teams, and Project Managers to support development and software delivery.
+    Assist the Product Owner in user story creation/prioritization and product Backlog grooming via emergent requirement elicitation while supporting overall organizational goals.
+    Track and report Scrum team velocity and manage Sprint capacity.
+    Manage high-level budgeting and time tracking.
+    Resolve or escalate blocking impediments as necessary.
+    Ensure development team is working efficiently towards Sprint goals.
+    Coach the development team and stakeholders on how to use Agile/Scrum practices.
+    Ensure the development teams are practicing the core agile principles of collaboration, prioritization, team accountability, and visibility.
+    Ensure cross functional coordination (analysts, developers and testers) is occurring early and often. Recommend improvements and assist in changes to best practice.
+    Adapt approach based on cultural shifts and regulatory requirements.
+    Assist with internal and external communication, improving transparency, and radiating information. Create an environment that empowers and energizes team members, with a focus on accountability, adaptability, and collaboration. 
+
+
+Required
+
+
+    5+ years of Project Management experience and 3+ years working in an Agile experience
+    Experience working with an agile methodology on large scale, technically complex projects
+    Experience running multiple scrum teams preferably in BI/Data related projects
+    Excellent team player with the ability to influence and negotiate and understand/communicate technical issues
+    Bachelor's degree in Business Management, Information Systems, BI or Analytics or Engineering or equivalent work experience
+    Experience with Jira
+	Safe scrum master
+
+100% remote
+
+Long term
+
+The "acting as an RTE" experience is required, but the foundation of this role is a Scrum Master. The team is very product focused and matrixed, so these Scrum Masters will be coordinating across multiple scrum teams and applications!
+
+This team is unique, in times the SM will almost take on an RTE mindset and coordinate across multiple applications at once working with dedicated scrum masters for those applications. These Scrum Masters will have ~2 primary applications they're working with.
+
+Must Haves
+
+6+ years as a Scrum Master
+
+Experience coordinating/integrating between multiple applications (2 primary applications in this area)
+
+Scaled Agile/SAFe knowledge (hands on)
+
+Rally tool preferred, Jira/Confluence tool for user stories (or similar)
+
+Understanding of product management/product ownership
+
+Ability to help drive/improve SAFe Agile adoption
+
+Healthcare experience required (understanding what a healthcare company is members/networks/claims/etc)
+
+Nice To Haves (stack Ranked)
+
+CSM certification -- highly preferred
+
+Member facing application experience member billing, enrollment, etc
+
+Healthcare communications application experience
+
+Knowledge of the Quadient tool (tool they're using for all digital communications)
+
+SAFe Agile certification (4.0 or 5.0)
+
+Team: Enterprise IT team Digital Communications workstream (Health Care Business side). This new train will be interacting with and building products or experience in the context of member communications which could be electronic communications like email/text/marketing, email campaigns, etc. Each scrum team will consist of a BA, Product Owner, 1-2 Architects, and 1 QA resource ("core" team). There will be a Product Manager who is a dotted line to all work streams and acts as an RTE sometimes, he is the escalation point if needed. This person will be partnering closely with other scrum masters in the various application areas.
+
+Role: This team takes funding and Business requirements and work with other groups' applications. This is not a typical scrum master role where the SM has one application. They will be within a SAFe matrixed program partnering directly with 2+ other scrum masters and their Member facing applications. This individual will coordinate each of these applications/projects and bring it all together within the workstream (program). They will be required to coordinate and integrate across multiple applications.
+
+Day to day: The applications they work with are directly related to Member facing communications (i.e. member demographics, communication material, digital material, etc leveraging Quadient as tool).
+
+If you or anyone else is a fit, please send me an updated resume.
+
+Looking forward to hear from you.
+
+Ved prakash
+
+US IT Recruiter
+
+Email: ved@stellentit.com
+Full Job Description
+
+Job Description:
+
+- Excellent Agile scrum knowledge. Should be able to work with product owner as his/her proxy
+
+- Experience to discuss business requirements with client / product owner and write independent user story
+
+- Should be able to estimate the user story along with scrum team
+
+- Strong in communication. Should be able to communicate the requirement to team clearly
+
+- Experience to support scrum master / project manager for sprint planning
+
+- very good experience to handle requirement changes and highlight the same to all respective stack holder(s)
+
+- Development background is required. Excellent Agile scrum knowledge. Should be able to work with product owner as his/her proxy
+
+- Experience to discuss business requirements with client / product owner and write independent user story
+
+- Should be able to estimate the user story along with scrum team
+
+- Strong in communication. Should be able to communicate the requirement to team clearly
+
+- Experience to support scrum master / project manager for sprint planning
+
+- very good experience to handle requirement changes and highlight the same to all respective stack holder(s)
+
+- Development background is required.
+
+Job Types: Contract, Full-time
+
+Salary: $95,000.00 - $110,000.00 per year
+
+Schedule:
+
+    8 hour shift
+    Monday to Friday
+
+Experience:
+
+    Scrum: 1 year (Preferred)
+
+License/Certification:
+
+    PMP (Preferred)
+
+Work Location: Remote
+
+Speak with the employer
++91 +1 209 802 3088
+Full Job Description
+
+Scrum Master
+
+Location: REMOTE
+
+Pay Rate: Open to Both C2C and W2 options
+
+Position Type: Multiyear Contract
+
+Requirements:
+
+    Experienced Scrum Master comfortable with leading multiple agile teams
+    Experienced with leading cross-functional teams through planning, sprints, and retrospect
+    SAFe certified
+    Scrum Master certified
+
+For immediate consideration, please apply directly or contact Ryan Pustilnik at 301.740.2110
+
+Full Job Description
+Founded in 1999, MHS is a full-service provider of innovative material handling systems that solve the challenges of distribution and fulfillment operations. We build, engineer and maintain systems for some of the biggest companies in the world, including UPS, FedEx, Walmart, Amazon and others. MHS is already one of the 10 largest material handling system suppliers worldwide, and we only expect to continue growing. We’re looking for top talent to be part of the journey.
+
+The primary focus of this position will be to closely collaborate with all the stakeholders of product development - Product Owner (PO), Business Analyst (BA), Developer, and Quality Assurance (QA), Documentation Specialist in order to deliver product increments meeting the specified requirements of a given product release by Agile approach, which includes:
+
+    Guiding the team and organization on how to use Scrum practices
+    Guiding the team on how to work efficiently and effectively
+    Removing impediments and guiding the team to find the right solution for any issue occurred
+    Building a trusting and safe environment where problems can be raised without fear of blame, retribution, or being judged, with an emphasis on compromising and problem solving
+    Facilitating team activities to complete work in a cooperative and collaborative manner
+    Facilitating discussion, decision-making, and conflict resolution
+    Assisting internal/ external communication, improving transparency, and sharing information
+    Supporting and coaching the Product Owner, especially with respect to refining and maintaining the product backlog
+    Providing support to the team using a servant leadership style whenever possible, and leading by example
+    Setting and continually managing product expectations with scrum teams and other stakeholders
+    Ensuring that product releases are completed to design specifications and as per the “Definition of Done”
+    Identifying managing and controlling the change control process both with internal and external stakeholders
+    Managing and mitigating risk
+    Participating and helping drive continuous process improvements and adoption to ensure delivery of extremely high-quality software products
+
+REQUIRED QUALIFICATIONS
+
+    Bachelor’s degree in software engineering, computer science, or a related field
+    Experience playing the Scrum Master role for at least two years for a software development team that was diligently applying Scrum principles, practices, and theory
+    Strong understanding of Scrum framework
+    Good skills and knowledge of servant leadership, facilitation, situational awareness, conflict resolution, continual improvement, empowerment, and increasing transparency
+    Knowledge of numerous well-documented patterns and techniques for filling in the intentional gaps left in the Scrum approach (example: numerous Burndown techniques, numerous Retrospective formats, handling bugs, etc.)
+    Ability to employ persuasion/ negotiation skills with discretion and consideration
+    Experience in risk management and risk mitigation
+    Ability to communicate ideas in both technical and user-friendly language
+    Highly motivated, directed, and a team player
+    Able to prioritize and execute tasks in a high-pressure environment
+    Experience working in a team-oriented, collaborative environment
+    Excellent English in both written, oral communication and mentoring skills
+    Strong interpersonal, organizational, time management, and problem-solving skills
+    Ability to travel nationally and internationally as per request
+    Scrum Master certification (CSM, PSM, PMI-ACP, …)
+    Knowledge of other Agile approaches: XP, Kanban, etc.
+
+DESIRED QUALIFICATIONS:
+
+    Knowledge or experience of scaled agile framework: preferred SAFe, Nexus, LeSS
+    1-3 years’ experience in project management
+    PMP certification
+    Knowledge of industrial automation software, and/ or material handling
+Full Job Description
+
+Scrum Master
+
+
+Celebrating our 30th year as a successful Small Business, Development InfoStructure LC., (DEVIS) provides exceptional DevSecOps integration in our agile software development and embedded software solutions, combined with comprehensive IT management and consulting services to our federal, state, and local governments. The outcomes of our research and development, products and universe of services will support the international development community, multiple civilian agencies and the nation’s defense and intelligence communities. Our focused research, services and products include complex DevSecOps solutions to support refugee processing across multiple federal agencies, research and development for Signal Intelligence (SIGINT), Command, Control, Communications, Computers and Intelligence (C4I), Data Analytics, and Intelligence, Surveillance and Reconnaissance (ISR) development and sensor capabilities supporting both the aerospace/defense and intelligence communities, as well as complex HHS comprehensive care coding requirements, and integrated management systems for our countries civilian agencies (FAA, FDIC, HOR, etc.).
+
+Our primary mission is to best serve the needs of our clients by solutioning with our stakeholder teams to ensure that the goals and objectives of our customers are proactively solutioned, such that opportunities to invest our time in developing long-term solutions and assets are abundant and move our clients forward efficiently.
+
+At DEVIS, we are enthusiastic about our research, our work and embracing an environment where all are supported in the mission, while maintaining a healthy work-life balance.
+
+Overview
+
+Devis is currently seeking a Scrum Master to provide support for a US international development program in Rosslyn, VA!
+
+
+Specific responsibilities include but not limited to:
+
+    Responsible for facilitating and managing the work of the agile scrum team
+    Supporting all aspects of the solution from requirements development through testing
+
+
+Required Skills and Qualifications
+
+    Experience working on a team to successfully deliver components of an enterprise solution
+    Experience developing detailed requirements, user stories, functional testing, and working with development team to resolve break/fix issues
+    ServiceNow, BPM/workflow, or Cloud-COTS experience (desired)
+
+
+Education / Certifications
+
+    Bachelor’s Degree in Computer Science, Business Information Systems, Information Technology or other relevant domain, or equivalent combination of education and experience
+    Certified Scrum Master (CSM) or Certified Scrum Professional (CSP)
+
+
+Clearance Requirements
+
+    Must be a U.S. Citizen with an active Secret Clearance
+
+
+Additional Perks/Benefits
+
+    Competitive salary compensation
+    Commuter benefits that include free on-site parking or SmartTrip reimbursement
+    SEP Retirement Savings Plan
+    Flexible, results oriented work environment
+    Performance bonuses
+
+
+Devis is an AA/EOE/M/F/Disabled/VET Employer committed to providing equal employment opportunity without regard to an individual’s race, color, religion, age, gender, sexual orientation, veteran status, national origin or disability.
+
+5lx7LLWqU6
+
+Job Description
+RESPONSIBILITIES:
+Kforce has a client in Beaverton, OR that is seeking a Scrum Master.
+
+Responsibilities:
+* The Scrum Master develops skills to operate as a servant leader in service to the team's needs
+* Supports the team in practicing Agile principles
+* Assists the Product Owner in managing the backlog to ensure it is properly prioritized
+* Coordinates or facilitates all agile ceremonies (backlog grooming, planning meetings, daily stand-ups, retrospectives, and demos)
+* As a Scrum Master, this role tracks and communicates agile metrics (such as team velocity and sprint progress/burn down chart) to team, management and any impacted stakeholders
+* Helps to identify, remove and/or escalate risks, roadblocks, and cross team dependencies that are unresolvable by the team and interfere with the team's ability to deliver commitments
+* Assists team in using metrics and other artifacts to identify potential items for continuous improvement
+* Participates in Scrum of Scrums
+* The Scrum Master continuously learns new approaches to facilitation, agile best practices and how to improve team dynamics
+
+REQUIREMENTS:
+* Bachelor's degree; One of the following alternatives may be accepted: PhD or Law degree and 1+ years of experience; Master's degree and 0-3 years of experience; Associate degree and 1-3 years of experience; High School diploma/GED and 3-5 years of experience
+* Relevant certification in the field preferred (examples below) Professional Scrum Master (PSM I) Certified Scrum Master (CSM) Agile Certified Practitioner (PMI-ACP)
+* 0-1 years of relevant work experience
+* Experience working with supporting teams; Knowledge of Application Lifecycle Management (ALM) tools
+* An understanding of Agile Principles and how they're applied in workplace culture
+* Facilitation skills within teams and groups
+* Experience resolving issues at a team level
+* Good communication, team dynamics, conflict resolution, mentoring, and servant leadership skills
+* An understanding of technology systems Agile or similar methodologies such as LEAN, Kanban, XP Programming etc. preferred
+
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
