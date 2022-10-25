@@ -30,7 +30,7 @@ args = cmd.parse_args()
 # Get the file
 fname = args.file
 if not fname:
-    fname = os.path.join('.', 'sample', 'sample_data_eng_mgr.txt')
+    fname = os.path.join('.', 'sample', 'sample_remote_scrum_master.txt')
     print('No filename specified; using the sample file: ', fname)
 
 try:
@@ -115,14 +115,15 @@ for x in sk:
                 pk = 1
             l = l + 1
         if pk == 1:
-            print ('KEYWORD:  ', x, ' (' + str(sk[x]) + ' / ' + str(round(100-sig[c], 2)) + '%)')
+            print ('KEYWORD:  ', x, ' (' + str(round(100-sig[c], 2)) + '%)')
         
         l = 0   # line counter for lsig
         for z in sl:
             if z in keywords[x]:
                 if 100-lsig[l] > 79.99:
                     # If confidence on the line is reasonably high, print it
-                    print ('  * (' + str(round(100-lsig[l], 2)) + '%)', z)
+                    # print ('  * (' + str(round(100-lsig[l], 2)) + '%)', z)
+                    print ('  * (' + str(round(100-lsig[l], 2)) + '%)', excerpt(z.lower(), x, 3))
             l = l + 1
         print()
     c=c+1

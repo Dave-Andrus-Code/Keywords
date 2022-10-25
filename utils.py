@@ -9,13 +9,32 @@
 
 import numpy as np
 
+def excerpt (line, word, numwords):
+    s = line.split(' ')
+    try:
+        i = s.index(word) # find the keyword in the sentence
+    except:
+        i = s.index(word + 's') # find the plural keyword in the sentence
+    i = i - numwords    # start a few words before the keyword
+    excerpt = ''
+    for x in range(i, i+(numwords*2)+1):
+        try:
+            excerpt = excerpt + s[x] + ' '
+        except:
+            #  Nothing; this protects against subscript out of range
+            pass
+    return excerpt
+
+
 def strstrip (ostr):
-    #allowed = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz .,;:-_=+\'\"!@#$%^&*()'
+    # strip all the extraneous characters except what is allowed
+    # allowed = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz .,;:-_=+\'\"!@#$%^&*()'
     allowed = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz 1234567890-'
     strstrip = ''.join(l for l in ostr if l in allowed)
     return strstrip
 
 def normal_dist(x , mean , sd):
+    # Simple normal distribution formula
     prob_density = (np.pi*sd) * np.exp(-0.5*((x-mean)/sd)**2)
     return prob_density
 
