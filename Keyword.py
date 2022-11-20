@@ -30,7 +30,7 @@ args = cmd.parse_args()
 # Get the file
 fname = args.file
 if not fname:
-    fname = os.path.join('.', 'sample', 'sample_remote_scrum_master.txt')
+    fname = os.path.join('.', 'sample', 'sample_combined.txt')
     print('No filename specified; using the sample file: ', fname)
 
 try:
