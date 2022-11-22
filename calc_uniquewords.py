@@ -49,9 +49,26 @@ for x in wlsc_sorted.keys():
                 # remove the synonym
                 if y in wl_dict:
                     del wl_dict[y]
+                    print('Removing', y)
 
+# Write the uniquewords json.
 with open("uniquewords_english.json", 'w') as outfile:
     outfile.write(json.dumps(wl_dict))
+
+# Create a dictionary of the synonyms and the root words they represent
+syn_dict = {}
+for x in wl_dict:
+    for y in wl_dict[x]:
+        if len(y) > 0:
+            syn_dict[y] = str(x)
+            if y in syn_dict.keys():
+                print ('Duplicate: ', y, len(y), x)
+
+
+# Write the synonym json
+with open("synonymroots_english.json", 'w') as outfile:
+    outfile.write(json.dumps(syn_dict))
+
 
 #print (wl_dict)
 #print(wlsc_sorted)
